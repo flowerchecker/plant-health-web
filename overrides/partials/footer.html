@@ -1,0 +1,14 @@
+{# Minimal custom footer: keep copyright and optional links, remove 'Made with Material for MkDocs' #}
+<footer class="md-footer">
+  <div class="md-footer__inner md-grid">
+    <div class="md-footer__meta">
+      <p>&copy; {{ config.site_name }} {{ now().year }}</p>
+    </div>
+    <div class="md-footer__links">
+      {# Leave space for custom links if needed #}
+      {% if config.repo_url %}
+      <a href="{{ config.repo_url }}">Source</a>
+      {% endif %}
+    </div>
+  </div>
+</footer>
