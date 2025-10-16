@@ -14,21 +14,21 @@ Plant Health Web is a multilingual static website that documents plant diseases,
 
 Top-level files you'll care about:
 
-- `mkdocs.yml` — MkDocs configuration, including `mkdocs-static-i18n` settings
+- `mkdocs.yml` — MkDocs configuration (this repo uses `mkdocs-static-i18n` with a "suffix" docs structure)
 - `.gitlab-ci.yml` — CI configuration (builds the site and exposes `public/` for Pages)
 - `pyproject.toml` / `poetry.lock` — project metadata and dependencies
-- `docs/` — documentation source, organized per language (e.g. `docs/en/`, `docs/cs/`)
+- `docs/` — documentation source. This project uses filename suffixes to indicate locale (for example `index.en.md` and `index.cs.md`).
 
-Example docs layout (folder structure mode):
+Example docs layout (suffix mode used here):
 
 ```
 docs/
-├── en/
-│   ├── index.md
-│   └── ...
-└── cs/
-	├── index.md
-	└── ...
+├── index.en.md        # English homepage
+├── index.cs.md        # Czech homepage
+├── diseases/
+│   ├── dead-plant.md        # neutral/default content (used when no locale suffix)
+│   ├── dead-plant.en.md     # English translation
+│   └── dead-plant.cs.md     # Czech translation
 ```
 
 ## Quickstart (developer)
@@ -76,8 +76,9 @@ This will write a static site to `public/`, which is the folder GitLab Pages exp
 
 ## Adding content & languages
 
-- Add Markdown files under the appropriate language folder (e.g. `docs/en/` or `docs/cs/`).
-- To add a new language, create a new `docs/<lang>/` directory and add your pages. Then add the language entry to the `plugins.i18n.languages` list in `mkdocs.yml` (mark the default with `default: true`). See https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/ for examples.
+- This project uses the `docs_structure: suffix` mode from `mkdocs-static-i18n`. Name files with a language suffix to provide translations, for example `page.en.md` and `page.cs.md`.
+- You can keep a language-neutral source without suffix (e.g. `dead-plant.md`) which will be treated as the default/source content.
+- To add a new language, create translated files with the appropriate `.{locale}.md` suffix and add the language entry to the `plugins.i18n.languages` list in `mkdocs.yml` (mark the default with `default: true`). See https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/ for examples.
 
 ## Notes & troubleshooting
 
