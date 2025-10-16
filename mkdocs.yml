@@ -33,6 +33,12 @@ plugins:
           default: true
           build: true
           site_name: Plant Health Web (English)
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: Plant Health Web (Deutsch)
+          nav_translations:
+            Diseases: Krankheiten
         - locale: cs
           name: Čeština
           build: true
