@@ -1,0 +1,18 @@
+site_name: Plant Health Web
+site_url: https://gitlab.com/flowerchecker/plant-health-web/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        - locale: en
+          name: English
+        - locale: cs
+          name: Čeština

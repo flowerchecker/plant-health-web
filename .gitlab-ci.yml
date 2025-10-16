@@ -1,0 +1,10 @@
+pages:
+  image: python:3.9-slim
+  script:
+    - pip install mkdocs mkdocs-material mkdocs-static-i18n
+    - mkdocs build --clean
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
