@@ -2,7 +2,7 @@ pages:
   image: python:3.9-slim
   script:
     - pip install mkdocs mkdocs-material mkdocs-static-i18n
-    - mkdocs build --clean
+    - mkdocs build --clean -d public
   artifacts:
     paths:
       - public
