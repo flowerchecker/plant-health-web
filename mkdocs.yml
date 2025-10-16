@@ -1,15 +1,27 @@
 site_name: Plant Health Web
-site_url: https://gitlab.com/flowerchecker/plant-health-web/
+site_url: https://plant-health-web-4dd569.gitlab.io/
+repo_url: https://gitlab.com/flowerchecker/plant-health-web/
 
 theme:
   name: material
+  logo:
+    assets/logo.png
+  palette:
+    primary: black
+  extra:
+    generator: false
   features:
     - navigation.tabs
     - navigation.indexes
 
+nav:
+  - Diseases:
+    - diseases/dead-plant.md
+
 plugins:
   - search
   - i18n:
+      docs_structure: suffix
       languages:
         - locale: en
           name: English
@@ -18,3 +30,5 @@ plugins:
         - locale: cs
           name: Čeština
           build: true
+          nav_translations:
+            Diseases: Nemoci
