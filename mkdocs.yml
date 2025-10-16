@@ -33,7 +33,6 @@ plugins:
           default: true
           build: true
           site_name: Plant Health Web (English)
-          link: /en/
         - locale: cs
           name: Čeština
           build: true
