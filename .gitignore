@@ -11,6 +11,7 @@ venv/
 
 # MkDocs site output
 site/
+public/
 
 # Editor temp files
 .vscode/
