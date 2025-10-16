@@ -32,8 +32,11 @@ plugins:
           name: English
           default: true
           build: true
+          site_name: Plant Health Web (English)
+          link: /en/
         - locale: cs
           name: Čeština
           build: true
+          site_name: Plant Health Web (Čeština)
           nav_translations:
             Diseases: Nemoci
