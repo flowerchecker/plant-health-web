@@ -147,7 +147,7 @@ plugins:
           site_name: Plant Health Web (中文)
           nav_translations:
             Diseases: 疾病
-        - locale: zh-hant
+        - locale: zh-Hant
           name: 中文 (繁體)
           build: true
           site_name: Plant Health Web (中文 - 繁體)
