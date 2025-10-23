@@ -1,36 +1,27 @@
-**Co vidíte**  
-Listy i stonky jsou rovnoměrně hnědé, suché a křehké. Stonky se snadno lámou. Po **škrábacím testu** není vidět žádné zelené pletivo. Kořeny jsou černé/hnědé, duté nebo mazlavé a substrát v květináči zůstává dny mokrý, nebo naopak vodu odpuzuje.
+## mrtvá rostlina
+### Co pravděpodobně vidíte  
+Rostlina celkově uvadá, odumírá; listy jsou suché či rozbředlé, stonek dutý nebo rozpadávající se, kořeny černé/kašovité nebo zcela křehké.
 
-**Je skutečně mrtvá?**  
-Rostlina je mrtvá, když **už nikde nezůstalo živé pletivo** ve stoncích, pupenech ani kořenech. Příčinou bývá dlouhodobé podlévání, trvalé přemokření/zhnilé kořeny, teplotní extrémy nebo silné napadení škůdci/chorobami. To se liší od **klidového stavu** (u dřevin opadá listí, ale kambium a pupeny žijí).
+### Co to je
+Je to stav, kdy pletiva odumřela natolik, že už nedokážou regenerovat. Nejčastěji je to následek dlouhodobého přemokření (uhnívání kořenů), extrémního sucha, mrazu, horka či dlouhodobé tmě.
 
-**Rychlé potvrzení (proveďte 2–3 testy)**
+### Je to problém?
+Ano, obvykle nevratný. Někdy lze zachránit řízky ze zdravých částí, pokud ještě existují.
 
-- **Škrábací test (stonek/větvička):** Zelené a vlhké = živé; celé hnědé a suché = mrtvé.  
-- **Ohybový test:** Živé části se ohýbají; mrtvé se lámou.  
-- **Kontrola pupenů (dřeviny):** Tuhé, plné pupeny = živé; scvrklé/duté = mrtvé.  
-- **Kontrola kořenů (květináč):** Zdravé kořeny jsou pevné, bílé/světle hnědé a voní zeminou; mrtvé jsou černé/hnědé, kašovité/duté, často zapáchají.
+### Jak ověřit diagnózu
+- Zkontrolujte kořeny: živé jsou pevné a světlé, mrtvé tmavé, kašovité nebo duté.  
+- Seřízněte stonek: zelenobílý vlhký řez = živé pletivo; hnědý/tmavý = mrtvé.  
+- Zamyslete se nad posledními několika týdny péče (zalévání, teploty, světlo).
 
-**Co dělat**
+### Co udělat hned  
+- Pokud najdete **zdravé části**, odeberte řízky a zakořeňte je ve vodě nebo ve vzdušném substrátu.  
+- Zlikvidujte kontaminovaný substrát, květináč omyjte horkou vodou a mýdlem.  
+- Případně zvažte výsadbu nové rostliny do čerstvého, vzdušného půdního mixu s drenáží.
 
-- **Pokud je rostlina úplně mrtvá:**  
-    1. Rostlinu odstraňte. Půdu při podezření na hnilobu/škůdce **nekompostujte**.  
-    2. Květináč a nářadí omyjte (teplá voda se saponátem, poté 10 % bělidlo nebo 70 % alkohol).  
-    3. Zapište si pravděpodobnou příčinu, ať se situace neopakuje.  
-- **Pokud je rostlina částečně živá:**  
-    1. **Seřízněte** až na zelené, vlhké pletivo.  
-    2. **Oživte kořeny a přesaďte:** mrtvé kořeny odstraňte; použijte čistý květináč s odtokem a vhodný substrát.  
-    3. **Stabilizujte péči:** světlé rozptýlené světlo; zalévejte vydatně a nechte vrchních 2–4 cm proschnout (u sukulentů více). Hnojení až po novém růstu.  
-    4. **Prostředí:** střední vlhkost vzduchu a jemná cirkulace.
+### Prevence do budoucna
+- Režim „vlhko → částečně proschnout“ (ne trvale zamokřený substrát), používejte květináč s odtokem.  
+- Váhový test: lehký květináč = čas zalít, těžký = počkat.  
+- Umístěte rostlinu na odpovídající světlo a chraňte před extrémy teplot.
 
-**Pravděpodobné příčiny a prevence**
-
-- **Nedostatečná zálivka/hydrofobní substrát:** Kořeny vysychají; substrát může vodu odpuzovat. *Prevence:* rehydratace spodní zálivkou; zalévat, až trochu odtéká.  
-- **Přemokření/zhnilé kořeny:** Kořeny se dusí v trvale mokrém substrátu. *Prevence:* drenážní otvory; správný substrát; zalévat podle potřeby, ne podle plánu.  
-- **Horko/chlad, slunce/mráz:** Pletiva hynou vlivem extrémů. *Prevence:* nevystavovat rozžhavenému sklu; rostlinu zvykat na slunce; chránit před mrazem/průvanem.  
-- **Škůdci/choroby:** Silná ztráta mízy nebo poškození cév. *Prevence:* nové rostliny v karanténě; kontrola spodní strany listů; včasná a opakovaná aplikace přípravků.
-
-**Kdy není třeba nic dělat**  
-Opadavé dřeviny mohou v zimě vypadat „mrtvě“, ale žijí. Než rostlinu vyhodíte, udělejte škrábací/ohybový test a kontrolu pupenů.
-
-> **Tip:** U dřevin se k pupenům **za 3–7 dní** vraťte. Náběh (zvětšení) pupenů = rostlina žije.
+### Časté záměny**
+- **Zimní klid** vs. smrt: v klidu rostlina zpravidla drží pevné kořeny a dřevo zůstává zelené pod kůrou. Při pochybnostech prověřte řezem a kořeny.

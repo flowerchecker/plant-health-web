@@ -1,37 +1,43 @@
+## dead plant
+
 **What you’re seeing**  
-Leaves and stems are uniformly brown, dry, and brittle. Stems snap cleanly. A light scrape shows no green tissue. Roots are black/brown, hollow or slimy, and the potting mix either stays wet for days or repels water.
+Complete collapse of stems or rosette, leaves brittle or mushy, no new growth for weeks. Stems snap easily or are hollow and dry; roots are either entirely mushy/detached or dry like straw.
 
-**Is it really dead?**  
-A plant is dead when **no living tissue** remains in stems, buds, or roots. This may follow chronic underwatering, prolonged waterlogging/root rot, temperature extremes, or severe pest/disease damage. It’s different from **dormancy** (woody plants may drop leaves but keep live buds and cambium).
+**What it is**  
+A plant that has fully lost living tissue above and (often) below the soil line. This can follow extended drought, severe overwatering and rot, frost, heat waves, or long-term neglect.
 
-**Quick confirmations (do 2–3 tests)** 
+**Is action needed?**  
+If no living tissue remains, revival isn’t possible. Focus on confirming the status and salvaging pots, soil-free tools, and any viable cuttings if present.
 
-- **Scratch test (stem/branch):** Green and moist = alive; tan/brown and dry all through = dead.  
-- **Bend test:** Live stems flex; dead ones snap.  
-- **Bud/eye check (woody):** Firm, plump buds = alive; shriveled/hollow = dead.  
-- **Root check (potted):** Healthy roots are firm, white/tan with an earthy smell; dead roots are black/brown, mushy/hollow, often foul-smelling.
+**How to confirm**  
+- **Scratch test (woody stems):** Lightly scrape bark. **Green and moist = alive;** tan/brown and dry = dead.  
+- **Crown/rosette check:** Gently pry the central crown. If it detaches with foul smell or is powder-dry and hollow, the growing point is gone.  
+- **Root inspection:** Healthy roots are firm and white/tan. **All** roots dark, mushy, or crisp and hollow suggests no recovery.  
+- **Wait window:** If conditions are good and there’s zero new growth for **6–8 weeks** in the growing season, treat as non-viable.
 
-**What to do**
+**What to do**  
+1. **Stop watering and pruning attempts**. Further handling can spread rot and wastes effort.  
+2. **Unpot and inspect.** If you find **any** firm white tips or green nodes, you can attempt rescue (see below). If none, move to cleanup.  
+3. **Rescue, if tissue is alive:**  
+   - Trim to healthy tissue with sterilized shears.  
+   - Repot in fresh, well-draining mix.  
+   - Water lightly once; then allow partial dry-back.  
+   - Provide **bright, indirect light** and stable warmth (68–77°F / 20–25°C).  
+4. **If no living tissue:**  
+   - **Dispose** of the plant responsibly (trash/compost if disease-free).  
+   - **Do not reuse old potting mix.** Pathogens and salt buildup linger.  
+   - **Wash pot and tools** with soap + hot water; optionally disinfect (1:10 bleach solution, rinse well).  
+5. **Reflect on the likely cause** (see Prevention) to succeed next time.
 
-- **If fully dead:**
-    1. Remove plant. **Do not compost** soil if rot or pests are suspected.
-    2. Clean pot and tools (warm soapy water, then 10% bleach or 70% alcohol).
-    3. Note the likely cause to prevent repeats (see below).
+**Prevention tips**  
+- Match watering to pot size and mix: small pots dry fast; big pots with dense mix stay wet.  
+- Use **drainage holes** and fast-draining media for indoor plants.  
+- Keep plants within their light and temperature range; avoid drafts and heat blasts.  
+- **Check moisture before watering** (finger 2–3 in / 5–7 cm deep or a moisture meter).  
+- Repot yearly or when mix breaks down.
 
-- **If partially alive:**  
-    1. **Prune** back to green, moist tissue.  
-    2. **Refresh roots & repot:** remove dead roots; use a clean pot with drainage and a mix suited to the plant.  
-    3. **Stabilize care:** bright, indirect light; water thoroughly, then let the top 2–4 cm dry (more for succulents). Hold fertilizer until new growth.  
-    4. **Environment:** moderate humidity and gentle air circulation.
+**Related look-alikes to rule out**  
+- Temporary dormancy (some bulbs, cacti): mark the calendar; many resume growth seasonally.  
+- Severe dieback with a **still-living crown or rhizome**—do the scratch/root test before giving up.
 
-**Likely causes & how to prevent them**
-  
-- **Underwatering/hydrophobic mix:** Roots desiccate; soil may repel water. *Prevention:* rehydrate by bottom-watering; water until a little drains out.  
-- **Overwatering/root rot:** Roots suffocate in constantly wet mix. *Prevention:* drainage holes; right potting mix; water to need, not schedule.  
-- **Heat/cold, sun/frost:** Tissues die from extremes. *Prevention:* avoid hot glass; acclimate to sun; protect from frost/drafts.  
-- **Pests/diseases:** Severe sap loss or vascular damage. *Prevention:* quarantine new plants; inspect undersides; treat early and repeat as directed.
-
-**When no action is needed**  
-Deciduous woody plants in winter may look bare yet be alive. Do scratch/bud tests before discarding.
-
-> **Tip:** For woodies, re-check buds in **3–7 days**. Swelling buds = still alive.
+---
