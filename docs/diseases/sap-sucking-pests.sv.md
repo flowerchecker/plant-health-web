@@ -1,4 +1,4 @@
-# Sugande insekter
+# sugande insekter
 
 ## Det du ser
 Små punkteringar, bleka prickar eller silvriga bladytor. Klibbig beläggning (honungsdagg) och svarta prickar (sotdagg) kan förekomma. Ibland syns djuren: bladlöss, trips, spinnkvalster, vita flygare, ullöss.

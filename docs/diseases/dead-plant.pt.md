@@ -1,4 +1,4 @@
-# Planta morta
+# planta morta
 
 ## O que você está vendo
 Folhas e caules totalmente secos, ocos ou escurecidos, sem qualquer brotação. O caule quebra com facilidade; o substrato pode estar ressecado por longos períodos ou, no extremo oposto, apresentar odor de mofo por encharcamento.

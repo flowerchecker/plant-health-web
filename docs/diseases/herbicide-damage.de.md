@@ -1,4 +1,4 @@
-# Herbizidschäden
+# herbizidschäden
 
 ## Was Sie beobachten
 Verkrüppelte, **verkorkte** oder löffelartige Blätter, verzerrter Wuchs, häufig nach Gartenarbeiten in der Umgebung. Möglicherweise wahrnehmbarer Spritzmittelgeruch in der Außenluft.

@@ -1,4 +1,4 @@
-# Emerging leaf
+# emerging leaf
 
 ## What you’re seeing
 A pale, soft, rolled, or oddly colored leaf pushing out from the center/crown or along a vine. It may look crinkled, thin, or striped before it expands and deepens in color.

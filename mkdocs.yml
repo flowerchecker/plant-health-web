@@ -22,7 +22,7 @@ theme:
 
 nav:
   - Diseases:
-    - index.en.md
+    - index.md
     - diseases/dead-plant.md
     - diseases/dry-air.md
     - diseases/emerging-leaf.md
@@ -68,7 +68,7 @@ plugins:
           build: true
           site_name: Plant Health Web (Čeština)
           nav_translations:
-            Diseases: Nemoci
+            Diseases: Choroby
         - locale: ar
           name: العربية
           build: true

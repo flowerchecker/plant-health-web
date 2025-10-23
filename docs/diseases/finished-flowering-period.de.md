@@ -1,4 +1,4 @@
-# Ende der Blütezeit
+# ende der Blütezeit
 
 ## Was Sie beobachten
 Blüten welken und fallen ab, die Stiele trocknen ein, die Pflanze wirkt „langsamer“, die Belaubung bleibt gesund.
