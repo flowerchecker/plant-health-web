@@ -1,4 +1,4 @@
-## sunburn
+# sunburn
 
 **What you’re seeing**  
 Bleached, paper-thin spots or broad patches on leaves exposed to direct sun through glass or outdoors; often tan/white with crisp edges. Adjacent shaded areas stay normal.

@@ -1,4 +1,5 @@
 # oparzelizna słoneczna
+
 **Co widzisz**  
 Białawe/słomkowe plamy, które później brązowieją; często na liściach lub owocach po nagłej, silnej ekspozycji na słońce.
 

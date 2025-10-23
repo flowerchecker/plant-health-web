@@ -1,4 +1,5 @@
-## mrtvá rostlina
+# mrtvá rostlina
+
 ### Co pravděpodobně vidíte  
 Rostlina celkově uvadá, odumírá; listy jsou suché či rozbředlé, stonek dutý nebo rozpadávající se, kořeny černé/kašovité nebo zcela křehké.
 

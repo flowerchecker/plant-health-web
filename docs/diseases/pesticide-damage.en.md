@@ -1,4 +1,4 @@
-## pesticide damage
+# pesticide damage
 
 **What you’re seeing**  
 Leaf margins or patches turn bronze, gray, or scorched shortly after using a spray or drench. New growth may emerge twisted or stunted. Sensitive species show speckled burn where droplets landed.

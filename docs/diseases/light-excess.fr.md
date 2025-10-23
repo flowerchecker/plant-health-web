@@ -1,4 +1,5 @@
-## excédent de lumière
+# excédent de lumière
+
 ### Ce que vous observez
 Feuilles décolorées (blanchies), taches sèches brunes ou « papier », surtout du côté exposé, croissance ralentie en plein été.
 

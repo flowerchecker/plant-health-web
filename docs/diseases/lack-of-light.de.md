@@ -1,4 +1,5 @@
 # Lichtmangel
+
 **Was Sie beobachten**  
 Langtriebigkeit (lange Internodien), nach vorn geneigte Pflanzen, kleine blasse Blätter, ausbleibende Blüte.
 

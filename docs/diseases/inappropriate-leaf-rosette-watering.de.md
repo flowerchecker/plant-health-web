@@ -1,4 +1,5 @@
 # ungeeignetes Gießen in die Blattrosette
+
 **Was Sie beobachten**  
 In kompakten Blattrosetten sammelt sich Wasser; das Zentrum wird braun oder weich, teilweise mit Fäulnisgeruch.
 

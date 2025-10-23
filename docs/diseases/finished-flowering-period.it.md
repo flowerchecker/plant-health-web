@@ -1,4 +1,4 @@
-## fine del periodo del fiore
+# fine del periodo del fiore
 
 **Cosa stai osservando**  
 Fiori che appassiscono e cadono; pianta verde ma senza nuovi boccioli per un periodo.

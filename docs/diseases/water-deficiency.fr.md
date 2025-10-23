@@ -1,4 +1,5 @@
-## arrosage insuffisant
+# arrosage insuffisant
+
 ### Ce que vous observez
 Feuilles pendantes, molles, terre sèche qui se rétracte des bords du pot, pot très léger, bords brunis sur certaines espèces.
 

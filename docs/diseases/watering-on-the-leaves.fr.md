@@ -1,4 +1,5 @@
-## arrosage sur les feuilles
+# arrosage sur les feuilles
+
 ### Ce que vous observez
 Traces de gouttes, petites marques rondes brunes après brumisation, surtout si la plante est en plein soleil ou près d’une lampe.
 

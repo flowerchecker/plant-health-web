@@ -1,4 +1,5 @@
 # överskott av ljus
+
 **Det du ser**  
 Blekta blad, spröda kanter och bruna fläckar i mönster efter solstrålar. Plantan ser “solblekt” ut.
 

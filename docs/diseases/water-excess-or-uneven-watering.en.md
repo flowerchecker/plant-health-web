@@ -1,4 +1,4 @@
-## water excess or uneven watering
+# water excess or uneven watering
 
 **What you’re seeing**  
 Droopy, yellowing lower leaves, soggy soil, fungus gnat activity, or edema blisters. Pot feels heavy for days; growth slows. Intermittent cycles of very wet then very dry also show up as leaf drop or brown tips.

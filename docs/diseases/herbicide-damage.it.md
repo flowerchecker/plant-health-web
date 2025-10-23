@@ -1,4 +1,4 @@
-## danni causati da erbicidi
+# danni causati da erbicidi
 
 **Cosa stai osservando**  
 Foglie deformate/arricciate con venature contorte, crescita stentata, clorosi e necrosi a chiazze. Spesso compaiono su più piante dopo lavori in giardino o vicino a prati trattati.

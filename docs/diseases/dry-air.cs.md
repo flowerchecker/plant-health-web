@@ -1,4 +1,4 @@
-## suchý vzduch
+# suchý vzduch
 
 ### Co pravděpodobně vidíte
 Hnědé a suché špičky či okraje listů, svinování listů, opad poupat. Problémy se zhoršují v topné sezóně a v blízkosti radiátorů či horkého proudění vzduchu.

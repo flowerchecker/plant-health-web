@@ -1,4 +1,4 @@
-## carenza di sostanze nutritive
+# carenza di sostanze nutritive
 
 **Cosa stai osservando**  
 Crescita lenta, ingiallimenti con schemi specifici (uniformi o tra le nervature), fioriture scarse; talvolta ingiallimento prima sulle foglie vecchie, talvolta sulle giovani.

@@ -1,4 +1,5 @@
-## air sec
+# air sec
+
 ### Ce que vous observez
 Pointes brunes et bords des feuilles qui sèchent, feuilles fines qui s’enroulent, floraisons de courte durée. Le phénomène s’accentue l’hiver avec le chauffage.
 

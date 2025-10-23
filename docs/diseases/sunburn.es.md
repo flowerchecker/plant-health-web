@@ -1,4 +1,5 @@
 # quemadura solar
+
 **Qué estás viendo**  
 Hojas con áreas pardas y secas, a menudo en el lado soleado; puede haber límite nítido entre tejido sano y quemado.
 

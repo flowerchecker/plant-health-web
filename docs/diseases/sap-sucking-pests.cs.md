@@ -1,4 +1,4 @@
-## savý hmyz
+# savý hmyz
 
 ### Co pravděpodobně vidíte
 Lepkavé listy (medovice), žloutnutí, zasychání, deformace nových výhonů. Na spodku listů bývají kolonie mšic, červců či puklic; na lepových deskách se objevují molice nebo třásněnky. Na medovici se může tvořit **sazovitá čerň**.

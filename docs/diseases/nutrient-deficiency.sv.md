@@ -1,4 +1,5 @@
 # brist på näringsämnen.
+
 **Det du ser**  
 Bleka blad, gula nerver eller jämn gulning, svag tillväxt och små blad. Vissa arter får rödaktiga stjälkar.
 

@@ -1,4 +1,5 @@
 # fazla ışık
+
 ## Ne Gözlüyorsunuz
 Yapraklarda solgunluk, açık sarı alanlar; güneş alan yüzlerde kahverengi yanık lekeleri; yapraklar sertleşip kenarlardan kıvrılabilir.
 

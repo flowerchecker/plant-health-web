@@ -1,4 +1,5 @@
 # böceklerin neden olduğu beslenme hasarı
+
 ## Ne Gözlüyorsunuz
 Yapraklarda düzensiz delikler ve oyuklar; kenarlarda tırtıklanma; genç sürgün uçlarının yenmiş görünmesi. Gece daha belirgin olabilir.
 

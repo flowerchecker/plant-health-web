@@ -1,4 +1,5 @@
-## fim do período de floração
+# fim do período de floração
+
 **O que você está vendo**  
 Queda de flores, hastes secando, redução de botões; algumas folhas podem amarelar levemente após a floração.
 

@@ -1,4 +1,5 @@
 # übermäßiges Licht
+
 **Was Sie beobachten**  
 Gebleichte, gelblich-weiße Blattpartien ohne tiefe Nekrosen; sehr harte Schattengrenzen am Standort; Blattspitzen können bräunen.
 

@@ -1,4 +1,5 @@
 # ışık veya ısı kaynağı hasarı
+
 ## Ne Gözlüyorsunuz
 Yaprak uçlarında kuruma; cam/ısıtıcıya değen yüzeylerde kahverengi/yanık lekeleri; lambaya çok yakın yapraklarda solma/kuruma.
 

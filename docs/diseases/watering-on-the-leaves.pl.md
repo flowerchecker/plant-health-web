@@ -1,4 +1,5 @@
 # polewanie liści
+
 **Co widzisz**  
 Plamy po wodzie, prześwity, a nawet „soczewkowe” przypalenia po zraszaniu w pełnym słońcu lub w chłodzie.
 

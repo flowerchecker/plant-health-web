@@ -1,4 +1,4 @@
-## feeding damage by insects
+# feeding damage by insects
 
 **What you’re seeing**  
 Irregular holes, chewed edges, missing chunks, or ragged leaves; sometimes frass (insect droppings), webbing, or slime trails.

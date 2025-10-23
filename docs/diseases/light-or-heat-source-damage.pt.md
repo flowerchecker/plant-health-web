@@ -1,4 +1,5 @@
-## dano por luz ou calor
+# dano por luz ou calor
+
 **O que você está vendo**  
 Folhas secas ou deformadas no lado voltado para **lâmpada, aquecedor, forno, computador**. Solo seca rápido.
 

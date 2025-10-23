@@ -1,4 +1,4 @@
-## eccesso di luce
+# eccesso di luce
 
 **Cosa stai osservando**  
 Aree sbiadite/biancastre, foglie “lavate”; in seguito macchie giallo-brune secche dopo esposizione a sole intenso o lampade ravvicinate.

@@ -1,4 +1,5 @@
 # skador av ljus eller värme
+
 **Det du ser**  
 Bruna fläckar på sidan närmast en lampa/radiator, uttorkade bladspetsar eller “kokta” partier under en het LED/HPS. Blad kan kännas varma vid beröring.
 

@@ -1,4 +1,5 @@
 # Nährstoffmangel
+
 **Was Sie beobachten**  
 Gelbverfärbungen (oft zwischen den Adern), kleineres Blattwerk, verlangsamtes Wachstum. Je nach Nährstoff sind alte oder junge Blätter stärker betroffen.
 

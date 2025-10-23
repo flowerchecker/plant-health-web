@@ -1,4 +1,5 @@
 # Schäden durch Licht oder Hitze
+
 **Was Sie beobachten**  
 Trockene, gebleichte oder versengte Bereiche auf der **Lampenseite**; gekräuselte Ränder oder Blattrollen in Heizkörpernähe.
 

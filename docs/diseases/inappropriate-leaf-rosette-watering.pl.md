@@ -1,4 +1,5 @@
 # niewłaściwe podlewanie w rozetę liściową
+
 **Co widzisz**  
 Zacieki i gnicie u nasady liści u roślin rozetowych (np. fiołki, bromelie), gdy woda stoi w rozecie.
 

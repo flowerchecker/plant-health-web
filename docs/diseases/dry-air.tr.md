@@ -1,4 +1,5 @@
 # kuru hava
+
 ## Ne Gözlüyorsunuz
 Yaprak uçlarında/kıyılarında kuruma, kahverengi yanık hattı, kıvrılma; çiçek saplarında erken kuruma. Özellikle kışın, ısıtma mevsiminde belirginleşir.
 

@@ -1,4 +1,5 @@
-## manque de nutriments
+# manque de nutriments
+
 ### Ce que vous observez
 Feuilles pâles (chlorose), jaunissement entre nervures, croissance lente, floraison pauvre. Certains motifs orientent (jaunissement des vieilles feuilles = azote ; jeunes feuilles pâles = fer, etc.).
 

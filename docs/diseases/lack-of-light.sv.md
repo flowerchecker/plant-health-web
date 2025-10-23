@@ -1,4 +1,5 @@
 # brist på ljus
+
 **Det du ser**  
 Lång, gänglig tillväxt, stort avstånd mellan blad, blek färg och små nya blad. Växten sträcker sig mot fönstret.
 

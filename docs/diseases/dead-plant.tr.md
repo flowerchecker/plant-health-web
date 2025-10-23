@@ -1,4 +1,5 @@
 # ölü bitki
+
 ## Ne Gözlüyorsunuz
 Bitki tamamen kahverengiye dönmüş, yapraklar kuru ve gevrek; gövde yumuşamış ya da içi boş; yeni sürgün veya tomurcuk yok. Sulayınca bile toparlanmıyor.
 

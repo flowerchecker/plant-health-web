@@ -1,4 +1,5 @@
 # hoja emergente
+
 **Qué estás viendo**  
 Hojas nuevas pequeñas, plegadas y más claras o rojizas; bordes suaves que se endurecen con el tiempo.
 

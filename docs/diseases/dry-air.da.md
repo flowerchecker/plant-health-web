@@ -1,4 +1,4 @@
-## tør luft
+# tør luft
 
 ### Hvad du ser
 Sprøde, brune bladkanter eller -spidser, især på tropiske planter. Blade kan krølle let ind og føles papiragtige. Jorden tørrer hurtigt ud, og luft i rummet føles tør (fx i fyringssæsonen).

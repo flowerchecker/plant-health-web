@@ -1,4 +1,5 @@
 # Gießen auf die Blätter
+
 **Was Sie beobachten**  
 Runde Wasserflecken oder Ränder auf Blättern nach Gießen/Sprühen; bei dauerhafter Blattnässe in Kälte/Schattigkeit gelegentlich Pilzflecken.
 

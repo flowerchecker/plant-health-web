@@ -1,4 +1,4 @@
-## herbicide damage
+# herbicide damage
 
 **What you’re seeing**  
 New growth twists, cups, or “fern-fronds”; leaves may narrow, with distorted veins. Symptoms often appear days to weeks after lawn/weed killer use nearby or after using contaminated compost/mulch.

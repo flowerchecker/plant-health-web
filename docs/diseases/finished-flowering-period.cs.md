@@ -1,4 +1,4 @@
-## konec doby květu
+# konec doby květu
 
 ### Co pravděpodobně vidíte
 Květy **vadnou, blednou a opadávají**. U orchidejí zůstává květní stvol, který může znovu obrazit.

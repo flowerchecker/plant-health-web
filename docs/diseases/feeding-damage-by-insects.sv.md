@@ -1,4 +1,5 @@
 # skador orsakade av rovinsekter
+
 **Det du ser**  
 Oregelbundna hål, tuggade bladkanter, “fönster” i blad och små svarta prickar (spillning). Skador kan uppstå “över en natt” när nattaktiva djur varit framme.
 

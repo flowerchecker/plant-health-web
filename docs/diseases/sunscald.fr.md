@@ -1,4 +1,5 @@
-## brûlure solaire
+# brûlure solaire
+
 ### Ce que vous observez
 Zones pâles/blanchâtres puis brunies, souvent nettes, sur la face exposée au soleil intense ; parfois sur tiges/écorces jeunes ou fruits.
 

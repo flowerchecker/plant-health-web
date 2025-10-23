@@ -1,4 +1,5 @@
-## manque de lumière
+# manque de lumière
+
 ### Ce que vous observez
 Tiges allongées (étiolement), feuilles petites et pâles, absence de floraison, feuilles qui s’orientent vers la fenêtre.
 

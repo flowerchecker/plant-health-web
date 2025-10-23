@@ -1,4 +1,5 @@
 # exceso de luz
+
 **Qué estás viendo**  
 Manchas blanqueadas o marrón claro en zonas muy expuestas; bordes quemados; hojas que se curvan para reducir superficie.
 

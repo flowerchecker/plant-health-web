@@ -1,4 +1,5 @@
 # solskador
+
 **Det du ser**  
 Ljusa, nästan vita fläckar som senare blir papperstunna/bruna, ofta på en sida av plantan efter en mycket solig dag.
 

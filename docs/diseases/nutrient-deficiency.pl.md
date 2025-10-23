@@ -1,4 +1,5 @@
 # niedobór składników odżywczych
+
 **Co widzisz**  
 Chloroza między nerwami, płowienie, drobniejsze liście i słabszy wzrost. U różnych składników objawy pojawiają się na różnych liściach (starszych vs młodszych).
 

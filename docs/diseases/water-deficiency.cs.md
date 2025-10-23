@@ -1,4 +1,4 @@
-## nedostatatečná zálivka
+# nedostatatečná zálivka
 
 ### Co pravděpodobně vidíte
 Povadlé listy, suché okraje a špičky. Substrát je tvrdý, lehký a často se **odtahuje od stěn** květináče. Rostlina po zálivce rychle „ožije“.

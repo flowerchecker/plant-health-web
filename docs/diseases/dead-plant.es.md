@@ -1,4 +1,5 @@
 # planta muerta
+
 **Qué estás viendo**  
 Hojas totalmente marrones o negras; tallos blandos, huecos o quebradizos; ausencia de brotes nuevos durante semanas. El sustrato puede oler a podrido (exceso de agua) o estar muy seco y duro (falta de agua).
 

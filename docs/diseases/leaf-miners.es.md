@@ -1,4 +1,5 @@
 # insectos que pasan
+
 **Qué estás viendo**  
 Hojas con galerías serpenteantes traslúcidas o líneas claras; los bordes de la galería se tornan marrones al secar.
 

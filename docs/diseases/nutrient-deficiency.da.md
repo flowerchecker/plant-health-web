@@ -1,4 +1,4 @@
-## mangel på næringsstoffer
+# mangel på næringsstoffer
 
 ### Hvad du ser
 Generel bleghed/gulning (klorose), langsom vækst, små blade og svag blomstring. Vener kan forblive grønne ved visse mangler (fx jern/magnesium).

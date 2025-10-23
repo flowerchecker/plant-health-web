@@ -1,4 +1,5 @@
-## dommages dus aux pesticides
+# dommages dus aux pesticides
+
 ### Ce que vous observez
 Taches diffuses, brûlures ou déformations apparues 1–3 jours après l’application d’un produit (savon, huile, fongicide/insecticide, purins concentrés).
 

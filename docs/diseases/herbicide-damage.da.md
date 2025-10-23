@@ -1,4 +1,4 @@
-## herbicidskade
+# herbicidskade
 
 ### Hvad du ser
 Plettet, forvrænget vækst eller “bølgepap”-blade efter brug af ukrudtsmiddel i nærheden. Indendørs ses det sjældnere, men kan ske via luftdrift eller kontamineret udstyr fra haven.

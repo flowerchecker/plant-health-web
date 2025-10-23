@@ -1,4 +1,5 @@
 # uszkodzenia przez światło lub ciepło
+
 **Co widzisz**  
 Plamy, wybielenia lub zaschnięcia po stronie zwróconej do lampy/kaloryfera; liście mogą wyglądać jak „ugotowane” przy gorącym nawiewie.
 

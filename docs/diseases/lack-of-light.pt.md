@@ -1,4 +1,5 @@
-## insuficiencia de luz
+# insuficiencia de luz
+
 **O que você está vendo**  
 Crescimento lento, entrenós longos, folhas pequenas e pálidas, planta inclinando para a janela.
 

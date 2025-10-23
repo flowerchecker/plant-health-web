@@ -1,4 +1,5 @@
-## excédent d’eau ou arrosage non uniforme
+# excédent d’eau ou arrosage non uniforme
+
 ### Ce que vous observez
 Feuilles jaunes qui tombent, tiges molles malgré un substrat humide, odeur de terre « moisie », présence possible de moucherons du terreau. Parfois alternance de soif et de détrempe.
 

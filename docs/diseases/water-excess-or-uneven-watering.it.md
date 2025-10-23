@@ -1,4 +1,4 @@
-## eccesso di acqua o irrigazione non omogenea
+# eccesso di acqua o irrigazione non omogenea
 
 **Cosa stai osservando**  
 Ingiallimenti diffusi, foglie molli che cadono al semplice tocco, odore di “terriccio acido”, macchie scure idropiche; crescita ferma nonostante vaso costantemente bagnato.

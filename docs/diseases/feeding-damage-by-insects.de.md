@@ -1,4 +1,5 @@
 # durch Insektenfraß verursachte Schäden
+
 **Was Sie beobachten**  
 Unregelmäßige Fraßlöcher, angeknabberte Blattränder, gelegentlich kleine Kotkrümel oder Schleimspuren. Schäden entstehen oft über Nacht.
 

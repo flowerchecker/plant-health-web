@@ -1,4 +1,4 @@
-## nedostatek živin
+# nedostatek živin
 
 ### Co pravděpodobně vidíte
 Žloutnutí mezi žilnatinou (**chloróza**), bledé nové listy, červenání stonků, slabý růst. Vzor se liší podle chybějícího prvku (N, P, K, Mg, Fe aj.).

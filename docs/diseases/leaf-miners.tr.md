@@ -1,4 +1,5 @@
 # yaprak kurdu
+
 ## Ne Gözlüyorsunuz
 Yapraklarda kıvrımlı, saydam **galeriler** (tüneller); yaprak dokusu içinde ilerleyen zikzak yollar. Estetik kayıp ve yaprak dökümü görülebilir.
 

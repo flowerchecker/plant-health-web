@@ -1,4 +1,5 @@
 # Sonnennekrose
+
 **Was Sie beobachten**  
 Helle, später braune **Flecken** auf der sonnenzugewandten Seite, oft kurz nach plötzlichem Umstellen in sehr **intensive Sonne** oder nach Hitzewellen; Gewebe wirkt teils „gekocht“/wässrig, bevor es eintrocknet.
 

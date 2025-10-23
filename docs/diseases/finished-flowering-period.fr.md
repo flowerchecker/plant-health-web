@@ -1,4 +1,5 @@
-## fin du temps de floraison
+# fin du temps de floraison
+
 ### Ce que vous observez
 Les fleurs fanent, les tiges florales sèchent, parfois la plante concentre son énergie sur les feuilles ou entre en repos.
 

@@ -1,4 +1,5 @@
 # niewystarczające podlewanie
+
 **Co widzisz**  
 Liście wiotkie, roślina zwiesza pędy; podłoże jest wyraźnie suche i lekkie. Brzegi liści mogą brązowieć.
 

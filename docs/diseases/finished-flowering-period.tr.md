@@ -1,4 +1,5 @@
 # çiçeklenme dönemi sona ermiş
+
 ## Ne Gözlüyorsunuz
 Çiçekler soluyor, renkleri matlaşıyor ve taç yaprakları dökülüyor; tomurcuk kalmıyor. Bitki yeni yaprak ve yan dallara yöneliyor.
 

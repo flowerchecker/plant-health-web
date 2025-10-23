@@ -1,4 +1,5 @@
-## arrosage inapproprié dans la rosette foliaire
+# arrosage inapproprié dans la rosette foliaire
+
 ### Ce que vous observez
 Cœur d’une rosette mou, brun/noir, parfois malodorant ; feuilles du centre qui se détachent facilement.
 

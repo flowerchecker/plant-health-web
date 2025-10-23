@@ -1,4 +1,5 @@
-## endommagement par la lumière ou la chaleur
+# endommagement par la lumière ou la chaleur
+
 ### Ce que vous observez
 Feuilles grillées ou desséchées **du côté d’une lampe** ou **d’un radiateur**, feuilles croustillantes, bords noircis, substrat qui sèche en quelques heures.
 

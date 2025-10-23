@@ -1,4 +1,5 @@
 # Wurzelschäden
+
 **Was Sie beobachten**  
 Plötzliche Welke trotz feuchter Erde, Wachstumsstopp, lockerer Halt im Topf. Beim Austopfen zeigen sich **matschige** oder stark gekürzte Wurzeln.
 

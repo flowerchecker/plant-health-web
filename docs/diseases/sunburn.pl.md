@@ -1,4 +1,5 @@
 # oparzenia słoneczne
+
 **Co widzisz**  
 Białe, a potem brązowe plamy na powierzchni liści wystawionej do słońca; brzegi mogą wyglądać jak „spalone”.
 

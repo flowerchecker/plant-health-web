@@ -1,4 +1,4 @@
-## aria secca
+# aria secca
 
 **Cosa stai osservando**  
 Punte fogliari secche, bordi croccanti, arricciamento verso l’interno; terreno che asciuga velocemente. Più evidente d’inverno con riscaldamento acceso.

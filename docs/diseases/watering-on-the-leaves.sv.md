@@ -1,4 +1,5 @@
 # vattning på bladen
+
 **Det du ser**  
 Små runda ljusare fläckar efter att vatten droppat på blad, särskilt i soligt läge. Ibland ses torkränder efter sprut.
 

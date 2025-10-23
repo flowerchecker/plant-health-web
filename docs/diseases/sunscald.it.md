@@ -1,4 +1,4 @@
-## colpo di sole
+# colpo di sole
 
 **Cosa stai osservando**  
 Aree pallide/biancastre che diventano cartacee e poi marroni; sui fusti giovani restano cicatrici chiare. Danno apparso dopo poche ore di sole intenso.

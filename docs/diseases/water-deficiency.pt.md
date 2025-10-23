@@ -1,4 +1,5 @@
-## rega insuficiente
+# rega insuficiente
+
 **O que você está vendo**  
 Murcha flácida, folhas caídas, solo muito **seco** e vaso **leve**. A planta pode reagir após rega, mas volta a murchar rapidamente.
 

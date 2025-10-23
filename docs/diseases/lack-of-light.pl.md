@@ -1,4 +1,5 @@
 # niedobór światła
+
 **Co widzisz**  
 Bladość, wydłużone międzywęźla, powolny wzrost, pędy wyginają się w stronę okna.
 

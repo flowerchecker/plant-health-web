@@ -1,4 +1,5 @@
 # pozostałości po oprysku (wodzie)
+
 **Co widzisz**  
 Matowe białe/szare plamki po wyschnięciu wody na liściach, szczególnie po zraszaniu.
 

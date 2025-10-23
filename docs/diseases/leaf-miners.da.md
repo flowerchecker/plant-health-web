@@ -1,4 +1,4 @@
-## minérfluer
+# minérfluer
 
 ### Hvad du ser
 Lange, snoede “miner” (lyse gange) inde i bladet; senere bliver gangene brune og kan tørre ud. Små sorte fluer kan ses omkring planten eller vinduet.

@@ -1,4 +1,5 @@
-## dégâts racinaires
+# dégâts racinaires
+
 ### Ce que vous observez
 Flétrissement persistant malgré l’arrosage, croissance stoppée, feuilles qui jaunissent, parfois chute soudaine. À l’extraction, les racines paraissent brunes ou sectionnées.
 

@@ -1,4 +1,5 @@
 # yeni çıkan yaprak
+
 ## Ne Gözlüyorsunuz
 Yeni yapraklar sarımsı/açık renkli, katlanmış veya tüylü görünümlü; zamanla genişleyip koyulaşır. Uç kısımlar hassas ve yumuşaktır.
 

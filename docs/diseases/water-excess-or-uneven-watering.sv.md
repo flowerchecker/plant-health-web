@@ -1,4 +1,5 @@
 # överflödigt vatten eller ojämn bevattning
+
 **Det du ser**  
 Gulnande blad, mjuka stjälkar, jord som luktar surt, bruna/mjuka rötter och plötsligt bladfall. Ibland torra bladkanter trots blöt jord – ett tecken på syrebrist.
 

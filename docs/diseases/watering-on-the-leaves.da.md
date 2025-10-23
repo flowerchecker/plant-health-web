@@ -1,4 +1,4 @@
-## vanding på bladene
+# vanding på bladene
 
 ### Hvad du ser
 Vanddråber efterlader runde pletter, især på følsomme blade (begonier, saintpaulia). I sol kan pletterne blive lyse eller brune og stå som “ringpletter”.

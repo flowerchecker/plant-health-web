@@ -1,4 +1,4 @@
-## rester af sprøjtevæske
+# rester af sprøjtevæske
 
 ### Hvad du ser
 Hvide eller grålige pletter/ringe på bladene, især efter forstøvning/bladvanding. Pletterne ligner kalkrander og sidder oven på bladet.

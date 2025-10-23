@@ -1,4 +1,5 @@
 # riego inadecuado en la roseta de hojas
+
 **Qué estás viendo**  
 Centro de la roseta húmedo persistente; hojas basales que amarillean desde el cuello; mal olor; el “corazón” puede ablandarse.
 

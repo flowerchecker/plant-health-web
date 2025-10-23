@@ -1,4 +1,4 @@
-## poškození pesticidy
+# poškození pesticidy
 
 ### Co pravděpodobně vidíte
 Nepravidelné světlé skvrny, „spálené“ mapy, zvrásnění nebo deformace listů po postřiku. Po aplikaci a silném světle/teple se stav zhoršil.

@@ -1,4 +1,5 @@
 # daños causados por la alimentación de los insectos
+
 **Qué estás viendo**  
 Hojas con mordidas, agujeros, bordes irregulares o secciones faltantes; a veces pequeños excrementos oscuros (“bolitas”) sobre hojas o sustrato.
 

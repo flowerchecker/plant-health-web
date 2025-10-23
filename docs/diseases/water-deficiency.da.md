@@ -1,4 +1,4 @@
-## vandmangel
+# vandmangel
 
 ### Hvad du ser
 Slappe, hængende blade; jorden er tør hele vejen igennem; bladkanter kan blive brune. Potten føles let, og vand løber hurtigt igennem uden at fugte jorden ordentligt.

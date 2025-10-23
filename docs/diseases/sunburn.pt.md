@@ -1,4 +1,5 @@
-## queimadura solar
+# queimadura solar
+
 **O que você está vendo**  
 Áreas **desbotadas/claras** ou marrom-claro nas folhas expostas, muitas vezes após mudança súbita para local mais claro ou dias muito quentes.
 

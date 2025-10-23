@@ -1,4 +1,5 @@
 # unzureichende Bewässerung
+
 **Was Sie beobachten**  
 Schlaffe Blätter, hängende Triebe, trocken-knusprige Ränder; Topf ist federleicht, Erde löst sich vom Rand.
 

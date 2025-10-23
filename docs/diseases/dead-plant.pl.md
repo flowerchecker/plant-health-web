@@ -1,4 +1,5 @@
 # martwa roślina
+
 **Co widzisz**  
 Roślina wygląda na skrajnie osłabioną lub martwą: łodygi są brązowe i łamliwe, liście suche i kruche albo rozpadłe, pod skórką brak zielonej tkanki. Z bryły korzeniowej może unosić się kwaśny, stęchły zapach.
 

@@ -1,4 +1,4 @@
-## zbytky vody po postřiku
+# zbytky vody po postřiku
 
 ### Co pravděpodobně vidíte
 Bílé skvrny nebo „mapy“ po zaschnutí kapek na listech, někdy jemný povlak, který lze setřít. Nejvýraznější je to na tmavých, lesklých listech.

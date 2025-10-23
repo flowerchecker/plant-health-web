@@ -1,4 +1,4 @@
-## insetti minatori
+# insetti minatori
 
 **Cosa stai osservando**  
 Tracce serpeggianti chiare dentro la lamina fogliare (gallerie); talvolta piccoli puntini neri (escrementi) all’interno delle stesse.

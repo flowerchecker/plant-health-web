@@ -1,4 +1,5 @@
 # güneş yanıklığı
+
 ## Ne Gözlüyorsunuz
 Güneş alan tarafta açık sarı, sonra kahverengiye dönen düzensiz büyük lekeler; özellikle meyve/sap/gövde yüzeylerinde. Genelde bir yüz daha çok etkilenir.
 

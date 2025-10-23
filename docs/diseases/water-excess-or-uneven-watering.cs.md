@@ -1,4 +1,4 @@
-## přebytek vody nebo nerovnoměrná zálivka
+# přebytek vody nebo nerovnoměrná zálivka
 
 ### Co pravděpodobně vidíte
 Žloutnutí a opad spodních listů, měkké řapíky, někdy hnilobný zápach. Okraje listů se "pálí", hnědnou. Mohou se objevit smutnice.

@@ -1,4 +1,4 @@
-## foglia emergente
+# foglia emergente
 
 **Cosa stai osservando**  
 Foglie arrotolate o piegate che emergono; colore più chiaro/traslucido delle parti nuove; eventuali guaine protettive.

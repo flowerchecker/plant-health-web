@@ -1,4 +1,4 @@
-## dry air
+# dry air
 
 **What you’re seeing**  
 Crisp or browned leaf tips/edges, leaf curling, buds that dry before opening, or rapid evaporation from saucers. Indoor readings commonly below **35–40% RH** (relative humidity).

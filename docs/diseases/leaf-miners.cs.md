@@ -1,4 +1,4 @@
-## minující hmyz
+# minující hmyz
 
 ### Co pravděpodobně vidíte
 Světlé klikaté **chodbičky** uvnitř listu, které později hnědnou. U některých chodbiček lze proti světlu zahlédnout larvu.

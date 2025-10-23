@@ -1,4 +1,4 @@
-## přebytek světla
+# přebytek světla
 
 ### Co pravděpodobně vidíte
 Blednutí až hnědé „spáleniny“ na listech orientovaných k oknu/lampě, list je křehký a jakoby „papírový“. 

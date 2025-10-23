@@ -1,4 +1,4 @@
-## Insetti succhiatori
+# Insetti succhiatori
 
 **Cosa stai osservando**  
 Foglie appiccicose (melata), puntinature gialle, arricciamenti, piccoli insetti (afidi, cocciniglie, aleurodidi, tripidi). Possibile fumaggine nera sulla melata.

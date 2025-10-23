@@ -1,4 +1,4 @@
-## residui di nebulizzazione (acqua)
+# residui di nebulizzazione (acqua)
 
 **Cosa stai osservando**  
 Aloni bianchi/opachi dopo nebulizzazioni o spray; più visibili in controluce.

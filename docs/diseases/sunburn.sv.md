@@ -1,4 +1,5 @@
 # solbränna
+
 **Det du ser**  
 Solbruna, skrovliga fläckar, ofta mitt på blad där solen träffar hårt. Bladet kan först blekna och sedan bli brunt/krispigt.
 

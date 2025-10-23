@@ -1,4 +1,4 @@
-## overskydende vand eller ujævn vanding
+# overskydende vand eller ujævn vanding
 
 ### Hvad du ser
 Gule blade, bløde stængler, muglugt fra jorden. Planten hænger, selv om jorden føles våd. Brune pletter ved bladbasis. Nogle dage vandmætte forhold, andre dage knastørt – ujævn rytme.

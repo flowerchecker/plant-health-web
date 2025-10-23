@@ -1,4 +1,5 @@
 # übermäßige oder ungleichmäßige Bewässerung
+
 **Was Sie beobachten**  
 Gelbliche Blätter, weiche Triebe, muffiger Geruch; Erde bleibt lange nass. Möglich: braune, durchweichte Flecken, Trauermückenflug.
 

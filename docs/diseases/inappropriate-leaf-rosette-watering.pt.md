@@ -1,4 +1,5 @@
-## rega inadequada no centro da roseta foliar
+# rega inadequada no centro da roseta foliar
+
 **O que você está vendo**  
 Centro da roseta **encharcado**, folhas novas que **não abrem** e odor desagradável; tecido mole e escurecido no miolo.
 

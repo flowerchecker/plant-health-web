@@ -1,4 +1,5 @@
 # Sprühnebelrückstände
+
 **Was Sie beobachten**  
 Trockene, kalkige Flecken oder Schlieren nach dem Besprühen; besonders sichtbar auf dunklen, glatten Blättern.
 

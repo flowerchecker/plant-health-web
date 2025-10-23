@@ -1,4 +1,4 @@
-## pianta morta
+# pianta morta
 
 **Cosa stai osservando**  
 Tessuti marroni o neri, foglie che cadono e si sbriciolano, fusti secchi che si spezzano o, al contrario, molli e collassati; radici scure, vuote o maleodoranti. La pianta non reagisce all’irrigazione e non emette nuovi germogli.

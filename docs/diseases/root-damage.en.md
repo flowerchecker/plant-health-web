@@ -1,4 +1,4 @@
-## root damage
+# root damage
 
 **What you’re seeing**  
 Sudden or ongoing wilt despite moist soil, stunted growth, leaf drop, or failure to thrive after repotting or physical disturbance. Roots may look browned, broken, or sparsely branched.

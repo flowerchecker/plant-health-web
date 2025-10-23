@@ -1,4 +1,5 @@
 # daños causados por herbicidas
+
 **Qué estás viendo**  
 Deformaciones, franjas cloróticas, puntas quemadas o patrones extraños después de que cerca se usaran herbicidas (jardín, patio, césped).
 

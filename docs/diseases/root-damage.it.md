@@ -1,4 +1,4 @@
-## danni alle radici
+# danni alle radici
 
 **Cosa stai osservando**  
 Appassimento che non migliora dopo l’irrigazione, crescita stentata, pianta instabile nel vaso, radici scure o spezzate al rinvaso.

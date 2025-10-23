@@ -1,4 +1,5 @@
 # yaprak rozeti içine uygunsuz sulama
+
 ## Ne Gözlüyorsunuz
 Rozet formundaki bitkilerin merkezinde su birikmesi; iç yapraklarda çürüme, siyahlaşma; kalpte yumuşama ve koku.
 

@@ -1,4 +1,5 @@
 # junger Blattaustrieb
+
 **Was Sie beobachten**  
 Neue Blätter erscheinen hell, dünn, gelegentlich leicht verformt und empfindlich. Schutzhüllen können papierartig oder bräunlich wirken.
 

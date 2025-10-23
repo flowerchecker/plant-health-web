@@ -1,4 +1,4 @@
-## danni da pesticidi
+# danni da pesticidi
 
 **Cosa stai osservando**  
 Macchie brune, margini bruciati, deformazioni comparse dopo un trattamento; le foglie esterne risultano più colpite di quelle interne.

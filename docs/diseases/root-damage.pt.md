@@ -1,4 +1,5 @@
-## danos nas raízes
+# danos nas raízes
+
 **O que você está vendo**  
 Murcha persistente **mesmo com solo úmido**, crescimento travado, folhas menores. Ao retirar do vaso, raízes escurecidas, quebradiças ou com sinais de apodrecimento/ataque.
 

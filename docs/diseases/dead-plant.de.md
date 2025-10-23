@@ -1,4 +1,5 @@
 # abgestorbene Pflanze
+
 **Was Sie beobachten**  
 Blätter und Triebe sind vollständig braun, brüchig oder matschig; über Wochen keine neuen Austriebe. Beim Kratztest zeigt sich unter der Rinde kein grünes Gewebe. Wurzeln wirken schwarz, hohl oder breiig, der Topf kann muffig riechen.
 

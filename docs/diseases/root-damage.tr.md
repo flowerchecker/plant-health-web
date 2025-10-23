@@ -1,4 +1,5 @@
 # kök zararı
+
 ## Ne Gözlüyorsunuz
 Bitki büyümüyor, yapraklar sarkık; sulama doğru görünse de toparlanma yok. Saksı değişiminde kopan kökler, siyah yumuşak kökler veya köksüz kalmış gövde görülebilir.
 

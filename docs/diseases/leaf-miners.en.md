@@ -1,4 +1,4 @@
-## leaf miners
+# leaf miners
 
 **What you’re seeing**  
 Thin, winding, light-colored tunnels within leaves; the upper surface may blister. Lines widen as larvae grow. Affected areas eventually brown.

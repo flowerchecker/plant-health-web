@@ -1,4 +1,4 @@
-## poškození světlem nebo teplem
+# poškození světlem nebo teplem
 
 ### Co pravděpodobně vidíte
 Jednostranné zasychání listů směrem k **lampě** nebo **radiátoru**, křehké, kadeřavé okraje. Někdy cítit pach „spáleniny“. Listy blízko lampy mohou být i bělavé.

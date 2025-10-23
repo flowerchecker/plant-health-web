@@ -1,4 +1,4 @@
-## sap-sucking pests
+# sap-sucking pests
 
 **What you’re seeing**  
 Fine speckling, curled or distorted new leaves, sticky residue (honeydew), black sooty mold on surfaces, or tiny moving insects on undersides of leaves/stems.

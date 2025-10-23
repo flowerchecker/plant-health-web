@@ -1,4 +1,5 @@
 # escaldado solar
+
 **Qué estás viendo**  
 Zonas blanqueadas o pajizas en hojas expuestas repentinamente a sol intenso; en tallos tiernos pueden aparecer grietas o corchos.
 

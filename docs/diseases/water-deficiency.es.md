@@ -1,4 +1,5 @@
 # riego insuficiente
+
 **Qué estás viendo**  
 Hojas lacias y caídas; bordes secos y puntas marrones; sustrato ligero, separado de las paredes de la maceta.
 

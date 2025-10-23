@@ -1,4 +1,4 @@
-## watering on the leaves
+# watering on the leaves
 
 **What you’re seeing**  
 Round, translucent or tan spots where water droplets sat on leaves; sometimes accompanied by cosmetic rings from minerals. Sensitive leaves may show small burn marks after sun + droplets.

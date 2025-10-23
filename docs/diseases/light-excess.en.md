@@ -1,4 +1,4 @@
-## light excess
+# light excess
 
 **What you’re seeing**  
 Bleached or washed-out foliage, compact or hardened leaves, leaf edges turning tan in high exposure, substrate drying very quickly, or photobleaching near a window hotspot.

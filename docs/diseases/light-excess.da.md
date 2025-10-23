@@ -1,4 +1,4 @@
-## lysoverskud
+# lysoverskud
 
 ### Hvad du ser
 Hvide/gullige pletter eller afblegede områder på bladene, især på den side, der vender mod solen/lamper. Bladene kan blive sprøde og skøre i kanterne.

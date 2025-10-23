@@ -1,4 +1,4 @@
-## insekters ædeskader
+# insekters ædeskader
 
 ### Hvad du ser
 Uregelmæssige huller, afrivninger eller “gnav” i blade og blomster. Nogle gange ses ekskrementer (små sorte prikker), slimspor (snegle) eller afgnavede kanter. Skaden opstår ofte natten over.

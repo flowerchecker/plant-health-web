@@ -1,4 +1,4 @@
-## nutrient deficiency
+# nutrient deficiency
 
 **What you’re seeing**  
 General paling/yellowing, especially of older leaves (mobile nutrients) or between the veins (interveinal chlorosis), slow growth, fewer blooms, and improved color after modest feeding.

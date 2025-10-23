@@ -1,4 +1,5 @@
 # ışık eksikliği
+
 ## Ne Gözlüyorsunuz
 Uzamış, ince ve aralıklı boğumlar; küçük soluk yapraklar; yeni büyüme zayıf. Yapraklar ışığa doğru uzanır.
 

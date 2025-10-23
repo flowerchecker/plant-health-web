@@ -1,4 +1,4 @@
-## mangel på lys
+# mangel på lys
 
 ### Hvad du ser
 Langstrakte, blege skud; få eller små blade; manglende blomstring; blade vender sig mod vinduet. Jorden tørrer langsomt, fordi planten ikke bruger vandet hurtigt.

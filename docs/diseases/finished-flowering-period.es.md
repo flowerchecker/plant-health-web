@@ -1,4 +1,5 @@
 # fin de la floración
+
 **Qué estás viendo**  
 Flores que se marchitan y caen; tallos florales que se secan; la planta vuelve a producir solo hojas.
 

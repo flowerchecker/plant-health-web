@@ -1,4 +1,5 @@
-## endommagement par herbicides
+# endommagement par herbicides
+
 ### Ce que vous observez
 Feuilles déformées (gondolées, en cuillère), nervures claires, marbrures, croissance ralentie, surtout après travaux de désherbage chimique à proximité ou utilisation de compost/paille contaminés.
 

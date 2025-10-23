@@ -1,4 +1,5 @@
 # uszkodzenia po pestycydach
+
 **Co widzisz**  
 Szklistość, plamy, zasychanie brzegów po opryskach; młode liście mogą być zniekształcone.
 

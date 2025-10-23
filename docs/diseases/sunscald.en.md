@@ -1,4 +1,4 @@
-## sunscald
+# sunscald
 
 **What you’re seeing**  
 Sudden, sharply defined patches that turn white/tan, then brown and crispy after an exposure event (e.g., moving a shade plant into strong sun). Often affects the sun-facing side only.

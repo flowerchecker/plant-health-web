@@ -1,4 +1,5 @@
 # minierende Insekten
+
 **Was Sie beobachten**  
 Schlängelnde, helle **Gänge** im Blatt, oft mit kleinem dunklen Punkt (Larve/Kot). Blätter bleiben meist stabil, wirken jedoch unansehnlich.
 

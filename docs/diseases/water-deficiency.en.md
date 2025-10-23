@@ -1,4 +1,4 @@
-## water deficiency
+# water deficiency
 
 **What you’re seeing**  
 Wilting, limp leaves, dry potting mix pulling from pot edges, crisp tips/edges, slow recovery after watering. Smaller pots dry extremely fast; hanging baskets may feel feather-light.

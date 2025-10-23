@@ -1,4 +1,4 @@
-## lys- eller varmekildeskade
+# lys- eller varmekildeskade
 
 ### Hvad du ser
 Blade nær lampe, radiator eller TV bliver tørre, misfarvede eller krøllede. Skader kan ses i en tydelig “kegle” direkte under lyskilden eller på den side, der vender mod varmekilden.

@@ -1,4 +1,5 @@
 # daños por luz o calor
+
 **Qué estás viendo**  
 Hojas crujientes del lado cercano a una lámpara, radiador, horno o salida de aire caliente; bordes quemados sin patrón de plaga.
 

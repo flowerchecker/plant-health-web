@@ -1,4 +1,4 @@
-## saftsugende skadedyr
+# saftsugende skadedyr
 
 ### Hvad du ser
 Klæbrige blade (honningdug), misfarvning, prikker/striber, curling eller deformering. Ofte ses små dyr: bladlus, uldlus (vat-agtige klumper), skjoldlus (små skjolde) eller trips (meget små, aflange). Sodskimmel kan danne sort belægning på honningduggen.

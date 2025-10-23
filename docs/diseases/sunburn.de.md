@@ -1,4 +1,5 @@
 # Sonnenbrand
+
 **Was Sie beobachten**  
 Helle bis braune, trocken-lederige Flecken auf der Sonnen- oder Lampenseite, oft mit scharfem Rand; entstehen über Tage/Wochen bei anhaltend zu hoher Strahlung.
 

@@ -1,4 +1,5 @@
 # Insectos chupadores
+
 **Qué estás viendo**  
 Hojas pegajosas (melaza), moteadas o amarillentas, deformadas o curvadas; presencia de pequeños insectos agrupados, copos algodonosos o “escamas” duras.
 

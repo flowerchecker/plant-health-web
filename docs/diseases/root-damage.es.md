@@ -1,4 +1,5 @@
 # daños en las raíces
+
 **Qué estás viendo**  
 Marchitez que no mejora con riego, amarilleo general, crecimiento detenido; al sacar la planta, raíces marrones, rotas o muy escasas.
 

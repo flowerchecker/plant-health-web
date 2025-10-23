@@ -1,4 +1,5 @@
 # torr luft
+
 **Det du ser**  
 Bruna bladspetsar och knastriga kanter. Blad krullar lätt, jorden torkar fort och växten blir matt. Vintertid kan luftfuktigheten sjunka under 30 %, särskilt i rum med element eller golvvärme.
 

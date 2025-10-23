@@ -1,4 +1,5 @@
-## excesso de luz
+# excesso de luz
+
 **O que você está vendo**  
 Manchas pálidas/brancas, bordas tostadas e áreas “papeladas” onde o sol incide; o solo seca muito rápido.
 

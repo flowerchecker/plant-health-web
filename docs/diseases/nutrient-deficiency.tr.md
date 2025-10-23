@@ -1,4 +1,5 @@
 # besin eksikliği
+
 ## Ne Gözlüyorsunuz
 Genel solgunluk, yavaş büyüme; yaşlı yapraklarda sararma, gençlerde açık renk kalma; bazen damarlar yeşil kalırken aralar sararır.
 

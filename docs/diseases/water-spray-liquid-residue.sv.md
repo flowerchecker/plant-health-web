@@ -1,4 +1,5 @@
 # rester av sprayvatten
+
 **Det du ser**  
 Runda, ljusa fläckar eller “skuggor” på blad efter att du sprayat med vatten eller bladspray. De syns ofta tydligast i motljus.
 

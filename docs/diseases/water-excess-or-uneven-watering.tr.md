@@ -1,4 +1,5 @@
 # fazla su veya eşit olmayan sulama
+
 ## Ne Gözlüyorsunuz
 Yapraklarda yumuşama ve sararma; toprak sürekli ıslak, saksıda koku; zamanla yaprak dökümü ve gelişimin durması. Bazı uçlar da kahverengileşebilir.
 

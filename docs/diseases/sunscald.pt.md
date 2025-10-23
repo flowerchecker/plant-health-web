@@ -1,4 +1,5 @@
-## escaldadura solar
+# escaldadura solar
+
 **O que você está vendo**  
 Áreas grandes **esbranquiçadas ou amarronzadas**, no lado mais exposto, aparecendo rapidamente após dia de **sol forte/onda de calor**.
 

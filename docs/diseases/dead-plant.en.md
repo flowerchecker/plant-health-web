@@ -1,4 +1,4 @@
-## dead plant
+# dead plant
 
 **What you’re seeing**  
 Complete collapse of stems or rosette, leaves brittle or mushy, no new growth for weeks. Stems snap easily or are hollow and dry; roots are either entirely mushy/detached or dry like straw.

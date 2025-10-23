@@ -1,4 +1,4 @@
-## danni causati da luce o calore
+# danni causati da luce o calore
 
 **Cosa stai osservando**  
 Foglie secche o scolorite dal lato rivolto verso lampade calde, forni, termosifoni o apparecchi che emettono aria calda; bordi che si arricciano verso l’alto.

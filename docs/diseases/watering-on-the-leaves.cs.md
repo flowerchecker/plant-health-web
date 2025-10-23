@@ -1,4 +1,4 @@
-## zalévání na listy
+# zalévání na listy
 
 ### Co pravděpodobně vidíte
 Kulaté hnědé skvrny po kapkách, mapy po tvrdé vodě, někdy černé tečky při větrání v chladu. Časté je zhoršení po rosení na přímém slunci nebo v chladné místnosti bez proudění.

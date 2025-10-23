@@ -1,4 +1,5 @@
 # aire seco
+
 **Qué estás viendo**  
 Puntas de hojas marrones y crujientes, bordes resecos, hojas que se curvan hacia adentro y sustrato que se seca muy rápido.
 

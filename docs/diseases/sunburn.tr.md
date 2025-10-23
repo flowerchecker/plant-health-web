@@ -1,4 +1,5 @@
 # güneş yanığı
+
 ## Ne Gözlüyorsunuz
 Güneş alan yaprak yüzlerinde açık sarıdan kahverengiye dönen düzensiz lekeler; bazen beyazımsı solma. Yaprak dokusu ince; tür gölge seviyor olabilir.
 

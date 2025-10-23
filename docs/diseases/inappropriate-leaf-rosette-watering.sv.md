@@ -1,4 +1,5 @@
 # olämplig vattning i bladrosetten
+
 **Det du ser**  
 Vatten samlas i hjärtat på rosettväxter (t.ex. saintpaulia, bromelia). Därefter mörka fläckar och röta i centrum.
 

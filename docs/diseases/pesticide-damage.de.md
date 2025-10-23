@@ -1,4 +1,5 @@
 # Pestizidschäden
+
 **Was Sie beobachten**  
 Kurz nach einer Behandlung entstehen **helle Flecken**, verbräunte Ränder oder Krüppelwuchs. Oft betroffen: empfindliche Arten.
 

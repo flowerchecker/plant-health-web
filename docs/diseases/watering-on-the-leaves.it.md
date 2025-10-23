@@ -1,4 +1,4 @@
-## irrigazione sulle foglie
+# irrigazione sulle foglie
 
 **Cosa stai osservando**  
 Macchie tonde o aloni dopo aver bagnato la chioma; con sole diretto compaiono aree bruciate a “impronta di goccia”; su specie sensibili le foglie diventano opache.

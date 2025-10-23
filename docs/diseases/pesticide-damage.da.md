@@ -1,4 +1,4 @@
-## pesticidskader
+# pesticidskader
 
 ### Hvad du ser
 Efter sprøjtning ses sølvskinnende områder, brune “brændte” pletter eller deformerede nye blade. Skaden viser sig ofte 1–3 dage efter behandling med et middel.

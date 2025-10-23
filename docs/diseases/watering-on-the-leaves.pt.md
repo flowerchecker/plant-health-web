@@ -1,4 +1,5 @@
-## rega sobre as folhas
+# rega sobre as folhas
+
 **O que você está vendo**  
 Manchas circulares após **gotículas** secarem; às vezes bordas amarronzadas. Em sol direto, pode parecer “efeito lupa” com pontos queimados.
 

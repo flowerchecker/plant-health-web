@@ -1,4 +1,5 @@
 # püskürtme sonrası su kalıntıları
+
 ## Ne Gözlüyorsunuz
 Yaprak yüzeyinde beyazımsı/kireçsi lekeler veya mat damlacık izleri; kuruyunca tebeşirimsi tabaka gibi görünür. Özellikle sprey sonrası belirir.
 

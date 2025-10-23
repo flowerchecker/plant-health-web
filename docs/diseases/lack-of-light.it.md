@@ -1,4 +1,4 @@
-## carenza di luce
+# carenza di luce
 
 **Cosa stai osservando**  
 Internodi allungati (“pianta filata”), foglie piccole e pallide, perdita di variegatura, fioritura scarsa, crescita inclinata verso la finestra.

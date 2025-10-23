@@ -1,4 +1,5 @@
 # otillräcklig bevattning
+
 **Det du ser**  
 Slokande blad, torra kanter, jord som släpper från krukans kant och en mycket lätt kruka. Bladen kan se matta och grågröna ut.
 

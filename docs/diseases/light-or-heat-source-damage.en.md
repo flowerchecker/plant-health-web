@@ -1,4 +1,4 @@
-## light or heat source damage
+# light or heat source damage
 
 **What you’re seeing**  
 Localized scorch, dry patches, or faded leaves closest to a lamp, radiator, fireplace, or other heat source. Soil may dry unevenly on the heated side.

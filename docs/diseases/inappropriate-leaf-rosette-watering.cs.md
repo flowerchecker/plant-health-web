@@ -1,4 +1,4 @@
-## nevhodné zalévání do listové růžice
+# nevhodné zalévání do listové růžice
 
 ### Co pravděpodobně vidíte
 Měknutí a hniloba ve **středu růžice**, černání středového pupenu, zastavení růstu. U některých druhů rychlý kolaps celé části rostliny.

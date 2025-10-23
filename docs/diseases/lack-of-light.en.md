@@ -1,4 +1,4 @@
-## lack of light
+# lack of light
 
 **What you’re seeing**  
 Leggy stems stretching toward windows, wide gaps between leaves, pale or small new growth, slow or no flowering, soil staying wet longer than expected.

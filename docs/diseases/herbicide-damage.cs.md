@@ -1,4 +1,4 @@
-## poškození herbicidy
+# poškození herbicidy
 
 ### Co pravděpodobně vidíte
 Zkroucené „lžičkovité“ listy, kadeření, bledé pásy, často na **jedné straně** rostliny (směr větru). Projevuje se po ošetřování zahrady/okolí, případně po použití kontaminované vody či nářadí.

@@ -1,4 +1,5 @@
 # daños por pesticidas
+
 **Qué estás viendo**  
 Manchas irregulares, bordes quemados, decoloraciones o “vidriados” tras aplicar un producto fitosanitario o de limpieza.
 

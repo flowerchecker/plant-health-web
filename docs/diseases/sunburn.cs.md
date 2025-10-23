@@ -1,4 +1,4 @@
-## spálení sluncem
+# spálení sluncem
 
 ### Co pravděpodobně vidíte
 Plochy listů zasychají do světle hnědé až křídově bílé barvy na místech, kam dopadá **polední** slunce přes sklo. List je křehký, okraje mohou být ostře ohraničené.

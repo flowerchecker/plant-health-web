@@ -1,4 +1,5 @@
 # exceso de agua o riego desigual
+
 **Qué estás viendo**  
 Hojas amarillas que se desprenden fácilmente; tallos blandos; manchas oscuras en el sustrato; hongos o mosquitas del sustrato presentes.
 

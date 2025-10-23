@@ -1,4 +1,5 @@
 # pestisit zararı
+
 ## Ne Gözlüyorsunuz
 Sprey/ilaç uygulamasından sonra yapraklarda bronzlaşma, benekli sararma, kıvrılma veya yanık lekeleri. Bazı türler diğerlerinden daha hassastır.
 

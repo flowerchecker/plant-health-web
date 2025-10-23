@@ -1,4 +1,5 @@
 # nadmiar światła
+
 **Co widzisz**  
 Blaknięcia, wybielenia, drobne brązowe plamki po stronie wystawionej do silnego światła.
 

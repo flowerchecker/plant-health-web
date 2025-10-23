@@ -1,4 +1,5 @@
 # riego sobre las hojas
+
 **Qué estás viendo**  
 Manchas circulares o irregulares en hojas tras el riego, sobre todo si hubo sol directo poco después; marcas de agua secas.
 

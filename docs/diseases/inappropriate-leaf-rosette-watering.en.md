@@ -1,4 +1,4 @@
-## inappropriate leaf rosette watering
+# inappropriate leaf rosette watering
 
 **What you’re seeing**  
 A rosette-forming plant whose central crown becomes soft, brown, or foul-smelling; new leaves fail to emerge or detach easily. Often occurs after watering directly into the crown.

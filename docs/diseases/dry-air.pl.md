@@ -1,4 +1,5 @@
 # suche powietrze
+
 **Co widzisz**  
 Zasychające końcówki i brzegi liści, „papierowe” brzegi, falowanie liści mimo wilgotnego podłoża. Objawy nasilają się zimą przy ogrzewaniu lub latem przy klimatyzacji.
 

@@ -1,4 +1,5 @@
 # bitki özü emen zararlı böcekler
+
 ## Ne Gözlüyorsunuz
 Yapraklarda yapışkan tabaka, sararma ve küçük soluk benekler; kıvrılma, gelişmede yavaşlama. Yaprak altlarında küçük böcek kümeleri veya pamuksu/kabuklu oluşumlar görülebilir.
 

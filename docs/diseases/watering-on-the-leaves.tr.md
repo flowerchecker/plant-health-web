@@ -1,4 +1,5 @@
 # yapraklara su vermek
+
 ## Ne Gözlüyorsunuz
 Sulama/sisleme sonrası yapraklarda yuvarlak, keskin kenarlı solgun veya kahverengi lekeler; özellikle güneş alan yüzlerde. Bazı türlerde şeffaf cam kesiği gibi izler.
 

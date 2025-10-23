@@ -1,4 +1,5 @@
 # deficiencia de nutrientes
+
 **Qué estás viendo**  
 Hojas pálidas o amarillas (clorosis), venas verdes con limbo amarillento, bordes púrpuras en algunas especies, crecimiento lento.
 

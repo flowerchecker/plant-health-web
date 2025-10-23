@@ -1,4 +1,5 @@
 # herbisit hasarı
+
 ## Ne Gözlüyorsunuz
 Komşu alanlarda kullanım sonrası bitkide yaygın sararma, deformasyon ve büyüme bozukluğu; yapraklarda kıvrılma/çatallaşma. Bazen rüzgâr yönündeki taraf daha çok etkilenir.
 

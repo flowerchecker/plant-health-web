@@ -1,4 +1,5 @@
-## plante morte
+# plante morte
+
 ### Ce que vous observez
 La plante semble « extrêmement affaiblie » : feuilles ternes ou tombées, tiges cassantes, aucune pousse nouvelle depuis des semaines. Le substrat peut être très sec ou, au contraire, sentir le moisi. 
 

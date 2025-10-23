@@ -1,4 +1,5 @@
 # döda växter
+
 **Det du ser**  
 Blad och stjälkar är genomgående bruna/svarta och torra eller mosiga. Ingen ny tillväxt syns. Stammen kan vara ihålig eller spröd, och rötter känns mjuka eller är helt krossiga. Jorden luktar surt – eller tvärtom dammtorrt – och blad kan falla av vid minsta beröring.
 

@@ -1,4 +1,4 @@
-## water spray liquid residue
+# water spray liquid residue
 
 **What you’re seeing**  
 Dried droplets or streaks on leaves after misting or spraying. Marks are whitish, translucent, or slightly shiny; they don’t spread and leaf tissue beneath is normal.

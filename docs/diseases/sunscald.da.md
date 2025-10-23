@@ -1,4 +1,4 @@
-## solsvidning
+# solsvidning
 
 ### Hvad du ser
 Lyse, vandgennemskinnelige pletter eller blærer, der senere bliver brune/krakelerede – ofte efter pludselig stærk sol eller stort temperaturskift. Blade kan virke “skoldede”.

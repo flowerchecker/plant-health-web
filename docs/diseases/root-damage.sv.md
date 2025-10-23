@@ -1,4 +1,5 @@
 # rotskador
+
 **Det du ser**  
 Plötsligt slok, gulning trots fuktig jord, utebliven tillväxt efter omplantering eller en allmän “stoppkänsla”. Vid rotinspektion syns skadade/avklippta rötter.
 

@@ -1,4 +1,5 @@
 # su eksikliği
+
 ## Ne Gözlüyorsunuz
 Yapraklarda sarkma/gevşeme, soluklaşma; alt yapraklarda kuruma ve kenarlarda kahverengi çizgi. Toprak kuru ve hafiftir; saksı normalden daha hafif gelir.
 

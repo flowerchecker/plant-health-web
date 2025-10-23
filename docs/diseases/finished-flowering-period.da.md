@@ -1,4 +1,4 @@
-## afsluttet blomstringsperiode
+# afsluttet blomstringsperiode
 
 ### Hvad du ser
 Blomster visner og falder, eller planten sætter ikke flere knopper. Løvet ser fint ud, men blomstringen er ophørt. Dette ses ofte efter en længere, flot blomstringsperiode.

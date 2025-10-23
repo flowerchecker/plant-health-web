@@ -1,4 +1,4 @@
-## irrigazione insufficiente
+# irrigazione insufficiente
 
 **Cosa stai osservando**  
 Foglie flosce e piegate; substrato leggero che si stacca dai bordi del vaso; polvere asciutta in superficie; punte secche.

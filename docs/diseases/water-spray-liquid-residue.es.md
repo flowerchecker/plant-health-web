@@ -1,4 +1,5 @@
 # residuos de pulverización (agua)
+
 **Qué estás viendo**  
 Manchas blanquecinas o anillos tras pulverizar agua o productos; aspecto de “velo” al secar.
 

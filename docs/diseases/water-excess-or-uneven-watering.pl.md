@@ -1,4 +1,5 @@
 # nadmiar wody albo nierównomierne podlewanie
+
 **Co widzisz**  
 Zwiędnięcie mimo mokrego podłoża, żółknięcie, plamy, obumieranie najstarszych liści; ziemia może pachnieć kwaśno.
 

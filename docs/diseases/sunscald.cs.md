@@ -1,4 +1,4 @@
-## sluneční úžeh
+# sluneční úžeh
 
 ### Co pravděpodobně vidíte
 Světlé, vybělené až papírově hnědé plochy na straně vystavené prudkému slunci. Objevily se **náhle** po přestěhování, vytažení rolety nebo prvních letních dnech.

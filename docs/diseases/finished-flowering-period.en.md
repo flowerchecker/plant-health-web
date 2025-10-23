@@ -1,4 +1,4 @@
-## finished flowering period
+# finished flowering period
 
 **What you’re seeing**  
 Blooms fade, petals drop, and the plant shifts energy to leaves/stems or seedpods. Flowering pauses even though foliage looks healthy.

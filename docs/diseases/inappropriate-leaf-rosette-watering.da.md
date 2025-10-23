@@ -1,4 +1,4 @@
-## uhensigtsmæssig vanding i bladrosetten
+# uhensigtsmæssig vanding i bladrosetten
 
 ### Hvad du ser
 Rosetplanter (fx Saintpaulia, Echeveria) får bløde, rådne bladbasis i midten (“kronen”), eller der ses mørke ringe/pletter efter vanding i rosetten.

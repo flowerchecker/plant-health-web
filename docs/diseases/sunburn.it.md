@@ -1,4 +1,4 @@
-## scottatura solare
+# scottatura solare
 
 **Cosa stai osservando**  
 Chiazze secche giallo-brune su foglie esposte a sole diretto; il tessuto diventa prima traslucido e poi si secca, spesso con bordi netti.

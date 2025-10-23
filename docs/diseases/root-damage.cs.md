@@ -1,4 +1,4 @@
-## poškození kořenů
+# poškození kořenů
 
 ### Co pravděpodobně vidíte
 Rychlé vadnutí i ve **vhlkém** substrátu, zastavení růstu, žloutnutí. Po vyjmutí z květináče jsou kořeny **tmavé, lámavé** nebo naopak **slizké**. Substrát může zapáchat.

@@ -1,4 +1,4 @@
-## solskoldning
+# solskoldning
 
 ### Hvad du ser
 Hvide, lyse eller brune, skarpt afgrænsede pletter på solvendte blade; vævet kan blive korket eller sprødt. Ses ofte efter en meget solrig dag bag glas.

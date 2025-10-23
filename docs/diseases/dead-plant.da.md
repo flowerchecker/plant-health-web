@@ -1,4 +1,4 @@
-## død plante
+# død plante
 
 ### Hvad du ser
 Planten virker helt sammenfaldet eller er allerede brun/sort i alle dele. Stængler er slappe eller hule, rødder lugter råddent eller er helt tørre og skøre. Nye skud kommer ikke længere, selv efter flere uger.

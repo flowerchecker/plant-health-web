@@ -1,4 +1,5 @@
 # trockene Luft
+
 **Was Sie beobachten**  
 Trockene Blattspitzen und -ränder („Spitzenbrand“), eingerollte Blätter, schnell austrocknende Erde. Häufig in Heizperioden, bei Klimaanlagen oder Zugluft.
 

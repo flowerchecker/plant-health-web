@@ -1,4 +1,4 @@
-## irrigazione inappropriata nella rosetta fogliare
+# irrigazione inappropriata nella rosetta fogliare
 
 **Cosa stai osservando**  
 Marciume nel “cuore” di piante a rosetta (foglie centrali che anneriscono/staccano) oppure acqua stagnante nella rosetta con odore e macchie.

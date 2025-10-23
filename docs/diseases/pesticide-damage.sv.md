@@ -1,4 +1,5 @@
 # skador av bekämpningsmedel
+
 **Det du ser**  
 Fläckar, brännmärken, buckliga blad eller “tvättad” färg efter behandling med växtskydd/olja/såpa. Skadan kan vara jämnt spridd över bladytor.
 

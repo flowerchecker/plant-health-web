@@ -1,4 +1,4 @@
-## rodskader
+# rodskader
 
 ### Hvad du ser
 Pludselig visnen trods fugtig jord, dårlig forankring i potten, sorte/brune rødder eller sår efter ompotning. Planten kan vippe i jorden og vokser ikke videre.

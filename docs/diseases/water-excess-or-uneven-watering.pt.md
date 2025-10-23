@@ -1,4 +1,5 @@
-## excesso de água ou rega irregular
+# excesso de água ou rega irregular
+
 **O que você está vendo**  
 Amarelecimento generalizado, folhas moles, manchas escuras na base, solo **encharcado** e com **odor**. Em regas irregulares, pontas secas e manchas intercaladas.
 

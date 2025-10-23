@@ -1,4 +1,4 @@
-## nedostatek světla
+# nedostatek světla
 
 ### Co pravděpodobně vidíte
 Vytáhlé, řídké výhony, malé bledé listy, dlouhá internodia, málo poupat/květů. Rostlina se naklání směrem k oknu.

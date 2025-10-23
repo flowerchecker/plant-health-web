@@ -1,4 +1,5 @@
 # falta de luz
+
 **Qué estás viendo**  
 Tallos alargados, hojas pálidas, crecimiento lento o inexistente; hojas que “buscan” la ventana.
 

@@ -1,4 +1,5 @@
 # uszkodzenia korzeni
+
 **Co widzisz**  
 Liście zamierają mimo poprawnego światła; roślina chwieje się w donicy. Przy przesadzaniu korzenie są przerwane, zgnite albo kruche.
 
