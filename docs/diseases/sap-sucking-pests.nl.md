@@ -1,4 +1,4 @@
-# Zuigende insecten
+# zuigende insecten
 
 ## Wat je ziet
 Kleine stipjes/gele spikkel, vervormde jonge bladeren, kleverige honingdauw en soms zwarte roetdauw. Mogelijke zichtbare boosdoeners: bladluizen, trips, spint, wolluis, schildluis.  
