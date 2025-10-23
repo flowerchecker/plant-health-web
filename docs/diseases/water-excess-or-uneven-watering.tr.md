@@ -32,4 +32,3 @@ Yaygın bir **bakım hatasıdır**; erken düzeltmeyle toparlanma mümkündür.
 - Karışımı türünüze göre ayarlayın; tropiklere havadar, sukulentlere daha mineral karışım.
 - Kışın ışık azaldığında sulama sıklığını azaltın.
 
----

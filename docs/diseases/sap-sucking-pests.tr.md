@@ -31,4 +31,3 @@ Yönetilmesi gereken bir **zararlı** problemidir. Erken müdahale etkilidir.
 - Düzenli yaprak altı kontrolü ve sarı tuzaklarla izleme
 - Kalabalığı azaltın, hava sirkülasyonu sağlayın.
 
----

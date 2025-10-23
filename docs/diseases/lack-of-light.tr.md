@@ -30,4 +30,3 @@ Yetersiz ışık fotosentezi sınırlar; bitki ışığa erişmek için uzar ve 
 - Türün ışık ihtiyacına uygun seçim yapın.
 - Tozu alınmış temiz yapraklar daha iyi ışık alır.
 
----

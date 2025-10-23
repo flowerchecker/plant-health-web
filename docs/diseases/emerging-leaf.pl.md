@@ -1,25 +1,24 @@
 # rozwijający się liść
 
-**Co widzisz**  
+## Co widzisz
 Nowe liście są jaśniejsze, cieńsze, czasem zwinięte lub pogniecione, z delikatnymi nerwami.
 
-**Co to jest**  
+## Co to jest
 Świeży przyrost. Tkanki potrzebują czasu na zazielenienie i usztywnienie.
 
-**Czy to problem?**  
+## Czy to problem?
 Nie — to naturalny etap wzrostu.
 
-**Możliwe przyczyny mylnej oceny**  
+## Możliwe przyczyny mylnej oceny
 - Limonkowy odcień kojarzony z niedoborem.  
 - Skręcenie z powodu rozwijania się z pąka/osłonki.
 
-**Jak potwierdzić**  
+## Jak potwierdzić
 Porównaj po 2–3 tygodniach: liść powinien się wyrównać i zazielenić. Brak nekroz i plam grzybowych.
 
-**Co zrobić teraz**  
+## Co zrobić teraz
 Zapewnij stabilne światło, umiarkowane podlewanie i lekkie nawożenie w sezonie. Nie prostuj liścia na siłę.
 
-**Jak zapobiegać**  
+## Jak zapobiegać
 Oceniaj liście po pełnym rozwinięciu; rób zdjęcia co 7–10 dni.
 
----

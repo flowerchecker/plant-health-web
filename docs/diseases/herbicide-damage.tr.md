@@ -30,4 +30,3 @@ Yabancı ot ürünlerinin (herbisit) hedef dışı teması, düşük dozlarda bi
 - Aynı giysi/ekipmanla iç mekâna girmeyin; nozul/kapları iyice yıkayın.
 - Balkon/teras bitkilerini ilaçlama öncesi içeri alın veya örtün.
 
----

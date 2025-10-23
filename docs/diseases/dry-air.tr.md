@@ -31,4 +31,3 @@ Düşük bağıl nem, yapraklardan su buharlaşmasını artırır. Kökler bu ka
 - Çok hassas türleri cam-teraryum/kapanabilir vitrinlerde yetiştirin.
 - Nem düşükken gübrelemeyi azaltın; yeni yapraklar daha sağlam gelişir.
 
----

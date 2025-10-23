@@ -30,4 +30,3 @@ Genellikle **zararsız** kozmetik bir durumdur; stomaları tıkayacak yoğunlukt
 - Yaprak yüzeyini düzenli, nazikçe temizleyin.
 - Gereksiz yaprak spreylemelerinden kaçının; kökten dengeli besleyin.
 
----

@@ -1,27 +1,26 @@
 # Sprühnebelrückstände
 
-**Was Sie beobachten**  
+## Was Sie beobachten
 Trockene, kalkige Flecken oder Schlieren nach dem Besprühen; besonders sichtbar auf dunklen, glatten Blättern.
 
-**Was es ist**  
+## Was es ist
 Rückstände von Mineralien (hartes Leitungswasser) oder Spritzmitteln bleiben beim Trocknen auf der Oberfläche zurück.
 
-**Einordnung**  
+## Einordnung
 Meist **harmlos** und rein kosmetisch.
 
-**Häufige Ursachen**  
+## Häufige Ursachen
 Hartes Leitungswasser, Sprühdünger/Pflegemittel, falscher pH der Mischung.
 
-**So bestätigen Sie die Diagnose**  
+## So bestätigen Sie die Diagnose
 - Flecken lassen sich mit **feuchtem Tuch** (ggf. 1 TL Essig auf 1 l Wasser) abwischen.  
 - Das Blattgewebe darunter ist **intakt** (keine eingesunkenen Nekrosen).
 
-**Maßnahmen**  
+## Maßnahmen
 - Blätter sanft mit **weichem Tuch** reinigen; zuvor Staub entfernen.  
 - Zum Sprühen **entmineralisiertes** oder abgekochtes, abgekühltes Wasser verwenden.  
 - Sprühdünger sparsam und etikettgerecht einsetzen.
 
-**Vorbeugen**  
+## Vorbeugen
 Empfindliche Arten lieber über Luftfeuchte unterstützen (Kieseltrays, Befeuchter) statt häufig zu besprühen. Regelmäßige, sanfte **Blattpflege** reduziert Ablagerungen.
 
----

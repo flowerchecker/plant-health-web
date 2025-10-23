@@ -30,4 +30,3 @@ Bu, bitkinin normal **yeni yaprak** oluşturma sürecidir. Klorofil tam oluşmad
 - İlkbahar-yaz düşük doz düzenli besleme yeterlidir.
 - Budama sonrası yeni sürgünleri desteklemek için kök sağlığına dikkat edin.
 
----

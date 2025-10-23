@@ -30,4 +30,3 @@ Genellikle **bakım hatası** kaynaklı kozmetik bir sorundur; ileri durumlarda 
 - Hastalığa hassas türlerde yaprakları kuru tutun.
 - Sulamada hedef kök bölgesi olsun, yapraklar değil.
 
----

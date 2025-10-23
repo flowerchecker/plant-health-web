@@ -31,4 +31,3 @@
 - Tür için uygun saksı boyu ve sağlıklı kökler
 - Işık süresi ve yoğunluğunu mevsime göre kademeli ayarlayın.
 
----

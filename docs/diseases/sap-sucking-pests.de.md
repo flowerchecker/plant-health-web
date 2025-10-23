@@ -1,23 +1,23 @@
 # Saugende Insekten
 
-**Was Sie beobachten**  
+## Was Sie beobachten
 Klebriger Belag (Honigtau), feine Gespinste oder Watteflocken, gelb gesprenkelte Blätter, verkrüppelte Triebspitzen. Typisch: Befall an Blattunterseiten.
 
-**Was es ist**  
+## Was es ist
 Saftsauger wie Blattläuse, Schildläuse, Wollläuse, Thripse oder Weiße Fliegen entziehen Zellen den Saft. Das schwächt Pflanzen und begünstigt Rußpilze auf Honigtau.
 
-**Einordnung**  
+## Einordnung
 Reales Schädlingsproblem, behandelbar – erfordert **konsequentes** Vorgehen.
 
-**Häufige Ursachen**  
+## Häufige Ursachen
 Eingeschleppte Schädlinge bei Neukäufen, warme trockene Luft, geschwächte Pflanzen.
 
-**So bestätigen Sie die Diagnose**  
+## So bestätigen Sie die Diagnose
 - Lupe nutzen: Unterseiten, Blattachseln, Triebspitzen kontrollieren.  
 - **Honigtau** (klebrig) und **Rußbelag** (schwarz) sind typisch.  
 - **Klopftest** über weißem Papier zeigt Thripse/Weiße Fliegen.
 
-**Maßnahmen**  
+## Maßnahmen
 - **Isolation** der betroffenen Pflanze.  
 - **Lauwarme Dusche**, Unterseiten gründlich abspülen.  
 - **Wechselnde Mittel:** verdünnte Kaliseife/Schmierseife, ölhaltige Präparate (z. B. Rapsöl) – Etikett beachten; stets an einem Blatt testen.  
@@ -25,7 +25,6 @@ Eingeschleppte Schädlinge bei Neukäufen, warme trockene Luft, geschwächte Pfl
 - Stärkerer Befall: zugelassene Präparate nach Anleitung; gut **lüften**.  
 - Klebrige Rückstände abwischen, Licht und Gaswechsel verbessern.
 
-**Vorbeugen**  
+## Vorbeugen
 Neue Pflanzen 2–3 Wochen quarantänieren; Luftfeuchte moderat erhöhen; keine Stickstoff-Überdüngung; regelmäßige Sichtkontrollen (Unterseiten!).
 
----

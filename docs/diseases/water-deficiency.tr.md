@@ -31,4 +31,3 @@ Düzeltilebilir bir **sulama** problemidir. Aşırı gecikme kalıcı doku kayb�
 - Karışımı perlit/ponzayla iyileştirerek eşit nem dağılımı sağlayın.
 - Sıcak günlerde sabah sulamayı tercih edin.
 
----

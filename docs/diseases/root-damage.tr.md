@@ -32,4 +32,3 @@ Kökler mekanik (budama/söküm), çürüme (aşırı su), tuz birikimi veya zar
 - İlkbahar/erken yaz saksı değişimi daha güvenlidir.
 - Gübreyi etiket dozunda ve ıslak toprağa uygulayın; periyodik durulamayla tuz birikimini azaltın.
 
----

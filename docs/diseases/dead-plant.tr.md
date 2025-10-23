@@ -34,4 +34,3 @@ Bu genellikle bir **sorundur**. Ancak bazı çok yıllıklarda mevsimsel olarak 
 - İlaç/gübreleri önce düşük dozda küçük bir alanda deneyin.
 - Saksı değişiminde kökleri gereksiz hırpalamayın.
 
----

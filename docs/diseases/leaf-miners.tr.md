@@ -29,4 +29,3 @@ Yönetilmesi gereken bir **zararlı** durumudur; ağır istila fotosentezi azalt
 - İlk galeride müdahale en etkilidir.
 - Aşırı azotlu gübrelemeden kaçının (yumuşak doku caziptir).
 
----
