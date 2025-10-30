@@ -24,3 +24,6 @@ Pulisci un’area con panno e acqua demineralizzata più una goccia di sapone ne
 ## Prevenzione
 Preferisci acqua a bassa durezza per nebulizzare; limita gli spray e privilegia la pulizia manuale.
 
+## Immagini
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

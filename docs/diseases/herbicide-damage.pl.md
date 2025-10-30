@@ -24,3 +24,5 @@ Objawy zaczęły się wkrótce po zmianie podłoża lub po pracach chemicznych w
 ## Jak zapobiegać
 Kupuj podłoża i kompost z pewnych źródeł; unikaj oprysków w wietrzne dni w pobliżu roślin; dobrze wietrz pomieszczenia po użyciu chemikaliów.
 
+## Zdjęcia
+![herbicide_damage.jpg](/assets/herbicide_damage.jpg)

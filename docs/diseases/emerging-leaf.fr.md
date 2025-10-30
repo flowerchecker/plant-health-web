@@ -27,3 +27,5 @@ Entièrement normal. À ne pas confondre avec une attaque de ravageurs si l’as
 - Conserver des conditions stables (lumière, arrosage, nutrition douce).  
 - Tourner le pot d’un quart de tour chaque semaine pour une croissance homogène.
 
+## Images
+![emerging-leaf.jpg](/assets/emerging-leaf.jpg)

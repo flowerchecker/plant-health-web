@@ -35,3 +35,5 @@ Ett verkligt odlingsproblem men ofta reversibelt med rätt åtgärder.
 ## När det räcker
 Många växter pausar 2–4 veckor efter omplantering. Tålamod – se på ny tillväxt som indikator.
 
+## Bilder
+![root-damage.jpg](/assets/root-damage.jpg)

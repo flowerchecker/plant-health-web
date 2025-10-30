@@ -32,3 +32,5 @@ Usually yes—both to protect new growth and to avoid secondary infections throu
 - **Sap-sucking injury** (pin-prick stippling, sticky residue) is different.  
 - **Leaf miners** leave winding tunnels rather than holes.
 
+## Images
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

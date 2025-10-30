@@ -31,5 +31,7 @@ Een behandelbare plaag. Vroege aanpak voorkomt groeistilstand.
 ## Voorkomen
 - Nieuwe aanwinsten 2 weken apart.  
 - Wekelijks bladonderzijde checken.  
-- Planten niet tegen raamkieren met droge tocht.  
+- Planten niet tegen raamkieren met droge tocht.
 
+## Afbeeldingen
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

@@ -26,3 +26,6 @@ Ne. Jde o **normální fázi**. Péči stačí upravit, není nutné „léčit�
 
 ## Časté záměny
 - **Nedostatek světla** během sezóny způsobí málo poupat. Po odkvětu je ale normální, že se pauza protáhne – zvyšte přísun světla před další sezonou.
+
+## Obrázky
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

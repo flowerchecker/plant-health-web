@@ -26,3 +26,5 @@
 ## 預防小撇步
 不同藥劑避免隨意混配；對敏感植物優先採環境與物理管理。
 
+## 圖片
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

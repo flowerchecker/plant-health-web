@@ -31,3 +31,5 @@ Milt till måttligt problem. Går ofta att stoppa med enkla, mekaniska åtgärde
 ## När det räcker
 Enstaka gångar skadar sällan växtens hälsa. Nya blad blir fina när cykeln bryts.
 
+## Bilder
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

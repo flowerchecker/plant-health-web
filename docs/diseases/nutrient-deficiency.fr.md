@@ -31,3 +31,5 @@ Modérée, généralement réversible pour la nouvelle croissance si on corrige 
 - Respecter les doses faibles mais continues.  
 - Adapter l’eau (éviter excès de carbonates pour les espèces sensibles au fer).
 
+## Images
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

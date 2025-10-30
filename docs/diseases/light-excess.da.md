@@ -23,3 +23,6 @@ Som regel kosmetisk, men gentagen påvirkning giver varig skade.
 - Træk let gardin/moskitonet for ved middagssol.
 - Hæv LED-lamper til 25–40 cm og giv pauser (fx 12 t tændt/12 t slukket).
 - Klip kun meget beskadigede blade; nye blade tilpasser sig bedre.
+
+## Billeder
+![light-excess.jpg](/assets/light-excess.jpg)

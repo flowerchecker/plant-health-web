@@ -25,3 +25,5 @@ Distância de janelas, vidro sombreado, orientação pouco iluminada.
 ## Prevenção
 Planeje os ambientes pela **necessidade de luz** de cada espécie e faça **aclimatação gradual** ao mudar de local.
 
+## Imagens
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

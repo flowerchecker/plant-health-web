@@ -25,3 +25,8 @@ Substrato costantemente umido; al rinvaso radici scure/molli; i sintomi peggiora
 ## Prevenzione
 Scelta di substrato/vaso adeguati, luce sufficiente, evita “poco e spesso”.
 
+## Immagini
+![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)

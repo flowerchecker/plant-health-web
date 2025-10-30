@@ -29,3 +29,6 @@ Yoğun güneş ve sıcaklık kombinasyonu yaprakta **güneş yanığı**na yol a
 - Alıştırma protokolü ve mevsimsel konum ayarı
 - Filtreli ışık ve uygun mesafe (LED/lambalar)
 - Islak yaprağı güneşte bırakmama kuralı
+
+## Resimler
+![sunburn.jpg](/assets/sunburn.jpg)

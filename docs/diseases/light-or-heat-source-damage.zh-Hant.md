@@ -25,3 +25,5 @@
 ## 預防小撇步
 用手背在葉面停留 5 秒：若感到燙手，就代表太近或通風不足。
 
+## 圖片
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

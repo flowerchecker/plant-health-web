@@ -24,3 +24,5 @@ Pattern indicativi: foglie vecchie gialle = spesso azoto; giovani pallide con ne
 ## Prevenzione
 Piano di nutrizione dolce e costante in stagione attiva; rinvasi periodici; evitare “tutto e subito”.
 
+## Immagini
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

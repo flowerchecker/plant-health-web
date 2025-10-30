@@ -24,3 +24,5 @@ Dunkle Ecken, großer Abstand zum Fenster, Nordlage, Winterkurztage.
 ## Vorbeugen
 Standort saisonal neu bewerten, Lampen mit Zeitschaltuhr nutzen, helle Wände/Reflektoren helfen.
 
+## Bilder
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

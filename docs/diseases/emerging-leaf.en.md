@@ -29,3 +29,5 @@ No immediate action. Support gentle conditions and avoid touching the tender lea
 - **Crown rot** (soft, dark, foul) is different.  
 - Persistent distortion on multiple leaves can indicate **sap feeders**—inspect for tiny insects or sticky residue.
 
+## Images
+![emerging-leaf.jpg](/assets/emerging-leaf.jpg)

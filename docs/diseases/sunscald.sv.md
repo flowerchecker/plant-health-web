@@ -31,3 +31,5 @@ Odlingsproblem men begränsat till drabbade blad.
 ## När det räcker
 Skadan är lokal. Ny tillväxt blir normal i rätt miljö.
 
+## Bilder
+![sunscald.jpg](/assets/sunscald.jpg)

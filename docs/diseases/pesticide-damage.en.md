@@ -30,3 +30,5 @@ Yes—halt exposure and help the plant recover.
 - **Herbicide drift** from lawn/weed killers behaves similarly but often shows cupped, twisted new growth.  
 - **Sunburn** also causes patches but without the “just-sprayed” timing.
 
+## Images
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

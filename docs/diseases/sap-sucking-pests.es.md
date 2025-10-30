@@ -30,3 +30,5 @@ Es un problema común y tratable si se actúa pronto.
 ## Cuándo pedir ayuda
 Si la infestación no cede tras 3–4 aplicaciones o hay daños severos en varias plantas, consulta con fotos macro del envés.
 
+## Imágenes
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

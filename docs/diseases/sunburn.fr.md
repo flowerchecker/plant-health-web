@@ -28,3 +28,6 @@ Modérée : les zones brûlées restent marquées, mais la plante peut produire 
 - Transition douce vers plus de soleil (paliers sur 2–3 semaines).  
 - Aération et humidité modérées pour limiter la surchauffe.  
 - Rotation hebdomadaire du pot pour éviter un côté très exposé.
+
+## Images
+![sunburn.jpg](/assets/sunburn.jpg)

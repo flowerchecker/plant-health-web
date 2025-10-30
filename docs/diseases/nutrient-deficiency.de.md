@@ -24,3 +24,5 @@ Seltenes Düngen, alte Erde, pH-Probleme, Salzansammlungen, einseitige Nährstof
 ## Vorbeugen
 Düngeplan an Art und Saison anpassen; lieber **regelmäßig niedrig** als selten hoch; unterschiedliche Bedürfnisse (z. B. Starkzehrer vs. Schwachzehrer) berücksichtigen.
 
+## Bilder
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

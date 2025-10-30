@@ -23,3 +23,6 @@ Ikke akut farligt, men det begrænser vækst og trivsel. Korrigering giver ofte 
 - Skyl jorden igennem én gang for at fjerne ophobede salte, hvis der er hvide aflejringer.
 - Ompot hvert 12.–24. måned med frisk mix.
 - Ved tydelig jernklorose: brug jernchelat og vand med blødere vand.
+
+## Billeder
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

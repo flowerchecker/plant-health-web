@@ -24,3 +24,5 @@ Le macchie coincidono con le zone bagnate e compaiono dopo ore (sole) o giorni (
 ## Prevenzione
 Orari mattutini, evitare di bagnare le foglie delle specie sensibili, buona ventilazione.
 
+## Immagini
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

@@ -22,4 +22,6 @@
 ## 예방/관리
 - 분무는 오전 이른 시간·저녁 등 **직사광선이 없는 시간**에 가볍게 합니다.  
 - 미네랄이 적은 물을 사용하면 자국이 줄어듭니다.
-  
+
+## 이미지
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

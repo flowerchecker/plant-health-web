@@ -29,5 +29,7 @@ Controleer EC/zout via doorspoelen: als het uitloopwater sterk ruikt/veel schuim
 
 ## Voorkomen
 - Regelmatig, licht bemesten in actieve groei; niet in diepe winterrust.  
-- Jaarlijks (deels) verversen van potgrond.  
+- Jaarlijks (deels) verversen van potgrond.
 
+## Afbeeldingen
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

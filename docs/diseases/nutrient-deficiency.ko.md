@@ -23,4 +23,6 @@
 ## 예방/관리
 - ‘조금씩 규칙적으로’가 ‘가끔 많이’보다 안전합니다.  
 - 염류 축적이 의심되면 몇 달에 한 번 충분히 관수해 씻어냅니다.
-  
+
+## 이미지
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

@@ -28,3 +28,5 @@ Es un proceso natural. No requiere alarma ni tratamientos específicos.
 ## Cuándo pedir ayuda
 Si las flores caen prematuramente con manchas, moho o mal olor, podría haber hongo o plaga; consulta con fotos de cerca.
 
+## Imágenes
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

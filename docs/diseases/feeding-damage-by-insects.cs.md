@@ -27,3 +27,6 @@ Může být, zejména u mladých rostlin nebo při masivním žíru. Často je v
 
 ## Časté záměny
 - **Saví škůdci** (mšice, třásněnky) nedělají „vykousané“ okraje, ale spíše **deformace a lepkavé povlaky** (medovice).
+
+## Obrázky
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

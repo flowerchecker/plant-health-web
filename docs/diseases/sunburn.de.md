@@ -23,3 +23,6 @@ Längere direkte Sonne ohne Eingewöhnung, zu nah/zu lange betriebene Lampen, re
 
 ## Vorbeugen
 Standortwechsel immer **stufenweise**; empfindliche Arten im Hochsommer von 11–16 Uhr beschatten; bei Kunstlicht Herstellerabstände und -zeiten einhalten.
+
+## Bilder
+![sunburn.jpg](/assets/sunburn.jpg)

@@ -29,3 +29,5 @@ Yes—reposition and manage intensity.
 - **Sunscald** from window sun shows on the glass-facing side after a bright day.  
 - **Light excess** without heat yields paler, not crispy, leaves.
 
+## Images
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

@@ -24,5 +24,8 @@ Maak een hoekje schoon met gedestilleerd water. Verdwijnt het? Dan is het residu
 
 ## Voorkomen
 - Gebruik zacht water voor bladverzorging.  
-- Beperk bladverneveling bij soorten die er niet van profiteren; verhoog liever de RV in de kamer.  
+- Beperk bladverneveling bij soorten die er niet van profiteren; verhoog liever de RV in de kamer.
 
+## Afbeeldingen
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

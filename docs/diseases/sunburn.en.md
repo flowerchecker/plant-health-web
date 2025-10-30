@@ -27,3 +27,6 @@ Yes—protect and gradually acclimate.
 ## Related look-alikes to rule out
 - **Sunscald** is an acute burn event; sunburn is common sun-exposure burn.  
 - **Light excess** without burn presents as generalized fading, not crisp necrosis.
+
+## Images
+![sunburn.jpg](/assets/sunburn.jpg)

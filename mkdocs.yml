@@ -17,11 +17,9 @@ theme:
   palette:
     primary: black
   features:
-    - navigation.tabs
     - navigation.indexes
 
 nav:
-  - Diseases:
     - index.md
     - diseases/dead-plant.md
     - diseases/dry-air.md

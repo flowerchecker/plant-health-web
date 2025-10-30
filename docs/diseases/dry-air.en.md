@@ -31,3 +31,5 @@ Often yes, especially for humidity-loving plants. Improving local humidity reduc
 - **Salt buildup** from fertilizer/very hard water can mimic brown tips—leach the pot.  
 - **Under-watering** causes similar crisp edges—check soil moisture pattern.
 
+## Images
+![dry_air.jpg](/assets/dry_air.jpg)

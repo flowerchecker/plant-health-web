@@ -26,4 +26,6 @@
 ## 예방/관리
 - 새로 들여온 식물은 1~2주 격리해 이상이 없는지 확인합니다.  
 - 물·비료를 과하거나 부족하지 않게 유지해 식물의 회복력을 높입니다.
-  
+
+## 이미지
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

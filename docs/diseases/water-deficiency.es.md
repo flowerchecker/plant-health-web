@@ -28,3 +28,9 @@ Es un problema común y reversible si se corrige a tiempo.
 ## Cuándo pedir ayuda
 Si no hay recuperación tras un riego correcto, inspecciona raíces (puede coexistir daño radicular) y consulta con fotos.
 
+## Imágenes
+![water-deficiency.jpg](/assets/water-deficiency.jpg)
+![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](/assets/water-deficiency5.jpg)

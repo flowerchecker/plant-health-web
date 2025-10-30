@@ -29,3 +29,5 @@
 ## 预防要点
 建立“轻量、规律”的施肥节奏；每季检查盆土盐渍与pH；施肥与良好光照、健康根系配套，效果才稳定。
 
+## 图片
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

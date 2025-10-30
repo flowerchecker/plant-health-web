@@ -13,3 +13,5 @@
 
 **रोकथाम:** वेंट/हीटर के सीधे बहाव से बचें; बल्ब/काँच से बनने वाले “हॉट-स्पॉट” जाँचें।
 
+## छवियां
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

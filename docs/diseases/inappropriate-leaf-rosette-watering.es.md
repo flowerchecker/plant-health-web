@@ -28,3 +28,5 @@ Es un problema prevenible; si el punto de crecimiento se pudre, la planta puede 
 ## Cuándo pedir ayuda
 Si el centro colapsa o el mal olor persiste, puede requerir retirar tejido muerto y aplicar fungicida: consulta con fotos.
 
+## Imágenes
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

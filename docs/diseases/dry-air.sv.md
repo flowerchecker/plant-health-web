@@ -36,3 +36,5 @@ Miljörelaterat problem – inte en sjukdom. Går att mildra med enkla åtgärde
 ## När det räcker
 Enstaka bruna spetsar är kosmetiska. Om ny tillväxt är frisk och grön mår växten i övrigt bra.
 
+## Bilder
+![dry_air.jpg](/assets/dry_air.jpg)

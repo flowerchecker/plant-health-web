@@ -31,3 +31,9 @@ Düzeltilebilir bir **sulama** problemidir. Aşırı gecikme kalıcı doku kayb�
 - Karışımı perlit/ponzayla iyileştirerek eşit nem dağılımı sağlayın.
 - Sıcak günlerde sabah sulamayı tercih edin.
 
+## Resimler
+![water-deficiency.jpg](/assets/water-deficiency.jpg)
+![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](/assets/water-deficiency5.jpg)

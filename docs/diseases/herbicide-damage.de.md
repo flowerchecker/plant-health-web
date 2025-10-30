@@ -25,3 +25,5 @@ Reales Schadbild durch Chemikalien; oft von außen eingetragen.
 ## Vorbeugen
 Werkzeuge/Behälter **strikt trennen** (Herbizid vs. Zimmerpflanzen). Bei Outdoor-Nähe Fenster schließen, wenn gespritzt wird; Nachbarschaft informieren.
 
+## Bilder
+![herbicide_damage.jpg](/assets/herbicide_damage.jpg)

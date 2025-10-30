@@ -14,3 +14,8 @@
 
 **रोकथाम:** सही आकार का गमला, ड्रेनेज छेद, मौसमानुसार शेड्यूल, एक बार गहरा पानी—फिर सूखने दें।
 
+## छवियां
+![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)

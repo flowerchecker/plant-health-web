@@ -26,3 +26,6 @@ Ano, ale nejde o chorobu a je dobře řešitelný vhodnými úpravami prostřed�
 
 ## Časté záměny
 - **Přemokření** také vytváří hnědé okraje, ale substrát bývá zamokřený a listy měknou; suchý vzduch typicky provází suchý květináč a křehké okraje.
+
+## Obrázky
+![dry_air.jpg](/assets/dry_air.jpg)

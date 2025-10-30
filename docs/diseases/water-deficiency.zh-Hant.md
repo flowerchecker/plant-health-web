@@ -27,3 +27,9 @@
 ## 預防小撇步
 夏季避免強風直吹；必要時增大盆徑、群植增濕；建立固定澆水日記。
 
+## 圖片
+![water-deficiency.jpg](/assets/water-deficiency.jpg)
+![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](/assets/water-deficiency5.jpg)

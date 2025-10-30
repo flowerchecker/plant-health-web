@@ -24,3 +24,6 @@ Nej – det er en naturlig fase. Med let justering af plejen vil planten blomstr
 - Giv mere lys: tættere på vindue eller plante-LED 10–12 t/dag.
 - Tilfør let gødning i vækstsæsonen (svag dosis hver 2.–3. vanding).
 - Hold jorden let fugtig; undgå store udsving. Tålmodighed er nøglen.
+
+## Billeder
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

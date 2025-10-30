@@ -23,3 +23,6 @@ Ja lokalt, men det løses let med bedre afstand og mildere forhold.
 - Brug reflektor/skærm og god luftcirkulation.
 - Flyt planter væk fra radiatorer; brug lecaskål/luftfugter i fyringssæson.
 - Klip skadet væv af, hvis det er grimt – nyvækst vil klare sig bedre.
+
+## Billeder
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

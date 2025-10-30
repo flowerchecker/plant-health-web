@@ -25,5 +25,7 @@ Schade zit aan de zonkant; binnenzijde is niet zacht/rot tenzij secundaire infec
 
 ## Voorkomen
 - Acclimatiseer planten in stappen naar hogere lichtniveaus.  
-- Houd vruchten/stengels weg van heet raamglas.  
+- Houd vruchten/stengels weg van heet raamglas.
 
+## Afbeeldingen
+![sunscald.jpg](/assets/sunscald.jpg)

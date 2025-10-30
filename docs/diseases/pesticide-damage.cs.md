@@ -26,3 +26,6 @@ Může být. Poškození na postižených listech je **nevratné**, nové listy 
 
 ## Časté záměny
 - **Spálení sluncem** bez chemie má často symetričtější okraje podle směru světla; fytotoxicita bývá **mozaiková** a váže se na čas postřiku.
+
+## Obrázky
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

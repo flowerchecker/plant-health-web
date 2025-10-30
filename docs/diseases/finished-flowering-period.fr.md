@@ -30,3 +30,5 @@ Normal. Aucune maladie. Le but est de favoriser une reprise saine et, pour certa
 - Évitez de forcer la floraison continue au détriment de la santé générale.  
 - Conservez un carnet des cycles (dates de floraison et de taille) pour mieux anticiper.
 
+## Images
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

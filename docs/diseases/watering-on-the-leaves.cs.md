@@ -26,3 +26,6 @@ Kapky na citlivých listech mohou zanechat **minerální mapy** a v kombinaci se
 
 ## Časté záměny
 - **Zbytky po rosení** (da:896) jsou jen mapy po vodě/spreji a dají se setřít; zde jde o **poškození pletiv** a/nebo infekci.
+
+## Obrázky
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

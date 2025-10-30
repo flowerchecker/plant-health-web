@@ -26,3 +26,6 @@ Ano, ale napravitelné vhodným **odstupem**, zkrácením svícení a lepším p
 
 ## Časté záměny
 - **Suchý vzduch** dělá suché špičky různě po rostlině; škody od lamp/tepla jsou **lokalizované** směrem ke zdroji.
+
+## Obrázky
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

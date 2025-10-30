@@ -33,3 +33,5 @@ Genellikle yönetilebilir bir **sorundur**. Hafif zarar bitkiyi öldürmez; yoğ
 - Pencere/kapılara sineklik takın.
 - Dış ortamdan gelen saksı ve toprakları karantinaya alın.
 
+## Resimler
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

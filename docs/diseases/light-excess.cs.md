@@ -25,3 +25,6 @@ Lokální poškození je **nevratné**, ale obvykle jen estetické. Nové listy 
 ## Časté záměny
 - **Spálení sluncem** způsobuje ostře ohraničené nekrotické skvrny; obecně je nadměrné osvětlení rovnoměrnější.  
 - **Nedostatek živin** může také způsobit blednutí listů.
+
+## Obrázky
+![light-excess.jpg](/assets/light-excess.jpg)

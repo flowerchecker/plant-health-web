@@ -27,3 +27,5 @@ Es un estrés ambiental que puede dejar cicatrices. Se previene con aclimatació
 ## Cuándo pedir ayuda
 Si ves ampollas o necrosis que se extienden, podría coexistir calor excesivo o plaga; consulta con fotos.
 
+## Imágenes
+![light-excess.jpg](/assets/light-excess.jpg)

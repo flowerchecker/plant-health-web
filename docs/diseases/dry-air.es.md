@@ -28,3 +28,5 @@ Es un problema ambiental frecuente y reversible si se mejora la humedad y se aju
 ## Cuándo pedir ayuda
 Si, pese a elevar la humedad y regar bien, aparecen manchas irregulares, plagas persistentes o pérdida de hojas, consulta para descartar otros factores.
 
+## Imágenes
+![dry_air.jpg](/assets/dry_air.jpg)

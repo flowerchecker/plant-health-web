@@ -24,3 +24,6 @@ Ja, men oftest begrænset til de behandlede blade. Nye blade bliver normalt igen
 - Klip hårdt beskadigede blade af; lad resten sidde, hvis de stadig fotosyntetiserer.
 - Sæt planten i stabilt, mildt lys og jævn vanding – ingen gødning i 2–3 uger.
 - Ved fremtidige behandlinger: Test på ét blad, brug laveste virksomme dosis, spray i skygge/kølige timer.
+
+## Billeder
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

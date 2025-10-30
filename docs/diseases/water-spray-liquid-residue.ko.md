@@ -23,4 +23,7 @@
 ## 예방/관리
 - 잎이 민감한 식물은 분무 대신 흙에만 물주기를 권장합니다.  
 - 실내는 약한 통풍을 유지해 표면 수분이 빨리 마르도록 합니다.
-  
+
+## 이미지
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

@@ -23,3 +23,6 @@ Kosmetisk på eksisterende blade, men gentagen skoldning svækker planten og øg
 - Giv let skygge midt på dagen (udendørs).
 - Hold bladene tørre i soltimerne.
 - Klip kun de værst skadede blade; forebyggelse er vigtigst.
+
+## Billeder
+![sunscald.jpg](/assets/sunscald.jpg)

@@ -23,4 +23,6 @@
 ## 예방/관리
 - 라벨 지시를 정확히 따르고 **정확한 계량**을 습관화하세요.  
 - 새 약제·혼합은 항상 **부분 테스트** 후 확대합니다.
-  
+
+## 이미지
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

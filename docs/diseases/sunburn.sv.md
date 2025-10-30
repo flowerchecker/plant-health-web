@@ -31,3 +31,6 @@ Odlingsproblem men lokalt. Nya blad kan anpassas till högre ljusnivåer med rä
 
 ## När det räcker
 Kosmetiska “ärr” är vanliga. Fokusera på frisk ny tillväxt och förebyggande placering.
+
+## Bilder
+![sunburn.jpg](/assets/sunburn.jpg)

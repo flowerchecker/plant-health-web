@@ -23,4 +23,6 @@
 ## 예방/관리
 - 로제트 중심에 물이 떨어지지 않게 주의합니다.  
 - 밤·한랭 시 분무를 피하세요.
-  
+
+## 이미지
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

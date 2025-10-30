@@ -28,3 +28,5 @@
 - توازن الري والتسميد يعزّز مقاومة النبات.  
 - حلول لطيفة: محلول صابوني مخفف للملامسة بعد اختبار الحساسية.
 
+## الصور
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

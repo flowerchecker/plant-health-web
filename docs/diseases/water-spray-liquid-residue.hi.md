@@ -15,3 +15,6 @@
 
 **रोकथाम:** तेज़ धूप में स्प्रे न करें; स्प्रे के बाद पत्तियाँ जल्दी सूखने दें।
 
+## छवियां
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

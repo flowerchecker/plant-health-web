@@ -24,3 +24,6 @@
 - استخدم ماءً مقطرًا/مفلترًا للأوراق الحسّاسة.  
 - رشّ خفيف مع تهوية جيدة وتجنّب وقت الحرّ.
 
+## الصور
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

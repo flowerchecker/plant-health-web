@@ -25,3 +25,6 @@ Lokální a **nevratné** na postižených částech, ale rostlina obvykle pře�
 
 ## Časté záměny
 - **Úžeh** je náhlé popálení při skokové změně světla/tepla; spálení sluncem bývá důsledkem **delší expozice** přes okno.
+
+## Obrázky
+![sunburn.jpg](/assets/sunburn.jpg)

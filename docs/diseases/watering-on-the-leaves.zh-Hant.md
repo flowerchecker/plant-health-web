@@ -24,3 +24,5 @@
 ## 預防小撇步
 避免在烈日或夜間讓葉面濕；毛面、粉質葉盡量不噴灑。
 
+## 圖片
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

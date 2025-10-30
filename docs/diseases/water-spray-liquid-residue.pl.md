@@ -25,3 +25,6 @@ Przetrzyj wilgotną ściereczką: jeśli ślad znika i tkanka pod spodem jest zd
 ## Jak zapobiegać
 Zamiast zraszać — podnoś wilgotność powietrza. Jeśli zraszasz, rób to rano i czystą, miękką wodą.
 
+## Zdjęcia
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

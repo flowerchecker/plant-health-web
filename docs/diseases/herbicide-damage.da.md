@@ -24,3 +24,6 @@ Ja – skaden kan være alvorlig, men nye skud kan komme sig, når eksponeringen
 - Flyt planten væk fra eksponeringskilden; brug kun rene beholdere.
 - Vent og observer 4–6 uger: Fjern kun stærkt skadet væv.
 - Undgå herbicider i blæsevejr; beskyt nabo-planter ved brug.
+
+## Billeder
+![herbicide_damage.jpg](/assets/herbicide_damage.jpg)

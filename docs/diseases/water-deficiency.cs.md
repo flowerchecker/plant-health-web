@@ -26,3 +26,10 @@ Ano, ale obvykle **rychle napravitelný**, pokud kořeny nejsou trvale poškozen
 
 ## Časté záměny
 - **Suchý vzduch** také vytváří hnědé špičky, ale **substrát** je vlhký.
+
+## Obrázky
+![water-deficiency.jpg](/assets/water-deficiency.jpg)
+![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](/assets/water-deficiency5.jpg)

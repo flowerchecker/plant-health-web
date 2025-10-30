@@ -25,3 +25,6 @@ Lokální a **nevratné** na postižených listech, ale rostlina může tvořit 
 
 ## Časté záměny
 - **Spálení sluncem** je podobné; úžeh je **náhlá** změna. U spálení přes okno jde často o dlouhodobější expozici.
+
+## Obrázky
+![sunscald.jpg](/assets/sunscald.jpg)

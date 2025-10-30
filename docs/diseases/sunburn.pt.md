@@ -23,3 +23,6 @@ Aumento brusco de luz, exposição através de vidro, reflexão de superfícies 
 
 ## Prevenção
 Transições **graduais** (semanas, não dias), cortinas/telas e observação diária nas primeiras semanas após qualquer mudança.
+
+## Imagens
+![sunburn.jpg](/assets/sunburn.jpg)

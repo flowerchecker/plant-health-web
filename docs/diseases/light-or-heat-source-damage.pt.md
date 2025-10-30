@@ -24,3 +24,5 @@ Luminárias de alta intensidade muito próximas, aquecedores direcionados, eletr
 ## Prevenção
 Posicionamento planejado: fontes intensas **não** devem incidir diretamente sobre a folhagem por longos períodos.
 
+## Imagens
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

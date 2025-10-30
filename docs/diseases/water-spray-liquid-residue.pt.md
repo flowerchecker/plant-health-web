@@ -24,3 +24,6 @@ Geralmente **não**. É **cosmético**, mas pode reduzir a fotossíntese se cobr
 ## Prevenção
 Use água filtrada/chuva para limpeza e priorize **rega no substrato** em vez de borrifos frequentes.
 
+## Imagens
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

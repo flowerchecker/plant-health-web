@@ -21,4 +21,6 @@
 
 ## 예방/관리
 - 빛·물주기를 일정하게 유지하면 잎이 더 고르게 전개됩니다.
-  
+
+## 이미지
+![emerging-leaf.jpg](/assets/emerging-leaf.jpg)

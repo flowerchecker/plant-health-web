@@ -25,3 +25,6 @@ Ano, ale řešitelný přesunem nebo **přisvětlením**.
 
 ## Časté záměny
 - **Nedostatek živin** může též způsobovat blednutí listů, ale rostlina nebývá vytáhlá. Při nedostatku světla jsou internodia (části stonku mezi listovým větvením) nápadně dlouhá.
+
+## Obrázky
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

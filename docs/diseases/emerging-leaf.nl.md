@@ -25,5 +25,7 @@ De “speer” wordt langer en rolt binnen dagen/weken uit. Geen rotgeur; punt i
 
 ## Voorkomen
 - Constante verzorging; droogteschokken geven scheuren of “vastzitten” van het blad.  
-- Bij hard water residu niet vernevelen op nieuw blad.  
+- Bij hard water residu niet vernevelen op nieuw blad.
 
+## Afbeeldingen
+![emerging-leaf.jpg](/assets/emerging-leaf.jpg)

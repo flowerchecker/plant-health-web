@@ -30,3 +30,6 @@ Genellikle **zararsız** kozmetik bir durumdur; stomaları tıkayacak yoğunlukt
 - Yaprak yüzeyini düzenli, nazikçe temizleyin.
 - Gereksiz yaprak spreylemelerinden kaçının; kökten dengeli besleyin.
 
+## Resimler
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

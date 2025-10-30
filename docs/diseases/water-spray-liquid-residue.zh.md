@@ -28,3 +28,6 @@
 ## 预防要点
 重在“源头换水、喷后轻拭”。不要把残留误判为真菌病，以免过度用药。
 
+## 图片
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

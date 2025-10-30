@@ -25,3 +25,9 @@ Intervalos longos sem rega, substrato muito drenante, vaso pequeno, calor/vento.
 ## Prevenção
 Substrato adequado, vaso proporcional, monitoramento por **peso do vaso** e toque no solo; proteção contra vento e sol forte.
 
+## Imagens
+![water-deficiency.jpg](/assets/water-deficiency.jpg)
+![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](/assets/water-deficiency5.jpg)

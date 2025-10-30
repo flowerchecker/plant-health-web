@@ -25,3 +25,5 @@ Ar seco, excesso de nitrogênio (brotos muito tenros), pouca circulação de ar,
 ## Prevenção
 Quarentena de novas plantas por 2 semanas, inspeção semanal, umidade adequada e adubação **equilibrada** para evitar brotações excessivamente tenras.
 
+## Imagens
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

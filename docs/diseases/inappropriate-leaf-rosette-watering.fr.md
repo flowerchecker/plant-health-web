@@ -31,3 +31,5 @@ Sérieux si le point de croissance est atteint. Agir rapidement.
 - Arrosages matinaux, éviter que la couronne reste humide la nuit.  
 - Adapter la fréquence à la saison (moins souvent l’hiver).
 
+## Images
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

@@ -23,4 +23,9 @@
 ## 예방/관리
 - “충분히 적시고, 부분 건조를 허용”하는 리듬을 지킵니다.  
 - 펄라이트·수피 등으로 흙의 통기성을 높입니다.
-  
+
+## 이미지
+![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)

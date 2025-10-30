@@ -30,3 +30,5 @@ Gênant mais souvent limité si intervention rapide. Les tissus brûlés ne gué
 - Traiter **hors soleil**, par températures modérées, le soir ou tôt le matin.  
 - Respecter strictement les **doses** et ne pas multiplier les produits.
 
+## Images
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

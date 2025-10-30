@@ -24,3 +24,5 @@ Plötzliche Mittagssonne am Fenster, Glaslinseffekt, Hitzespitzen, sehr nahe sta
 ## Vorbeugen
 **Eingewöhnung** an Sonne über 1–2 Wochen (täglich etwas länger), besonders empfindliche Arten zur Mittagszeit beschatten; Lampenabstand/Laufzeit prüfen.
 
+## Bilder
+![sunscald.jpg](/assets/sunscald.jpg)

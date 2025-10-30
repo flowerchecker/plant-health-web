@@ -28,5 +28,7 @@ Pot de plant uit. Gezonde wortels: stevig, wit/creme. Rot: bruin, slijmerig, hol
 ## Voorkomen
 - Voorzichtig losmaken bij verpotten, niet trekken aan stelen.  
 - Jaarlijks de mix verversen bij snelgroeiers.  
-- Meet water op gevoel/gewicht i.p.v. kalender.  
+- Meet water op gevoel/gewicht i.p.v. kalender.
 
+## Afbeeldingen
+![root-damage.jpg](/assets/root-damage.jpg)

@@ -24,3 +24,5 @@ Il danno è maggiore sul lato esposto; le nuove foglie in posizioni più riparat
 ## Prevenzione
 Acclimatazioni lente, esposizioni coerenti con la specie, distanza corretta dalle lampade.
 
+## Immagini
+![light-excess.jpg](/assets/light-excess.jpg)

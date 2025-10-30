@@ -28,3 +28,5 @@
 ## 预防要点
 根据季节与朝向动态调整位置；花芽分化期更要保障光照。
 
+## 图片
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

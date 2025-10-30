@@ -24,3 +24,5 @@ Encharcamento, substrato velho e compacto, pragas de solo, manuseio brusco no re
 ## Prevenção
 Renove o substrato periodicamente, garanta drenagem e **replaneje o tamanho** do vaso conforme o crescimento.
 
+## Imagens
+![root-damage.jpg](/assets/root-damage.jpg)

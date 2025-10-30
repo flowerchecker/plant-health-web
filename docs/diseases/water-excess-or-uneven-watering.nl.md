@@ -28,5 +28,10 @@ Til de plant uit de pot: gezonde wortels zijn stevig licht; zompige, bruine wort
 ## Voorkomen
 - Meng perliet/schors in potgrond.  
 - Pas waterfrequentie aan het seizoen aan.  
-- Consequent schema i.p.v. paniekgieten.  
+- Consequent schema i.p.v. paniekgieten.
 
+## Afbeeldingen
+![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)

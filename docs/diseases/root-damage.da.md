@@ -24,3 +24,6 @@ Ja – rødder er plantens motor. Hurtig, skånsom udbedring er vigtig for overl
 - Ompot i luftig jord og potte med drænhul; pres ikke jorden for tæt.
 - Vand sparsomt de første 1–2 uger, så sår heler; giv meget lys uden direkte middagssol.
 - Støt planten med pind, til rødderne har greb igen.
+
+## Billeder
+![root-damage.jpg](/assets/root-damage.jpg)

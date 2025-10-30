@@ -27,3 +27,5 @@ Es un problema ambiental agudo. Las zonas quemadas no se recuperan, pero el rest
 ## Cuándo pedir ayuda
 Si el daño continúa pese a ajustar luz/temperatura, revisa exceso de fertilizante o calor de lámparas y consulta.
 
+## Imágenes
+![sunscald.jpg](/assets/sunscald.jpg)

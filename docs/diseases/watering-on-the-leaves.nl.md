@@ -25,5 +25,7 @@ Vlekken verschijnen op plekken waar druppels lagen; nerfpatroon onbeschadigd. Ni
 
 ## Voorkomen
 - Test bladgevoeligheid; vermijd bladnat bij behaard blad.  
-- Gebruik lauw, zacht water.  
+- Gebruik lauw, zacht water.
 
+## Afbeeldingen
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

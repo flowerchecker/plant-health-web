@@ -24,3 +24,5 @@ Il danno coincide con il lato esposto; spostando la fonte la situazione smette d
 ## Prevenzione
 Pianifica l’illuminazione e il posizionamento tenendo conto di calore e distanza dalla chioma.
 
+## Immagini
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

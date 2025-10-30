@@ -24,3 +24,5 @@ Starke Pflanzenlampen ohne ausreichenden Abstand, Reflektoren, die punktuell erh
 ## Vorbeugen
 Lampen mit Zeitschaltuhr (10–12 h) und Herstellerabständen betreiben; Temperatur gelegentlich prüfen; keine Dauerplätze direkt über Heizkörpern.
 
+## Bilder
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

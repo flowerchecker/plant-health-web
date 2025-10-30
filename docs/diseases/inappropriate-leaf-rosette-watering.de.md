@@ -24,3 +24,5 @@ Gießen/Sprühen direkt in die Rosette, kalte Zugluft nach dem Sprühen.
 ## Vorbeugen
 Morgens gießen, damit Restfeuchte zügig abtrocknet; leichte Luftbewegung ohne Zugluft; keine dauerhafte Nässe im Herz.
 
+## Bilder
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

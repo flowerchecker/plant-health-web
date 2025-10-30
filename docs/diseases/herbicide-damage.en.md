@@ -31,3 +31,5 @@ Yes—stop exposure and support recovery. Some cases are reversible; others take
 - **Pesticide phytotoxicity** from soaps/oils burns leaf surfaces but usually doesn’t cause the pronounced twisting typical here.  
 - **Sap-sucking pests** can distort new growth—inspect closely for insects.
 
+## Images
+![herbicide_damage.jpg](/assets/herbicide_damage.jpg)

@@ -30,3 +30,5 @@ Variable ; souvent irréversible pour les feuilles touchées. La plante peut rep
 - Dédiquer un pulvérisateur aux herbicides et un autre au jardin.  
 - Vérifier la provenance des paillages/composts (attention aux résidus persistants).
 
+## Images
+![herbicide_damage.jpg](/assets/herbicide_damage.jpg)

@@ -26,3 +26,6 @@
 ## 預防小撇步
 以擦葉取代噴葉；澆水盡量直接入土，避免葉面長時間潮濕。
 
+## 圖片
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

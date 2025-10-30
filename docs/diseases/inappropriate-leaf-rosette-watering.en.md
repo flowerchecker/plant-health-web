@@ -30,3 +30,5 @@ Yes—protect the crown and adjust watering technique.
 - **Watering on leaves** alone doesn’t usually rot the crown unless water sits in the center.  
 - **Pest injury** can deform the crown—inspect for sap-feeders if distortion continues after technique changes.
 
+## Images
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

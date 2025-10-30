@@ -25,3 +25,5 @@ Ciclo normal, sazonalidade e redistribuição de energia após a floração.
 ## Prevenção
 Respeite o ciclo anual: após florir, ofereça período de recuperação. Evite adubações fortes logo após a floração; consulte cuidados específicos da espécie.
 
+## Imagens
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

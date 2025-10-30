@@ -25,3 +25,5 @@
 - ثبّت دورة ضوئية مستقرة وفارقًا بسيطًا بين حرارة النهار والليل.  
 - تجنّب نقل النبات المتكرر أثناء تكوين البراعم.
 
+## الصور
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

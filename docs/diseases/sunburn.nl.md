@@ -26,3 +26,6 @@ Schade enkel aan zonzijde, vaak met scherpe randen; geen plakkerigheid (dus geen
 ## Voorkomen
 - Variegate of dunbladige soorten liever oost- of noordlicht of gefilterd zuid.  
 - Controleer in lente “eerste zonnedagen” extra.
+
+## Afbeeldingen
+![sunburn.jpg](/assets/sunburn.jpg)

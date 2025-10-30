@@ -27,5 +27,7 @@ Herken timing: schade verschijnt 1–3 dagen na toepassing. Check etiket: kloppe
 ## Voorkomen
 - Altijd eerst **spot-test** op 1 blad, 48 u wachten.  
 - Etiket volgen, nooit overdoseren of mixen.  
-- Toepassen bij gedempt licht, koel blad, ’s avonds of vroeg.  
+- Toepassen bij gedempt licht, koel blad, ’s avonds of vroeg.
 
+## Afbeeldingen
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

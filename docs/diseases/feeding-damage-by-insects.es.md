@@ -30,3 +30,5 @@ Es un problema tratable. Daños leves no suelen comprometer a la planta; daños 
 ## Cuándo pedir ayuda
 Si el daño progresa pese a controles físicos y jabón/neem, o no identificas al responsable, comparte fotos nítidas del envés y de los daños característicos.
 
+## Imágenes
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

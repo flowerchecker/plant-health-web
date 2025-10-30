@@ -25,5 +25,7 @@ Schaduwhoek-test: houd je hand 30 cm boven het blad. Is de schaduw wazig of afwe
 
 ## Voorkomen
 - Draai de pot elke 2–3 weken voor gelijkmatige belichting.  
-- In de winter tijdelijk dichter naar het raam.  
+- In de winter tijdelijk dichter naar het raam.
 
+## Afbeeldingen
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

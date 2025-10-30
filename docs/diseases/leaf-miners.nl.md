@@ -23,5 +23,7 @@ Houd het blad tegen het licht; zie je een klein larvetje in de gang bewegen? Dan
 
 ## Voorkomen
 - Nieuwe buitenplanten checken voor binnenkomst.  
-- Houd ramen met gaas open i.p.v. wijd open bij licht ’s avonds.  
+- Houd ramen met gaas open i.p.v. wijd open bij licht ’s avonds.
 
+## Afbeeldingen
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

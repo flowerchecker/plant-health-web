@@ -28,3 +28,5 @@
 ## 預防小撇步
 「薄肥勤施」＋每 2–3 個月清水徹底沖盆；觀察新葉顏色與速度作微調。
 
+## 圖片
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

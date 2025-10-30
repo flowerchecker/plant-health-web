@@ -30,3 +30,5 @@ Modérée à élevée selon l’étendue. Les tissus brûlés ne se régénèren
 - Utiliser des voiles/stores aux heures chaudes.  
 - Tourner le pot régulièrement pour éviter un côté très vulnérable.
 
+## Images
+![sunscald.jpg](/assets/sunscald.jpg)

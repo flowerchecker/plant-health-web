@@ -30,3 +30,5 @@ Modérée à sérieuse selon la proximité. Facile à corriger en ajustant les d
 - Utiliser des réflecteurs/diffuseurs.  
 - Éviter toute source d’air brûlant dirigée sur la plante.
 
+## Images
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

@@ -24,3 +24,5 @@
 ## 預防小撇步
 循序「練日」：每週增加 1–2 小時直光，連續 2–3 週完成過渡；夏季正午加遮陰。
 
+## 圖片
+![light-excess.jpg](/assets/light-excess.jpg)

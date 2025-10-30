@@ -25,3 +25,6 @@ Som regel moderat og håndterbart. Kraftigt gnav på unge planter kan dog hæmme
 - Flyt særligt udsatte planter lidt væk fra åbne vinduer/lamper om natten.
 - Klip svært beskadigede blade af; planten prioriterer nye, hele blade.
 - Undgå stærke sprøjtemidler indendørs; ved stor udendørs skade kan biologiske midler overvejes efter behov.
+
+## Billeder
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

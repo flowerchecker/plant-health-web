@@ -25,3 +25,6 @@ Det er en almindelig trivselssituation – ikke en smitsom sygdom. Skaden er mes
 - Flyt væk fra radiatorer/varmeblæsere og fra direkte sol i de tørreste timer.
 - Vand jævnt: Hold let fugt, men undgå konstant våd jord.
 - Klip brune spidser pænt af (følg bladets form), så stopper skaden dér.
+
+## Billeder
+![dry_air.jpg](/assets/dry_air.jpg)

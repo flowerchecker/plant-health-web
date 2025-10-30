@@ -32,3 +32,5 @@ Odlingsproblem. Skadade blad återfår inte färgen, men ny tillväxt blir frisk
 ## När det räcker
 Lätt blekning är kosmetisk. Fokusera på kommande frisk tillväxt.
 
+## Bilder
+![light-excess.jpg](/assets/light-excess.jpg)

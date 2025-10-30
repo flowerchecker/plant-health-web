@@ -31,3 +31,5 @@ Often **no urgent action.** Gentle maintenance sets the stage for the next cycle
 - **Bud blast** from low humidity or missed watering causes buds to dry before opening.  
 - **Nutrient issues** can reduce bloom count.
 
+## Images
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

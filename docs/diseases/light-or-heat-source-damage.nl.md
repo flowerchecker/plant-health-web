@@ -25,5 +25,7 @@ Voel met je hand ter plekke: is het warmer dan lichaamstemperatuur, dan te heet.
 
 ## Voorkomen
 - Plaats thermometer/hygrometer bij plantenhoek.  
-- Houd lampen verstelbaar en verhoog afstand bij groei.  
+- Houd lampen verstelbaar en verhoog afstand bij groei.
 
+## Afbeeldingen
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

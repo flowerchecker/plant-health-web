@@ -27,3 +27,5 @@
 ## 預防小撇步
 新植固定隔離觀察 1–2 週；保持植株間距與清潔葉面，可大幅降低爆發風險。
 
+## 圖片
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

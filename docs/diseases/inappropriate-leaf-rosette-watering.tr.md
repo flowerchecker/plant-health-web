@@ -31,3 +31,5 @@ Rozet merkezine dökülen su uzun süre kalınca, havalanma azlığıyla mantar/
 - Sislemeyi serin ve havasız ortamda yapmayın.
 - Havadar karışım ve drenaj delikli saksı kullanın.
 
+## Resimler
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

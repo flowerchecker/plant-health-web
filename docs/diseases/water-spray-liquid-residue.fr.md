@@ -28,3 +28,6 @@ Bénin et esthétique uniquement.
 - Préférez l’arrosage au substrat aux brumisations systématiques.  
 - Nettoyez régulièrement les feuilles avec de l’eau claire tiède.
 
+## Images
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

@@ -23,3 +23,6 @@ Som regel kosmetisk. Nogle arter er dog meget følsomme og får varige pletter p
 - Spray kun i skygge/kølige timer og med blødt vand.
 - Aftør overskydende dråber på følsomme arter.
 - Fjern stærkt plettede blade kun, hvis planten har rigeligt sundt løv.
+
+## Billeder
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

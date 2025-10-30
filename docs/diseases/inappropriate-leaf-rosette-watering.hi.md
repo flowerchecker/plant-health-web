@@ -13,3 +13,5 @@
 
 **रोकथाम:** केंद्र में पानी न ठहरे; स्प्रे कम, और ऐसा समय जब पत्तियाँ जल्दी सूखें।
 
+## छवियां
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

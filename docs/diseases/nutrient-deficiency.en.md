@@ -32,3 +32,5 @@ Usually yes—after ruling out root or watering problems.
 - **Overwatering/poor roots** can mimic deficiency.  
 - **Light issues** (too dim) also cause weak, pale growth—address light as well.
 
+## Images
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

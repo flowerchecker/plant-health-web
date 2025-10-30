@@ -29,3 +29,5 @@
 ## 预防要点
 先小范围试喷48小时观察；混配前查兼容性；喷后数小时内避免直射与密闭。
 
+## 图片
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

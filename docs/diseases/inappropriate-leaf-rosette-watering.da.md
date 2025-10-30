@@ -23,3 +23,6 @@ Ja – skaden kan brede sig ned i stænglen og dræbe vækstpunktet.
 - Vip potten let og dup vand i bladaksler med papir.
 - Giv mere luftcirkulation og varme, så dråber tørrer hurtigt.
 - Fjern rådne blade med ren saks; ved svær skade tages sunde yderblade som stiklinger.
+
+## Billeder
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

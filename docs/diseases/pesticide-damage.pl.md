@@ -25,3 +25,5 @@ Objawy pojawiają się 1–3 dni po zabiegu, szczególnie na młodych liściach;
 ## Jak zapobiegać
 Trzymaj się etykiety, opryskuj w chłodny poranek/wieczór, nie łącz środków bez zaleceń producenta.
 
+## Zdjęcia
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

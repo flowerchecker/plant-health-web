@@ -28,3 +28,5 @@ Es un problema localizado y controlable si se actúa temprano.
 ## Cuándo pedir ayuda
 Si los túneles reaparecen continuamente en hojas nuevas, consulta para confirmar especie y opciones de control.
 
+## Imágenes
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

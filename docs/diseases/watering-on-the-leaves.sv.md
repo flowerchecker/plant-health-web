@@ -26,3 +26,5 @@ Vanligt och mestadels ofarligt.
 ## När det räcker
 Om nya blad är friska är äldre fläckar bara “ärr”. Ingen vidare åtgärd behövs.
 
+## Bilder
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

@@ -24,3 +24,5 @@ In controluce puoi vedere la larvetta all’estremità della galleria; comune su
 ## Prevenzione
 Rimozione tempestiva delle prime foglie colpite; riduci stress; protezioni fisiche su specie spesso attaccate.
 
+## Immagini
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

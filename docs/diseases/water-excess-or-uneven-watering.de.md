@@ -25,3 +25,8 @@ Gießen „auf Vorrat“, Töpfe ohne Abfluss, zu dichte Erde, gleiches Gießmus
 ## Vorbeugen
 Jahreszeit berücksichtigen (im Winter weniger Bedarf), gleichmäßige Gießmengen statt häufiger „Schlucke“, Topfgewicht als Signal nutzen.
 
+## Bilder
+![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)

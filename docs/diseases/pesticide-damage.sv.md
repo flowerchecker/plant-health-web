@@ -35,3 +35,5 @@ Odlingsproblem – oftast kosmetiskt men kan bli omfattande vid överdos.
 ## När det räcker
 Om ny tillväxt ser normal ut, är skadan främst estetisk – fortsätt med god skötsel.
 
+## Bilder
+![pesticide-damage.jpg](/assets/pesticide-damage.jpg)

@@ -24,4 +24,6 @@
 ## 예방/관리
 - 규칙적인 광·온도·물주기 리듬을 유지합니다.  
 - 꽃눈이 생길 때는 잦은 위치 이동을 피합니다.
-  
+
+## 이미지
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

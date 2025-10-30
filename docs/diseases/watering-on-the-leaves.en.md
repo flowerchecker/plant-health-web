@@ -28,3 +28,5 @@ Usually minimal. Modify technique to avoid standing droplets in bright light.
 - **Pathogen leaf spots** expand, have halos, or appear on new leaves despite careful watering—monitor spread if unsure.  
 - **Spray residue** from foliar products.
 
+## Images
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

@@ -36,3 +36,5 @@ Ett verkligt problem, men tidiga insatser lyckas ofta.
 ## När det räcker
 Små populationer kan hållas nere med dusch + såpa. Följ upp varje vecka tills du inte hittar djur längre.
 
+## Bilder
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

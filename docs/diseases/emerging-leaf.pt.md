@@ -24,3 +24,5 @@ Crescimento ativo com luz e nutrição adequadas.
 ## Prevenção
 Luz apropriada, nutrição **regular** e cuidado para não molhar o miolo de espécies sensíveis.
 
+## Imagens
+![emerging-leaf.jpg](/assets/emerging-leaf.jpg)

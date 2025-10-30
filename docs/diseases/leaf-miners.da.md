@@ -22,3 +22,6 @@ Som regel begrænset, men kan brede sig i drivhus/udendørs og blive kosmetisk g
 - Sæt gule limplader op for at fange voksne fluer.
 - Dæk følsomme afgrøder/planter udendørs med insektnet.
 - Styrk planten med jævn vanding/lys; den sætter nye, sunde blade.
+
+## Billeder
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

@@ -33,3 +33,5 @@ Odlingsproblem – går oftast att vända med balanserad näring och frisk rotmi
 ## När det räcker
 Gamla gula blad blir inte gröna igen – bedöm förbättringen på nya blad.
 
+## Bilder
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

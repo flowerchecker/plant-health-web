@@ -29,3 +29,5 @@ Yes—remove affected tissue and break the life cycle.
 - **Chewing holes** go through the leaf; mines are enclosed between layers.  
 - **Fungal/abiotic blotches** lack the winding trail pattern.
 
+## Images
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

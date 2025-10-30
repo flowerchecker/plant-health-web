@@ -29,5 +29,7 @@ Lichte schade is vooral cosmetisch. Zware of aanhoudende schade kan groei remmen
 ## Voorkomen
 - Nieuwe planten buiten eerst 1–2 weken observeren.  
 - Geen eten/compostresten rond kamerplanten.  
-- Houd deur/raam ’s avonds met licht uit of voorzien van horren.  
+- Houd deur/raam ’s avonds met licht uit of voorzien van horren.
 
+## Afbeeldingen
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

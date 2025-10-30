@@ -27,3 +27,5 @@ Mineur à modéré selon l’espèce. Les marques existantes ne disparaissent pa
 - Pulvériser uniquement tôt le matin/soir, à distance, ou privilégier l’humidification ambiante (plateaux, humidificateur).  
 - Éviter toute eau sur les feuilles poilues et rosettes.
 
+## Images
+![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)

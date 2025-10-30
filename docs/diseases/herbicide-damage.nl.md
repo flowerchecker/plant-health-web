@@ -26,5 +26,7 @@ Let op timing: schade verschijnt kort na spuitmomenten in de omgeving. Andere pl
 ## Voorkomen
 - Gebruik nooit tuin-herbiciden binnen of nabij kamerplanten.  
 - Label spuitmateriaal per doel; reinig grondig.  
-- Koop compost/substraat van betrouwbare bron.  
+- Koop compost/substraat van betrouwbare bron.
 
+## Afbeeldingen
+![herbicide_damage.jpg](/assets/herbicide_damage.jpg)

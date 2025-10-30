@@ -32,3 +32,5 @@ Problème courant mais maîtrisable. Les jeunes pousses sont les plus sensibles.
 - Nettoyage périodique du feuillage.  
 - Maintien d’une humidité modérée (les thrips aiment l’air sec).
 
+## Images
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

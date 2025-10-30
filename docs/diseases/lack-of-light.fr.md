@@ -29,3 +29,5 @@ Problème courant mais réversible. Les anciennes tiges restent étiolées, mais
 - Maintenir les vitres propres et dégager l’espace devant la plante.  
 - Acclimater progressivement à une lumière plus forte pour éviter brûlures.
 
+## Images
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

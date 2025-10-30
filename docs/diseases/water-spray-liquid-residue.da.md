@@ -23,3 +23,7 @@ Overvejende kosmetisk. Skader ikke planten, men ved tykke lag kan lyset til blad
 - Spray om morgenen og ikke i direkte sol.
 - Aftør med blød, fugtig klud månedligt for renere blade.
 - Overvej at forstøve luften omkring planten i stedet for direkte på bladene.
+
+## Billeder
+![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)

@@ -34,3 +34,5 @@ Helt naturligt. Ingen sjukdom eller skada.
 ## När det räcker
 Ser växten frisk ut och har bara blommat färdigt behövs inga åtgärder. Ha tålamod – nästa blomcykel kommer.
 
+## Bilder
+![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)

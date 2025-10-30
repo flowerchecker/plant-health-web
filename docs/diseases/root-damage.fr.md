@@ -32,3 +32,5 @@ Sérieux : moins de racines = moins d’eau et de nutriments, la partie aérienn
 - Éviter les chocs mécaniques lors des manipulations.  
 - Fertiliser à demi-dose et rincer le substrat ponctuellement.
 
+## Images
+![root-damage.jpg](/assets/root-damage.jpg)

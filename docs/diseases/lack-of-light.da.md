@@ -23,3 +23,6 @@ Ja for vækst og blomstring – heldigvis er det let at forbedre.
 - Supplér med plante-LED 10–12 t/dag i vinterhalvåret.
 - Drej planten ¼ omgang hver uge for jævn vækst.
 - Reducér vanding (jord tørrer langsommere i svagt lys).
+
+## Billeder
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

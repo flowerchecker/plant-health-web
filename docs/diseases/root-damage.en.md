@@ -31,3 +31,5 @@ Yes—roots are the engine; prioritize their recovery.
 - **Water deficiency** looks similar—but if soil is moist and wilt persists, suspect roots.  
 - **Cold shock** can also cause wilt after draft exposure.
 
+## Images
+![root-damage.jpg](/assets/root-damage.jpg)

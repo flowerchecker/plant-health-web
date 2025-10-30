@@ -24,3 +24,5 @@ Borrifar ou despejar água **no miolo**, baixa ventilação, temperaturas baixas
 ## Prevenção
 Regar pela **lateral** do vaso, melhorar a circulação de ar e evitar borrifos frequentes no centro.
 
+## Imagens
+![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)

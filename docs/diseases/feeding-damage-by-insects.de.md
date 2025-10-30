@@ -26,3 +26,5 @@ Eingeschleppte Larven in Kübelpflanzen, Einflug nachtaktiver Falter, Zugang von
 ## Vorbeugen
 Neue Pflanzen 2–3 Wochen isolieren, regelmäßig Unterseiten kontrollieren, Staunässe vermeiden und Pflanzen kräftig halten (gleichmäßige Pflege).
 
+## Bilder
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

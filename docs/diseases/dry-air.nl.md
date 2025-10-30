@@ -27,5 +27,7 @@ Gebruik een eenvoudige hygrometer: streef 45–60% RV (veel tropische soorten wa
 ## Voorkomen
 - Regelmatig water meten; in verwarmd seizoen vaker kleine gietbeurten.  
 - Vermijd bladglans-sprays die poriën verstoppen.  
-- Bij gevoelige soorten: grotere pot, dikkere mulchlaag (schors, kokoschips) om verdamping te vertragen.  
+- Bij gevoelige soorten: grotere pot, dikkere mulchlaag (schors, kokoschips) om verdamping te vertragen.
 
+## Afbeeldingen
+![dry_air.jpg](/assets/dry_air.jpg)

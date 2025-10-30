@@ -24,3 +24,5 @@ Einflug adulter Minierer, besonders an Fenstern/Balkonen; selten Einschleppung m
 ## Vorbeugen
 Neue Pflanzen beobachten; Insektenschutz an Fenstern; kräftige Pflanzen tolerieren leichten Befall gut.
 
+## Bilder
+![leaf-miners.jpg](/assets/leaf-miners.jpg)

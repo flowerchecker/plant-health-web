@@ -31,3 +31,5 @@ Yes. Early, gentle control prevents population explosions and leaf loss.
 - **Feeding holes** (chewers) vs. stippling/honeydew (piercing-sucking).  
 - **Hard water residue** can mimic honeydew—sticky feel distinguishes true honeydew.
 
+## Images
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

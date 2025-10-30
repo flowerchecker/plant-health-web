@@ -20,3 +20,6 @@ Nej – helt naturligt og kræver ingen behandling.
 ## Hvad du kan gøre
 - Fortsæt god pleje: jævnt lys, jævn vanding, svag gødning hver 2.–3. vanding i vækstsæsonen.
 - Undgå at pille ved skrøbelige skud; de retter sig selv.
+
+## Billeder
+![emerging-leaf.jpg](/assets/emerging-leaf.jpg)

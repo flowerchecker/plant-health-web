@@ -26,3 +26,8 @@ Wyjmij bryłę: brunatne, miękkie korzenie łatwo się odrywają; sonda stale p
 ## Jak zapobiegać
 Dodatek perlitu/kory/piasku (zależnie od gatunku), właściwa wielkość donicy, nauka „oddechu” podłoża (cykl mokro–sucho).
 
+## Zdjęcia
+![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)

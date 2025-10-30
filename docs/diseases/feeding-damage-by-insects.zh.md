@@ -29,3 +29,5 @@
 ## 预防要点
 新植物隔离观察1–2周；定期翻看叶背；夜间不留潮湿杂物。轻伤不必恐慌，恢复期保证光照与营养即可。
 
+## 图片
+![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)

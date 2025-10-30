@@ -29,3 +29,5 @@ Radyatör, fırın, şömine, ısıtıcı fan veya yüksek ısı yayan lambalar 
 - Zamanlayıcı ve mesafeyle ışıkları yönetin; yaprak sıcaklığını elinizle kontrol edin.
 - Hafif hava sirkülasyonu sağlayın; sıcak hava cepleri oluşmasın.
 
+## Resimler
+![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)

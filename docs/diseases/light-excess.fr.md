@@ -29,3 +29,5 @@ Problème de culture courant. Les zones brûlées ne reverdissent pas, mais la p
 - Garder 20–30 cm entre une lampe et le feuillage (selon puissance).  
 - Surveiller particulièrement les jeunes feuilles, plus sensibles.
 
+## Images
+![light-excess.jpg](/assets/light-excess.jpg)

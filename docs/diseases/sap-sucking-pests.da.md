@@ -25,3 +25,6 @@ Ja, men håndterbart ved tidlig indsats. Langvarige angreb hæmmer væksten og �
 - Gentag behandling ugentligt 3–4 gange for at ramme nye klækninger.
 - Brug gul/blå limfælder mod flyvende stadier.
 - Styrk plejen: mere lys, jævn vanding, moderat gødskning.
+
+## Billeder
+![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)

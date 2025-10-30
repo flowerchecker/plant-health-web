@@ -30,3 +30,5 @@ Yoğun güneş ve ısıyla dokuda **güneş zararı** oluşur; gövde/meyvede ka
 - Cam yüzeylere yaprak temasını önleyin.
 - Türün güneş toleransını dikkate alın.
 
+## Resimler
+![sunscald.jpg](/assets/sunscald.jpg)

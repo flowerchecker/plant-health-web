@@ -30,3 +30,5 @@ Yes—gentle, sustainable light upgrades make a big difference.
 - **Light excess** shows bleaching/scorch; light excess causes elongated, soft growth.  
 - **Nutrient deficiency** can pale leaves even in good light—use a modest, regular feed program.
 
+## Images
+![lack-of-light.jpg](/assets/lack-of-light.jpg)

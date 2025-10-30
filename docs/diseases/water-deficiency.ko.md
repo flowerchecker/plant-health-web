@@ -24,4 +24,10 @@
 ## 예방/관리
 - 수분 보유력이 있는 배합토와 적절한 화분 크기를 사용합니다.  
 - 여름철 강광에서는 오후 햇빛을 차광하거나 위치를 조정합니다.
-  
+
+## 이미지
+![water-deficiency.jpg](/assets/water-deficiency.jpg)
+![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](/assets/water-deficiency5.jpg)

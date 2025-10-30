@@ -32,3 +32,5 @@ Besin elementlerinin (özellikle azot, demir, magnezyum, potasyum) yetersizliği
 - pH’ı izleyin; gerekirse asitleştirilmiş/filtre su kullanın.
 - Periyodik durulama ile tuz birikimini azaltın.
 
+## Resimler
+![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)

@@ -30,3 +30,5 @@ Aşırı/ani yoğun ışık, özellikle sıcakla birleştiğinde, yaprak dokusun
 - Gölge türlerini doğrudan güneşe koymayın.
 - LED’lerde zamanlayıcı ve mesafe kullanın; yaprak sıcaklığını elle kontrol edin.
 
+## Resimler
+![light-excess.jpg](/assets/light-excess.jpg)
