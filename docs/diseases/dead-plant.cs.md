@@ -24,7 +24,7 @@ Ano, obvykle nevratný. Někdy lze zachránit řízky ze zdravých částí, pok
 - Váhový test: lehký květináč = čas zalít, těžký = počkat.  
 - Umístěte rostlinu na odpovídající světlo a chraňte před extrémy teplot.
 
-## Časté záměny**
+## Časté záměny
 - **Zimní klid** vs. smrt: v klidu rostlina zpravidla drží pevné kořeny a dřevo zůstává zelené pod kůrou. Při pochybnostech prověřte řezem a kořeny.
 
 ## Obrázky
