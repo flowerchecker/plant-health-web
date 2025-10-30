@@ -25,3 +25,7 @@ Raschia leggermente la corteccia: verde = vivo, marrone/grigio = morto. Estrai l
 ## Prevenzione
 Controlli settimanali, irrigazione in base all’asciugatura del substrato, rinvasi graduali, acclimatazione quando sposti la pianta tra ambienti molto diversi.
 
+## Immagini
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

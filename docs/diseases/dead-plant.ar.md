@@ -29,3 +29,8 @@
 - استخدم أوعية مثقّبة وخليط تربة هوائي.  
 - تدرّج عند تغيير المكان أو شدة الضوء؛ تجنّب الشمس الحارقة والبرد المفاجئ.  
 - راقب نباتك أسبوعيًا لاكتشاف المشكلات مبكرًا.
+
+## الصور
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

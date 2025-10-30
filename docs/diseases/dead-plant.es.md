@@ -30,3 +30,7 @@ Es un problema real y, por desgracia, generalmente irreversible. Aun así, convi
 ## Cuándo pedir ayuda
 Si no identificas la causa (plaga, hongo, exceso/falta de agua) o dudas sobre viabilidad de raíces y tallos, comparte fotos claras (raíz, sustrato, hojas) para confirmar el diagnóstico.
 
+## Imágenes
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

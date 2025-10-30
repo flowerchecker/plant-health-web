@@ -26,3 +26,8 @@ Ja – planten er desværre ikke længere levende. Fokus bør være på årsagsa
 - Desinficér potten (varmt vand + mildt opvaskemiddel) og brug frisk jord til næste plante.
 - Hvis enkelte dele stadig er grønne, kan du forsøge stiklinger fra sunde spidser.
 - Notér, hvad der skete (ferie, kulde, overvanding), og justér vanding/lys fremover.
+
+## Billeder
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

@@ -34,3 +34,7 @@
 ## 预防要点
 规律浇水、合适光照与温度、定期检查根系与排水；新手可用指测或称重法判断浇水时机。对敏感品种，优先少量多次的保守策略。
 
+## 图片
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

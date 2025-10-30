@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/">
+  </head>
+  <body>
+    <p>Redirecting to the English homepage...</p>
+    <script>
+        (function(){
+            // If the user visits a path prefixed with /en/ redirect to the root-based English path.
+            // MkDocs Static i18n places the default language at the site root ("/"), so
+            // /en/... does not exist when English is configured as the default. This
+            // client-side redirect is a low-risk compatibility shim so /en/... behaves
+            // like /. Example: /en/diseases/foo/ -> /diseases/foo/
+            try{
+            if(window.location.pathname.indexOf('/en/') === 0){
+                var newPath = window.location.pathname.replace(/^\/en/, '');
+                // Preserve search and hash
+                window.location.replace(newPath + window.location.search + window.location.hash);
+            }
+            }catch(e){}
+        })();
+    </script>
+  </body>
+</html>

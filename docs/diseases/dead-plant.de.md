@@ -26,3 +26,7 @@ Langanhaltende Trockenheit oder Staunässe (Wurzelfäule), starke Hitze-/Frostsc
 ## Vorbeugen
 Konstantes Gießen (durchdringend, dann abtrocknen lassen), ausreichendes aber nicht extremes Licht, langsame Eingewöhnung an hellere Standorte, Nährstoffe niedrig starten und steigern, Mittel stets **etikettgerecht** und zuerst an einem Blatt testen. Bei Hitze/Kälte keine Standorte direkt am Glas oder Heizkörper wählen.
 
+## Bilder
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

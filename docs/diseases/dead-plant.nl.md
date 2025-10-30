@@ -31,3 +31,7 @@ Trek de plant voorzichtig uit de pot. Gezonde wortels zijn stevig en wit/crème.
 - Geef geleidelijke licht- en temperatuur­acclimatisatie.  
 - Bewaar middelen buiten de buurt van planten en volg etiketten nauwkeurig.  
 
+## Afbeeldingen
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

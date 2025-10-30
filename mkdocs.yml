@@ -6,12 +6,10 @@ site_url: https://plant-health-web-4dd569.gitlab.io/
 extra:
   generator: false
 
-# Copyright shown in the footer
-copyright: "© 2025 kindwise. All rights reserved."
-
 theme:
   name: material
   custom_dir: overrides
+  favicon: assets/logo_.png
   logo:
     assets/logo_.png
   palette:
@@ -53,101 +51,67 @@ plugins:
           default: true
           build: true
           site_name: Plant Health Web (English)
-          nav_translations:
-            Diseases: Diseases
         - locale: de
           name: Deutsch
           build: true
           site_name: Plant Health Web (Deutsch)
-          nav_translations:
-            Diseases: Krankheiten
         - locale: cs
           name: Čeština
           build: true
           site_name: Plant Health Web (Čeština)
-          nav_translations:
-            Diseases: Choroby
         - locale: ar
           name: العربية
           build: true
           site_name: Plant Health Web (العربية)
-          nav_translations:
-            Diseases: الأمراض
         - locale: da
           name: Dansk
           build: true
           site_name: Plant Health Web (Dansk)
-          nav_translations:
-            Diseases: Sygdomme
         - locale: es
           name: Español
           build: true
           site_name: Plant Health Web (Español)
-          nav_translations:
-            Diseases: Enfermedades
         - locale: fr
           name: Français
           build: true
           site_name: Plant Health Web (Français)
-          nav_translations:
-            Diseases: Maladies
         - locale: hi
           name: हिन्दी
           build: true
           site_name: Plant Health Web (हिन्दी)
-          nav_translations:
-            Diseases: रोग
         - locale: it
           name: Italiano
           build: true
           site_name: Plant Health Web (Italiano)
-          nav_translations:
-            Diseases: Malattie
         - locale: ko
           name: 한국어
           build: true
           site_name: Plant Health Web (한국어)
-          nav_translations:
-            Diseases: 질병
         - locale: nl
           name: Nederlands
           build: true
           site_name: Plant Health Web (Nederlands)
-          nav_translations:
-            Diseases: Ziekten
         - locale: pl
           name: Polski
           build: true
           site_name: Plant Health Web (Polski)
-          nav_translations:
-            Diseases: Choroby
         - locale: pt
           name: Português
           build: true
           site_name: Plant Health Web (Português)
-          nav_translations:
-            Diseases: Doenças
         - locale: sv
           name: Svenska
           build: true
           site_name: Plant Health Web (Svenska)
-          nav_translations:
-            Diseases: Sjukdomar
         - locale: tr
           name: Türkçe
           build: true
           site_name: Plant Health Web (Türkçe)
-          nav_translations:
-            Diseases: Hastalıklar
         - locale: zh
           name: 中文 (简体)
           build: true
           site_name: Plant Health Web (中文)
-          nav_translations:
-            Diseases: 疾病
         - locale: zh-Hant
           name: 中文 (繁體)
           build: true
           site_name: Plant Health Web (中文 - 繁體)
-          nav_translations:
-            Diseases: 疾病

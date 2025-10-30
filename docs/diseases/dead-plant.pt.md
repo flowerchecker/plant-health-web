@@ -25,3 +25,7 @@ Seca ou encharcamento prolongados, calor ou frio extremos, pragas não controlad
 ## Prevenção
 Rotina simples: cheque a umidade com o dedo antes de regar, garanta drenagem (furos + prato sem água parada), aclimate mudanças de luz e observe sinais precoces (murcha, manchas, folhas amareladas) para intervir cedo.
 
+## Imagens
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

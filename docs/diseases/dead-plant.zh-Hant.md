@@ -29,3 +29,7 @@
 ## 預防小撇步
 固定記錄澆水、施肥、移位與異常日期；變更環境時 1–2 週內密切觀察葉色、張力與新芽狀態，及早調整。
 
+## 圖片
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)

@@ -29,3 +29,7 @@
 - 위치·빛을 바꿀 때는 10~14일에 걸쳐 **서서히 적응**시키고, 한파·강한 직사광선은 피합니다.  
 - 매주 한 번 간단히 잎과 흙 상태를 점검해 조기에 이상을 발견하세요.
   
+## 이미지
+![dead_plant.jpg](/assets/dead_plant.jpg)
+![dead_plant2.jpg](/assets/dead_plant2.jpg)
+![dead_plant3.jpg](/assets/dead_plant3.jpg)
