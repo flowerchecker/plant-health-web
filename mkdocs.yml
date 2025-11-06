@@ -9,9 +9,9 @@ extra:
 theme:
   name: material
   custom_dir: overrides
-  favicon: assets/logo_.png
+  favicon: assets/favicon.ico
   logo:
-    assets/logo_.png
+    assets/logo.png
   palette:
     primary: black
   features:
@@ -19,27 +19,27 @@ theme:
 
 nav:
     - index.md
-    - diseases/dead-plant.md
-    - diseases/dry-air.md
-    - diseases/emerging-leaf.md
-    - diseases/feeding-damage-by-insects.md
-    - diseases/finished-flowering-period.md
-    - diseases/herbicide-damage.md
-    - diseases/inappropriate-leaf-rosette-watering.md
-    - diseases/lack-of-light.md
-    - diseases/leaf-miners.md
-    - diseases/light-excess.md
-    - diseases/light-or-heat-source-damage.md
-    - diseases/nutrient-deficiency.md
-    - diseases/pesticide-damage.md
-    - diseases/root-damage.md
-    - diseases/sap-sucking-pests.md
-    - diseases/sunburn.md
-    - diseases/sunscald.md
-    - diseases/water-deficiency.md
-    - diseases/water-excess-or-uneven-watering.md
-    - diseases/water-spray-liquid-residue.md
-    - diseases/watering-on-the-leaves.md
+    - dead-plant.md
+    - dry-air.md
+    - emerging-leaf.md
+    - feeding-damage-by-insects.md
+    - finished-flowering-period.md
+    - herbicide-damage.md
+    - inappropriate-leaf-rosette-watering.md
+    - lack-of-light.md
+    - leaf-miners.md
+    - light-excess.md
+    - light-or-heat-source-damage.md
+    - nutrient-deficiency.md
+    - pesticide-damage.md
+    - root-damage.md
+    - sap-sucking-pests.md
+    - sunburn.md
+    - sunscald.md
+    - water-deficiency.md
+    - water-excess-or-uneven-watering.md
+    - water-spray-liquid-residue.md
+    - watering-on-the-leaves.md
 
 plugins:
   - search
@@ -50,68 +50,68 @@ plugins:
           name: English
           default: true
           build: true
-          site_name: Plant Health Web (English)
+          site_name: Library plant.health
         - locale: de
           name: Deutsch
           build: true
-          site_name: Plant Health Web (Deutsch)
+          site_name: Bibliothek plant.health
         - locale: cs
           name: Čeština
           build: true
-          site_name: Plant Health Web (Čeština)
+          site_name: Knihovna plant.health
         - locale: ar
           name: العربية
           build: true
-          site_name: Plant Health Web (العربية)
+          site_name: مكتبة plant.health
         - locale: da
           name: Dansk
           build: true
-          site_name: Plant Health Web (Dansk)
+          site_name: Bibliotek plant.health
         - locale: es
           name: Español
           build: true
-          site_name: Plant Health Web (Español)
+          site_name: Biblioteca plant.health
         - locale: fr
           name: Français
           build: true
-          site_name: Plant Health Web (Français)
+          site_name: Bibliothèque plant.health
         - locale: hi
           name: हिन्दी
           build: true
-          site_name: Plant Health Web (हिन्दी)
+          site_name: पुस्तकालय plant.health
         - locale: it
           name: Italiano
           build: true
-          site_name: Plant Health Web (Italiano)
+          site_name: Biblioteca plant.health
         - locale: ko
           name: 한국어
           build: true
-          site_name: Plant Health Web (한국어)
+          site_name: 라이브러리 plant.health
         - locale: nl
           name: Nederlands
           build: true
-          site_name: Plant Health Web (Nederlands)
+          site_name: Bibliotheek plant.health
         - locale: pl
           name: Polski
           build: true
-          site_name: Plant Health Web (Polski)
+          site_name: Biblioteka plant.health
         - locale: pt
           name: Português
           build: true
-          site_name: Plant Health Web (Português)
+          site_name: Biblioteca plant.health
         - locale: sv
           name: Svenska
           build: true
-          site_name: Plant Health Web (Svenska)
+          site_name: Bibliotek plant.health
         - locale: tr
           name: Türkçe
           build: true
-          site_name: Plant Health Web (Türkçe)
+          site_name: Kütüphane plant.health
         - locale: zh
           name: 中文 (简体)
           build: true
-          site_name: Plant Health Web (中文)
+          site_name: 图书馆 plant.health
         - locale: zh-Hant
           name: 中文 (繁體)
           build: true
-          site_name: Plant Health Web (中文 - 繁體)
+          site_name: 圖書館 plant.health
