@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/">
+  </head>
+  <body>
+    <p>Redirecting to the English homepage...</p>
+  <script>
+    (function(){
+      // Compatibility shim: rewrite some legacy locale prefixes to their
+      // canonical site paths instead of redirecting to the homepage.
+      // Examples:
+      //  - /en/foo/      -> /foo/
+      //  - /zh-hant/foo/ -> /zh-Hant/foo/
+      try{
+        var p = window.location.pathname || '';
+
+        // if path starts with /en/, strip the prefix
+        if(p.indexOf('/en/') === 0){
+          var newPath = p.replace(/^\/en/, '');
+          window.location.replace(newPath + window.location.search + window.location.hash);
+          return;
+        }
+
+        // if path starts with /zh-hant/ (lowercase) rewrite to canonical /zh-Hant/
+        // Keep the rest of the path intact and preserve search/hash.
+        if(p.indexOf('/zh-hant/') === 0){
+          var newPath = p.replace(/^\/zh-hant/, '/zh-Hant');
+          window.location.replace(newPath + window.location.search + window.location.hash);
+          return;
+        }
+
+        // Also handle the rare case where the path equals exactly '/zh-hant' or '/zh-hant/'
+        if(p === '/zh-hant' || p === '/zh-hant/'){
+          window.location.replace('/zh-Hant/' + window.location.search + window.location.hash);
+          return;
+        }
+
+      }catch(e){
+        // swallow errors — on 404 we prefer to show the page
+      }
+    })();
+  </script>
+  </body>
+</html>
