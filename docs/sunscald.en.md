@@ -29,4 +29,4 @@ Yes—prevent further injury and let the plant replace damaged leaves.
 - **Heat-source damage** from lamps/radiators can look similar but is centered nearest the device.
 
 ## Images
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

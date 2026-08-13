@@ -29,4 +29,4 @@
 牢记“叶心常干、土略湿”；浇后检查是否有水滞留在叶杯或中心。
 
 ## 图片
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

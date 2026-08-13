@@ -34,4 +34,4 @@ Genellikle yönetilebilir bir **sorundur**. Hafif zarar bitkiyi öldürmez; yoğ
 - Dış ortamdan gelen saksı ve toprakları karantinaya alın.
 
 ## Resimler
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

@@ -25,4 +25,4 @@ Som regel kosmetisk, men gentagen påvirkning giver varig skade.
 - Klip kun meget beskadigede blade; nye blade tilpasser sig bedre.
 
 ## Billeder
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

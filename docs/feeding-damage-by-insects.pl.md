@@ -26,4 +26,4 @@ Oglądaj spody liści i kąty pędów o zmierzchu; szukaj ciemnych drobinek odch
 Cotygodniowe kontrole, moskitiery, czyste podłoże i zdrowe, dobrze odżywione rośliny.
 
 ## Zdjęcia
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

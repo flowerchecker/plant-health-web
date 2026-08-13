@@ -31,4 +31,4 @@ Yes—halt exposure and help the plant recover.
 - **Sunburn** also causes patches but without the “just-sprayed” timing.
 
 ## Images
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

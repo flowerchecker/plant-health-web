@@ -26,4 +26,4 @@ Houd het blad tegen het licht; zie je een klein larvetje in de gang bewegen? Dan
 - Houd ramen met gaas open i.p.v. wijd open bij licht ’s avonds.
 
 ## Afbeeldingen
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

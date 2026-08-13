@@ -28,4 +28,4 @@
 了解品种花期与习性；按需补光/控温；不要把“花谢”误判为病。把花后管理做好，下一轮会更出色。
 
 ## 图片
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

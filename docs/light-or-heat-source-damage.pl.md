@@ -26,4 +26,4 @@ Uszkodzenia są po stronie źródła; poprawa po zwiększeniu dystansu/zmianie m
 „Test dłoni” pod lampą: jeśli po 30 s jest Ci za gorąco, liściom też. Zapewnij łagodną cyrkulację powietrza.
 
 ## Zdjęcia
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

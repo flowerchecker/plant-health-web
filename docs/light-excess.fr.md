@@ -30,4 +30,4 @@ Problème de culture courant. Les zones brûlées ne reverdissent pas, mais la p
 - Surveiller particulièrement les jeunes feuilles, plus sensibles.
 
 ## Images
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

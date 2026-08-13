@@ -26,4 +26,4 @@
 - 수분 보유력과 배수력이 균형 잡힌 배합토, 적절한 화분 크기를 사용하세요.
 
 ## 이미지
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

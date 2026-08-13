@@ -26,4 +26,4 @@ Ja, men oftest begrænset til de behandlede blade. Nye blade bliver normalt igen
 - Ved fremtidige behandlinger: Test på ét blad, brug laveste virksomme dosis, spray i skygge/kølige timer.
 
 ## Billeder
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

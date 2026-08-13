@@ -28,4 +28,4 @@
 春夏繁殖季勤检查；幼苗重点保护；减少过度氮肥以免嫩叶诱虫。
 
 ## 图片
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

@@ -26,4 +26,4 @@
 - لا ترشّ في الطقس البارد أو ليلًا، ووفّر دوران هواء لطيف.
 
 ## الصور
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

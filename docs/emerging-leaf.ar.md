@@ -23,4 +23,4 @@
 - ثبات نسبي في الضوء والري يمنح أوراقًا أكثر انتظامًا.
 
 ## الصور
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

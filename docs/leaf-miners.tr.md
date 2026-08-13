@@ -30,4 +30,4 @@ Yönetilmesi gereken bir **zararlı** durumudur; ağır istila fotosentezi azalt
 - Aşırı azotlu gübrelemeden kaçının (yumuşak doku caziptir).
 
 ## Resimler
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

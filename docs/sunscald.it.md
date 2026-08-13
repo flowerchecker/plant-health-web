@@ -25,4 +25,4 @@ Danno localizzato nelle zone direttamente esposte; parti ombreggiate sane.
 Acclimatazioni graduali, schermature temporanee, attenzione ai picchi termici.
 
 ## Immagini
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

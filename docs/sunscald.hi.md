@@ -15,4 +15,4 @@
 **रोकथाम:** मौसम बदलते ही स्थान/छाया समायोजित; काँच के पीछे की तीखी धूप से सावधान।
 
 ## छवियां
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

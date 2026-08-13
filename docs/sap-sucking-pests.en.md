@@ -32,4 +32,4 @@ Yes. Early, gentle control prevents population explosions and leaf loss.
 - **Hard water residue** can mimic honeydew—sticky feel distinguishes true honeydew.
 
 ## Images
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

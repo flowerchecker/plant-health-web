@@ -29,4 +29,4 @@ Helt naturligt. Ingen behandling behövs.
 Om bladet är ljusare/tunnare i början: det är normalt och tjocknar med tiden.
 
 ## Bilder
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

@@ -31,4 +31,4 @@ Modérée à élevée selon l’étendue. Les tissus brûlés ne se régénèren
 - Tourner le pot régulièrement pour éviter un côté très vulnérable.
 
 ## Images
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

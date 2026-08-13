@@ -29,4 +29,4 @@ Often yes—especially near south/west windows or under strong LEDs.
 - **Nutrient deficiency** can also pale leaves—check light placement first.
 
 ## Images
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

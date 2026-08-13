@@ -26,4 +26,4 @@
 新芽期最脆弱，定期巡葉；保持環境整潔與適度乾燥。
 
 ## 圖片
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

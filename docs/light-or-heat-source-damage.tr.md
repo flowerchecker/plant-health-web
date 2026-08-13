@@ -30,4 +30,4 @@ Radyatör, fırın, şömine, ısıtıcı fan veya yüksek ısı yayan lambalar 
 - Hafif hava sirkülasyonu sağlayın; sıcak hava cepleri oluşmasın.
 
 ## Resimler
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

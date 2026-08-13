@@ -24,4 +24,4 @@
 - اختر وقت رشّ مناسبًا وماء منخفض الأملاح.
 
 ## الصور
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

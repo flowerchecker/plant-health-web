@@ -34,4 +34,4 @@ Odlingsproblem. Redan skadade blad går inte att “läka”, men växten kan pr
 Om exponeringen var engångs och nya blad ser normala ut – fortsätt skötsel och ge tid för återhämtning.
 
 ## Bilder
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

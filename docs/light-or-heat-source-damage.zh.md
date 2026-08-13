@@ -30,4 +30,4 @@
 遵循“低强度、长时长”的补光原则；任何热源均不应直吹或近距照射植物。
 
 ## 图片
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

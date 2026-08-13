@@ -25,4 +25,4 @@
 固定位置後避免頻繁搬動；依季節與窗向調整距離。
 
 ## 圖片
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

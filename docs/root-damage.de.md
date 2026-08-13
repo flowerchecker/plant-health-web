@@ -25,4 +25,4 @@ Staunässe, unvorsichtiges Umtopfen, zu hohe Düngerkonzentrationen, kalter Unte
 Durchlässige Mischungen (Perlit/Rinde), Töpfe mit Abfluss, behutsames Umtopfen (Wurzelballen stützen), Dünger **halb dosiert** starten und steigern.
 
 ## Bilder
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

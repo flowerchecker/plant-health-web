@@ -29,4 +29,4 @@ Yes—protect and gradually acclimate.
 - **Light excess** without burn presents as generalized fading, not crisp necrosis.
 
 ## Images
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

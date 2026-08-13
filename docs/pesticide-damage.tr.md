@@ -32,4 +32,4 @@ Yanlış doz, yanlış karışım veya sıcak/ışıklı saatlerde uygulanan kim
 - Karışım yapacaksanız uyumluluğu kontrol edin; gereksiz karışımlardan kaçının.
 
 ## Resimler
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

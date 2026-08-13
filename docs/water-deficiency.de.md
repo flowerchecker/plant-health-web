@@ -25,8 +25,8 @@ Zu lange Gießpausen, hydrophobe Substrate, hohe Wärme/Zugluft bei geringer Luf
 Substrat mit Struktur (Perlit/Rinde) für gleichmäßiges Trocknen, Gießrhythmus an Pflanze/Jahreszeit anpassen, ggf. Erinnerung stellen.
 
 ## Bilder
-![water-deficiency.jpg](/assets/water-deficiency.jpg)
-![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
-![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
-![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
-![water-deficiency5.jpg](/assets/water-deficiency5.jpg)
+![water-deficiency.jpg](assets/water-deficiency.jpg)
+![water-deficiency2.jpg](assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](assets/water-deficiency5.jpg)

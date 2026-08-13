@@ -32,7 +32,7 @@
 遵循“光照越低→浇水越少”；每次浇后倒空托盘；冬季低温时宁偏干不积水。
 
 ## 图片
-![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
-![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
-![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
-![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)
+![water-excess-or-uneven-watering.jpg](assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](assets/water-excess-or-uneven-watering4.jpg)

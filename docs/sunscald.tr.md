@@ -31,4 +31,4 @@ Yoğun güneş ve ısıyla dokuda **güneş zararı** oluşur; gövde/meyvede ka
 - Türün güneş toleransını dikkate alın.
 
 ## Resimler
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

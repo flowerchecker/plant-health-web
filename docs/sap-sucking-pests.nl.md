@@ -34,4 +34,4 @@ Een behandelbare plaag. Vroege aanpak voorkomt groeistilstand.
 - Planten niet tegen raamkieren met droge tocht.
 
 ## Afbeeldingen
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

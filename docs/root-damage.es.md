@@ -30,4 +30,4 @@ Es serio, pero puede revertirse si quedan raíces vivas o la planta puede re-enr
 Si no hay raíces viables o desconoces la causa (p. ej., plaga de suelo), comparte fotos de raíces y sustrato para orientar el plan.
 
 ## Imágenes
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

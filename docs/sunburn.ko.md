@@ -25,4 +25,4 @@
 - 얇은 커튼·차광막, 창에서 약간 떨어진 위치를 활용하세요.
 
 ## 이미지
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

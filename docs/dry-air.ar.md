@@ -26,4 +26,4 @@
 - استخدم خليطًا يحتفظ بالرطوبة دون ركود، ووعاءًا مناسب الحجم.
 
 ## الصور
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

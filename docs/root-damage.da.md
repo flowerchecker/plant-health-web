@@ -26,4 +26,4 @@ Ja – rødder er plantens motor. Hurtig, skånsom udbedring er vigtig for overl
 - Støt planten med pind, til rødderne har greb igen.
 
 ## Billeder
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

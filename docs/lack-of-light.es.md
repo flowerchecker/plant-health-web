@@ -28,4 +28,4 @@ Muy común en interiores profundos. Reversible al mejorar la luz.
 Si tras 4–6 semanas con mejor luz no hay progreso, revisa raíces o carencias y consulta con fotos.
 
 ## Imágenes
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

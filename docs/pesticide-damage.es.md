@@ -29,4 +29,4 @@ Es un problema químico normalmente localizado y prevenible.
 Si el daño es extenso o se confunde con enfermedad, comparte fotos y el nombre del producto para afinar el diagnóstico.
 
 ## Imágenes
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

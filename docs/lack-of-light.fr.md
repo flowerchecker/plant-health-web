@@ -30,4 +30,4 @@ Problème courant mais réversible. Les anciennes tiges restent étiolées, mais
 - Acclimater progressivement à une lumière plus forte pour éviter brûlures.
 
 ## Images
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

@@ -29,4 +29,4 @@ Es tratable; cierta clorosis en hojas viejas puede ser natural, pero si se gener
 Si no hay mejora tras 4–6 semanas, comparte fotos y detalla fertilizante y fuente de agua para ajustar el plan.
 
 ## Imágenes
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

@@ -25,4 +25,4 @@ Hartes Wasser, spätes Abendgießen, kalte Zugluft; empfindliche Blattoberfläch
 Weiches Wasser verwenden; keine dauerhafte Blattnässe; Abstand zwischen Dusche und Sonne/Hitze einhalten.
 
 ## Bilder
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

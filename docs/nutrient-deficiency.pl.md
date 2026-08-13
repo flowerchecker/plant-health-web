@@ -26,4 +26,4 @@ Kiedy ostatnio nawożono i płukano podłoże? Objawy na młodych liściach (np.
 Regularny, łagodny program nawożenia, okresowe płukanie podłoża i rozsądne dawki. U wrażliwych gatunków rozważ nawozy o spowolnionym uwalnianiu.
 
 ## Zdjęcia
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

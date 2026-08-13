@@ -23,4 +23,4 @@
 - 어두운 공간에는 그늘을 잘 견디는 종류를 선택하거나 보조조명을 상시 사용합니다.
 
 ## 이미지
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

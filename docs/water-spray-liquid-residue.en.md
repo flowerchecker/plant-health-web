@@ -28,5 +28,5 @@ No plant health risk. Cleaning is optional for appearance or to restore shine.
 - **Honeydew** is sticky; mineral residue is not.
 
 ## Images
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

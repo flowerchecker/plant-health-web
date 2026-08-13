@@ -28,4 +28,4 @@ Aquecedores e ar-condicionado, sol intenso através de vidro, ventilação exces
 Estabilize a umidade nos meses secos, evite choques de temperatura e faça inspeções semanais para detectar pragas cedo.
 
 ## Imagens
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

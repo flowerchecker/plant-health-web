@@ -26,4 +26,4 @@ Acesso fácil por portas/janelas, vasos no chão, excesso de detritos, pouca cir
 Higienize folhas caídas, melhore a circulação de ar e inspecione com regularidade, especialmente após chuvas ou mudanças sazonais.
 
 ## Imagens
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

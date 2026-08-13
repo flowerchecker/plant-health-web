@@ -26,4 +26,4 @@
 - دورات ري معتدلة وخلائط غنية بالفراغات الهوائية (بيرلايت/لحاء).
 
 ## الصور
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

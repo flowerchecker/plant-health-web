@@ -25,4 +25,4 @@ Aumento brusco de luz, exposição através de vidro, reflexão de superfícies 
 Transições **graduais** (semanas, não dias), cortinas/telas e observação diária nas primeiras semanas após qualquer mudança.
 
 ## Imagens
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

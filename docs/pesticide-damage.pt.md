@@ -25,4 +25,4 @@ Dose alta, pulverização sob luz forte/calor, mistura com adubos foliares, sens
 Aplicar em horários **frescos**, usar doses corretas e evitar misturas não recomendadas; teste local em plantas sensíveis.
 
 ## Imagens
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

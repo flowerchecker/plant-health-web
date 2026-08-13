@@ -31,4 +31,4 @@ Bu, bitkinin normal **yeni yaprak** oluşturma sürecidir. Klorofil tam oluşmad
 - Budama sonrası yeni sürgünleri desteklemek için kök sağlığına dikkat edin.
 
 ## Resimler
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

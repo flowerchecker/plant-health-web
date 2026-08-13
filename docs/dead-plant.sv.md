@@ -47,6 +47,6 @@ Ett verkligt problem – växten är sannolikt död. I undantagsfall finns liv k
 Om barken är torr hela vägen ned och alla rötter är bruna/mjuka finns inget att rädda. Lägg fokus på en ny, bättre start – du har lärt dig mycket till nästa gång.
 
 ## Bilder
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

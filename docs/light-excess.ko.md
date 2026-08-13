@@ -25,4 +25,4 @@
 - 잎을 만졌을 때 뜨겁게 느껴지면 빛이 과합니다.
 
 ## 이미지
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

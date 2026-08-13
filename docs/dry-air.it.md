@@ -26,4 +26,4 @@ Un igrometro domestico indica valori <45–60%. Se raggruppando le piante o allo
 Substrati idonei, vasi adeguati, monitor stagionale dell’umidità e ventilazione dolce ma regolare.
 
 ## Immagini
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

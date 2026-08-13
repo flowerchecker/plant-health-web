@@ -30,4 +30,4 @@ Bladeren en nieuwe groeipunten ogen gezond; geen rottingsgeur of plakkerigheid. 
 - Zorg voor voldoende lichturen in donkere maanden.
 
 ## Afbeeldingen
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

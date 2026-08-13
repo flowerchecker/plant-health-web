@@ -25,7 +25,7 @@ Vaso sem furos, substrato compacto, regas frequentes, prato com água acumulada.
 Mistura bem drenante, escoar excesso após cada rega e ajuste da frequência conforme luz e temperatura da estação.
 
 ## Imagens
-![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
-![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
-![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
-![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)
+![water-excess-or-uneven-watering.jpg](assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](assets/water-excess-or-uneven-watering4.jpg)

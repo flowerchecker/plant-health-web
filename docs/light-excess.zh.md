@@ -29,4 +29,4 @@
 所有“升光”都要分阶段：先散射、再斜射、后少量直射。补光设备遵循“低强度、长时长”更安全。
 
 ## 图片
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

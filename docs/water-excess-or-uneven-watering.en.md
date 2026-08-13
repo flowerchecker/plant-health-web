@@ -32,7 +32,7 @@ Yes. Protect roots, restore drainage, and adopt a steady rhythm.
 - **Lack of light** slows use of water—improve light along with watering changes.
 
 ## Images
-![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
-![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
-![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
-![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)
+![water-excess-or-uneven-watering.jpg](assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](assets/water-excess-or-uneven-watering4.jpg)

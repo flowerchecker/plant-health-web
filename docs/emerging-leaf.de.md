@@ -25,4 +25,4 @@ Normales Wachstum; Lichtwechsel beeinflusst die Anfangsfarbe.
 Konstante Rahmenbedingungen (Licht, Feuchte, Temperatur). Zum Saisonstart niedrig dosiert düngen und langsam steigern.
 
 ## Bilder
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

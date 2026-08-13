@@ -33,7 +33,7 @@ Yaygın bir **bakım hatasıdır**; erken düzeltmeyle toparlanma mümkündür.
 - Kışın ışık azaldığında sulama sıklığını azaltın.
 
 ## Resimler
-![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
-![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
-![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
-![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)
+![water-excess-or-uneven-watering.jpg](assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](assets/water-excess-or-uneven-watering4.jpg)

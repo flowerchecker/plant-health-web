@@ -31,4 +31,4 @@ Yoğun güneş ve sıcaklık kombinasyonu yaprakta **güneş yanığı**na yol a
 - Islak yaprağı güneşte bırakmama kuralı
 
 ## Resimler
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

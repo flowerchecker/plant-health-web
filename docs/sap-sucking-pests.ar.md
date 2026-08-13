@@ -28,4 +28,4 @@
 - تنظيف دوري للأوراق لتقليل الغبار الذي يجذب الآفات.
 
 ## الصور
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

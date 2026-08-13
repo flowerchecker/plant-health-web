@@ -25,4 +25,4 @@ Ja – skaden kan brede sig ned i stænglen og dræbe vækstpunktet.
 - Fjern rådne blade med ren saks; ved svær skade tages sunde yderblade som stiklinger.
 
 ## Billeder
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

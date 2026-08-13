@@ -28,4 +28,4 @@
 - 정기적으로 잎을 닦아 먼지와 초기 개체를 제거합니다.
 
 ## 이미지
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

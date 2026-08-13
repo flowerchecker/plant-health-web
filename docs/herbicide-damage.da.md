@@ -26,4 +26,4 @@ Ja – skaden kan være alvorlig, men nye skud kan komme sig, når eksponeringen
 - Undgå herbicider i blæsevejr; beskyt nabo-planter ved brug.
 
 ## Billeder
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

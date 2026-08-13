@@ -25,4 +25,4 @@
 - اختبارات موضعية قبل التعميم، وتجنّب الخلطات العشوائية.
 
 ## الصور
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

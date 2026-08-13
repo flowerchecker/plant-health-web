@@ -29,7 +29,7 @@
 每次澆後務必瀝乾；冬季光少時延長間隔；定期以手指或濕度棒確認根層濕度。
 
 ## 圖片
-![water-excess-or-uneven-watering.jpg](/assets/water-excess-or-uneven-watering.jpg)
-![water-excess-or-uneven-watering2.jpg](/assets/water-excess-or-uneven-watering2.jpg)
-![water-excess-or-uneven-watering3.jpg](/assets/water-excess-or-uneven-watering3.jpg)
-![water-excess-or-uneven-watering4.jpg](/assets/water-excess-or-uneven-watering4.jpg)
+![water-excess-or-uneven-watering.jpg](assets/water-excess-or-uneven-watering.jpg)
+![water-excess-or-uneven-watering2.jpg](assets/water-excess-or-uneven-watering2.jpg)
+![water-excess-or-uneven-watering3.jpg](assets/water-excess-or-uneven-watering3.jpg)
+![water-excess-or-uneven-watering4.jpg](assets/water-excess-or-uneven-watering4.jpg)

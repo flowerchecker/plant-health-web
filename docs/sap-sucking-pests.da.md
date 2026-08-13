@@ -27,4 +27,4 @@ Ja, men håndterbart ved tidlig indsats. Langvarige angreb hæmmer væksten og �
 - Styrk plejen: mere lys, jævn vanding, moderat gødskning.
 
 ## Billeder
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

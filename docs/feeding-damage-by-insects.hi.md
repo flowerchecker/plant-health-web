@@ -20,4 +20,4 @@
 **कब मदद लें:** पहचान मुश्किल हो या संवेदनशील पालतू/खाद्य फसलें हों।
 
 ## छवियां
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

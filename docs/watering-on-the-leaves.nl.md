@@ -28,4 +28,4 @@ Vlekken verschijnen op plekken waar druppels lagen; nerfpatroon onbeschadigd. Ni
 - Gebruik lauw, zacht water.
 
 ## Afbeeldingen
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

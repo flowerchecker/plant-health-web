@@ -27,4 +27,4 @@ Det er en almindelig trivselssituation – ikke en smitsom sygdom. Skaden er mes
 - Klip brune spidser pænt af (følg bladets form), så stopper skaden dér.
 
 ## Billeder
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

@@ -25,4 +25,4 @@ Ikke akut farligt, men det begrænser vækst og trivsel. Korrigering giver ofte 
 - Ved tydelig jernklorose: brug jernchelat og vand med blødere vand.
 
 ## Billeder
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

@@ -30,4 +30,4 @@ Yes—reposition and manage intensity.
 - **Light excess** without heat yields paler, not crispy, leaves.
 
 ## Images
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

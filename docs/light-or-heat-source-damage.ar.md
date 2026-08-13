@@ -25,4 +25,4 @@
 - اختبار حرارة الورقة باللمس: إن كانت حارّة لليد فالمسافة غير كافية.
 
 ## الصور
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

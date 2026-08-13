@@ -27,4 +27,4 @@ Ano, ale rozsah závisí na **dávce**. Poškozené listy se nezregenerují, ale
 - **Saví škůdci** dělají deformace, ale obvykle s lepkavostí/medovicí. Herbicidní poškození je **bez lepkavosti** a napojené na událost.
 
 ## Obrázky
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

@@ -41,6 +41,6 @@ If no living tissue remains, revival isn’t possible. Focus on confirming the s
 - Severe dieback with a **still-living crown or rhizome**—do the scratch/root test before giving up.
 
 ## Images
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

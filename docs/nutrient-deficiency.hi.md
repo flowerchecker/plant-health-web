@@ -14,4 +14,4 @@
 **रोकथाम:** कम मात्रा में नियमित खाद; सर्दियों में खुराक घटाएँ; समय-समय पर साफ़ पानी से फ्लश।
 
 ## छवियां
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

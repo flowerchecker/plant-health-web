@@ -25,4 +25,4 @@ Foglie e steli restano sani; nessuna melata/ insetti. Valuta il periodo tipico d
 Programma di luce e nutrizione coerente con la specie; minimizza stress durante la fioritura.
 
 ## Immagini
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

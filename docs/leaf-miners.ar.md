@@ -24,4 +24,4 @@
 - عزل نباتات جديدة ومراقبتها لأسبوعين.
 
 ## الصور
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

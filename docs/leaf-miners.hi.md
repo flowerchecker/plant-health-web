@@ -14,4 +14,4 @@
 **रोकथाम:** स्वच्छता, नए पौधों का निरीक्षण/क्वारंटीन, खिड़की-जालियाँ उपयोग में रखें।
 
 ## छवियां
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

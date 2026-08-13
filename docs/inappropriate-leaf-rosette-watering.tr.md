@@ -32,4 +32,4 @@ Rozet merkezine dökülen su uzun süre kalınca, havalanma azlığıyla mantar/
 - Havadar karışım ve drenaj delikli saksı kullanın.
 
 ## Resimler
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

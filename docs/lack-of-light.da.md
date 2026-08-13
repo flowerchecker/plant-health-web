@@ -25,4 +25,4 @@ Ja for vækst og blomstring – heldigvis er det let at forbedre.
 - Reducér vanding (jord tørrer langsommere i svagt lys).
 
 ## Billeder
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

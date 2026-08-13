@@ -32,4 +32,4 @@
 - Işık süresi ve yoğunluğunu mevsime göre kademeli ayarlayın.
 
 ## Resimler
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

@@ -31,4 +31,4 @@ Normal. Aucune maladie. Le but est de favoriser une reprise saine et, pour certa
 - Conservez un carnet des cycles (dates de floraison et de taille) pour mieux anticiper.
 
 ## Images
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

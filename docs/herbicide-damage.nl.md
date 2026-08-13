@@ -29,4 +29,4 @@ Let op timing: schade verschijnt kort na spuitmomenten in de omgeving. Andere pl
 - Koop compost/substraat van betrouwbare bron.
 
 ## Afbeeldingen
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

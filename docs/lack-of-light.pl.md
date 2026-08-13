@@ -25,4 +25,4 @@ Przeniesienie na jaśniejsze miejsce poprawia wygląd w 2–4 tygodnie. Aplikacj
 Zaplanowane stanowiska na zimę, mycie szyb, unikanie głębokich półek bez doświetlania.
 
 ## Zdjęcia
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

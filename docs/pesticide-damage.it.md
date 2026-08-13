@@ -25,4 +25,4 @@ Sviluppo dei sintomi 24–72 ore dopo il trattamento; distribuzione omogenea sul
 Leggi l’etichetta, evita ore calde/sole diretto, rispetta dosi e compatibilità, privilegia metodi meccanici/biologici quando possibile.
 
 ## Immagini
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

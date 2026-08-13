@@ -25,4 +25,4 @@
 - 새 약제·혼합은 항상 **부분 테스트** 후 확대합니다.
 
 ## 이미지
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

@@ -27,4 +27,4 @@ Użyj lupy/zdjęcia makro. Potrząśnij rośliną nad białą kartką: drobne ru
 Kwarantanna nowych roślin (2–3 tygodnie), cotygodniowe przeglądy spodów liści, czyste narzędzia.
 
 ## Zdjęcia
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

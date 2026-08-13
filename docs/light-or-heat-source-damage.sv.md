@@ -33,4 +33,4 @@ Odlingsproblem, lätt att förebygga med rätt avstånd och luftflöde.
 Kosmetiska skador påverkar sällan växtens långsiktiga hälsa när orsaken är åtgärdad.
 
 ## Bilder
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

@@ -25,4 +25,4 @@
 - 잎을 만져 **뜨겁게 느껴지면** 거리가 너무 가깝다는 뜻입니다.
 
 ## 이미지
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

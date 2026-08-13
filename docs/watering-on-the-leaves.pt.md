@@ -25,4 +25,4 @@ Borrifar sem necessidade, regar por cima em horário quente, água **dura**.
 Mantenha a **copa seca** na rotina e reserve sprays para higiene em **baixa luz**.
 
 ## Imagens
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

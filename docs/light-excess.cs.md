@@ -27,4 +27,4 @@ Lokální poškození je **nevratné**, ale obvykle jen estetické. Nové listy 
 - **Nedostatek živin** může také způsobit blednutí listů.
 
 ## Obrázky
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

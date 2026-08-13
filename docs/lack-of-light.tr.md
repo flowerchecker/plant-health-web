@@ -31,4 +31,4 @@ Yetersiz ışık fotosentezi sınırlar; bitki ışığa erişmek için uzar ve 
 - Tozu alınmış temiz yapraklar daha iyi ışık alır.
 
 ## Resimler
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

@@ -28,4 +28,4 @@ Schaduwhoek-test: houd je hand 30 cm boven het blad. Is de schaduw wazig of afwe
 - In de winter tijdelijk dichter naar het raam.
 
 ## Afbeeldingen
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

@@ -31,4 +31,4 @@ Yabancı ot ürünlerinin (herbisit) hedef dışı teması, düşük dozlarda bi
 - Balkon/teras bitkilerini ilaçlama öncesi içeri alın veya örtün.
 
 ## Resimler
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

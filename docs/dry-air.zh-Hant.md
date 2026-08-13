@@ -29,4 +29,4 @@
 冬季於日間較暖時段短暫通風；避免長時間直吹；定期擦葉去塵，提升葉面效率。
 
 ## 圖片
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

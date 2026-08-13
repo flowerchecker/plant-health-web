@@ -33,4 +33,4 @@ Besin elementlerinin (özellikle azot, demir, magnezyum, potasyum) yetersizliği
 - Periyodik durulama ile tuz birikimini azaltın.
 
 ## Resimler
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

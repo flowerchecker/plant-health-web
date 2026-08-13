@@ -31,4 +31,4 @@ Aşırı/ani yoğun ışık, özellikle sıcakla birleştiğinde, yaprak dokusun
 - LED’lerde zamanlayıcı ve mesafe kullanın; yaprak sıcaklığını elle kontrol edin.
 
 ## Resimler
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

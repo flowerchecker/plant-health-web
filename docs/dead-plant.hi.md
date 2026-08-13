@@ -20,6 +20,6 @@
 **कब मदद लें:** बहुत मूल्यवान पौधा हो, या बार-बार यही स्थिति बन रही हो।
 
 ## छवियां
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

@@ -28,4 +28,4 @@ Voel aan het blad en glas midden op de dag: heet? Bekijk vooral de zonzijde; sch
 - Water ’s ochtends; hete, volle zon + waterfilm vergroot bladstress.
 
 ## Afbeeldingen
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

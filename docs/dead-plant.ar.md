@@ -31,6 +31,6 @@
 - راقب نباتك أسبوعيًا لاكتشاف المشكلات مبكرًا.
 
 ## الصور
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

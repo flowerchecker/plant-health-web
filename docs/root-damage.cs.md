@@ -28,4 +28,4 @@ Ano, ale rostlina se často **zotaví**, pokud znovu vytvoří zdravé kořeny.
 - **Suchý vzduch** zhoršuje vzhled, ale u poškození kořenů bývá substrát **zamokřený** a rostlina přesto vadne.
 
 ## Obrázky
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

@@ -25,4 +25,4 @@ Uszkodzenia są po „jaśniejszej” stronie; poprawa następuje po zacienieniu
 Stopniowa aklimatyzacja do słońca (7–14 dni), kontrola dystansu i czasu świecenia lamp.
 
 ## Zdjęcia
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

@@ -25,4 +25,4 @@ Südfenster ohne Vorhang, plötzliche direkte Sommersonne, neue Lampe zu nah/zu 
 Neue Standorte und Lampen **stufenweise** antrainieren; Arten mit hohem Lichtbedarf nach vorn ans Fenster, empfindliche weiter in den Raum.
 
 ## Bilder
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

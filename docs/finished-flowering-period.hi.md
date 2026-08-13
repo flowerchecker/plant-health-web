@@ -19,4 +19,4 @@
 **रोकथाम/भविष्य:** फूलते समय झटकों से बचाएँ, नियमित पानी, ओवर-ट्रिमिंग न करें; अगले सीज़न हेतु हल्की री-पॉटिंग/टॉप-ड्रेस।
 
 ## छवियां
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

@@ -13,4 +13,4 @@
 **रोकथाम:** धूप में स्प्रे न करें; कठोर जल के बजाय फ़िल्टर/आरओ जल।
 
 ## छवियां
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

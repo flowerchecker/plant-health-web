@@ -26,4 +26,4 @@
 - ‘흙이 적시고 부분 건조’의 리듬을 유지합니다.
 
 ## 이미지
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

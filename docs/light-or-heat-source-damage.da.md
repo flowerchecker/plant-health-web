@@ -25,4 +25,4 @@ Ja lokalt, men det løses let med bedre afstand og mildere forhold.
 - Klip skadet væv af, hvis det er grimt – nyvækst vil klare sig bedre.
 
 ## Billeder
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

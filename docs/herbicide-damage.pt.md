@@ -25,4 +25,4 @@ Deriva aérea, uso inadequado perto de janelas/varandas, resíduos em **ferramen
 Evite aplicar em dias de **vento**, proteja as plantas durante pulverizações externas e alinhe com vizinhos horários/condições **seguras**.
 
 ## Imagens
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

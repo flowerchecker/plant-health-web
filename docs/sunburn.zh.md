@@ -28,4 +28,4 @@
 任何“加光”都要分阶段；耐阴植物避免长时直射；关注反光面与高温天气叠加风险。
 
 ## 图片
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

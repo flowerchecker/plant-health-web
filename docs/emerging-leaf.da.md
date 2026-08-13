@@ -22,4 +22,4 @@ Nej – helt naturligt og kræver ingen behandling.
 - Undgå at pille ved skrøbelige skud; de retter sig selv.
 
 ## Billeder
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

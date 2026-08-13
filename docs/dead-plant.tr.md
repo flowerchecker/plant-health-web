@@ -35,6 +35,6 @@ Bu genellikle bir **sorundur**. Ancak bazı çok yıllıklarda mevsimsel olarak 
 - Saksı değişiminde kökleri gereksiz hırpalamayın.
 
 ## Resimler
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

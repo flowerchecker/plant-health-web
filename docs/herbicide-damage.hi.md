@@ -14,4 +14,4 @@
 **रोकथाम:** स्प्रे-समय में खिड़कियाँ बंद रखें; पड़ोस/माली से समय-सारिणी समन्वय करें; हवा की दिशा पर ध्यान दें।
 
 ## छवियां
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

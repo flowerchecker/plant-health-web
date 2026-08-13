@@ -24,4 +24,4 @@ Som regel begrænset, men kan brede sig i drivhus/udendørs og blive kosmetisk g
 - Styrk planten med jævn vanding/lys; den sætter nye, sunde blade.
 
 ## Billeder
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

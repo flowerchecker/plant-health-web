@@ -27,4 +27,4 @@ Es un proceso natural y deseable. No requiere intervención más allá de cuidad
 Si las hojas nuevas se deforman severamente, quedan muy pequeñas o necrosan, puede haber plaga chupadora o carencia; consulta con fotos.
 
 ## Imágenes
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

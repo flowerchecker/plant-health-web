@@ -25,4 +25,4 @@ Exposição súbita, superfícies refletoras, vidro que concentra calor.
 Ajustes em etapas, uso de cortinas/telas e atenção nas primeiras **2–3 semanas** após mudanças.
 
 ## Imagens
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

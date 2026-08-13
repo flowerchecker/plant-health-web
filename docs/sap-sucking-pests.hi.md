@@ -20,4 +20,4 @@
 **रोकथाम:** नए पौधों का 2–3 सप्ताह क्वारंटीन, नियमित धूल-सफाई, भीड़ और ठहरी हवा से बचें।
 
 ## छवियां
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

@@ -25,4 +25,4 @@ Vicino a una finestra luminosa la pianta migliora; un misuratore di luce economi
 Specie adatte alla luce disponibile, vetri puliti, tende leggere che diffondano senza bloccare eccessivamente.
 
 ## Immagini
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

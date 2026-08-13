@@ -28,4 +28,4 @@ Většinou **kosmetický**, ale mladé rostliny může oslabovat. Ve vnitřním 
 - **Saví škůdci** nedělají vnitřní chodby. Mechanická poškození mají **nepravidelný** tvar, ale **neprosvítají** uvnitř listu.
 
 ## Obrázky
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

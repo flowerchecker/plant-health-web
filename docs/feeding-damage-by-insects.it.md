@@ -27,4 +27,4 @@ Ispeziona al crepuscolo con torcia; controlla il retro delle foglie; usa trappol
 Pulizia periodica, rimozione di foglie secche, quarantena nuove piante, scelta di varietà più resistenti in giardino.
 
 ## Immagini
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

@@ -25,4 +25,4 @@
 - استخدم ستائر شفافة/شبك تظليل عند النوافذ الجنوبية صيفًا.
 
 ## الصور
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

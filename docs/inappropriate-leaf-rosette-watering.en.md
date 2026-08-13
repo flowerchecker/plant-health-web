@@ -31,4 +31,4 @@ Yes—protect the crown and adjust watering technique.
 - **Pest injury** can deform the crown—inspect for sap-feeders if distortion continues after technique changes.
 
 ## Images
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

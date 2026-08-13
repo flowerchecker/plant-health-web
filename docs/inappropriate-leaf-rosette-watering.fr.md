@@ -32,4 +32,4 @@ Sérieux si le point de croissance est atteint. Agir rapidement.
 - Adapter la fréquence à la saison (moins souvent l’hiver).
 
 ## Images
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

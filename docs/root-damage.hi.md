@@ -14,4 +14,4 @@
 **रोकथाम:** समय पर री-पॉट (आमतौर पर 1–2 वर्ष), सही ड्रेनेज, अधिक पानी से बचें, संतुलित खाद।
 
 ## छवियां
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

@@ -25,5 +25,5 @@
 - 실내는 약한 통풍을 유지해 표면 수분이 빨리 마르도록 합니다.
 
 ## 이미지
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

@@ -32,4 +32,4 @@ Düşük bağıl nem, yapraklardan su buharlaşmasını artırır. Kökler bu ka
 - Nem düşükken gübrelemeyi azaltın; yeni yapraklar daha sağlam gelişir.
 
 ## Resimler
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

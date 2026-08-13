@@ -28,6 +28,6 @@ Ja – planten er desværre ikke længere levende. Fokus bør være på årsagsa
 - Notér, hvad der skete (ferie, kulde, overvanding), og justér vanding/lys fremover.
 
 ## Billeder
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

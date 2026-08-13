@@ -32,8 +32,8 @@ Yes. Rehydrate carefully and adjust your routine to the plant’s pot size, mix,
 - **Dry air** browns tips too—see that entry.
 
 ## Images
-![water-deficiency.jpg](/assets/water-deficiency.jpg)
-![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
-![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
-![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
-![water-deficiency5.jpg](/assets/water-deficiency5.jpg)
+![water-deficiency.jpg](assets/water-deficiency.jpg)
+![water-deficiency2.jpg](assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](assets/water-deficiency5.jpg)

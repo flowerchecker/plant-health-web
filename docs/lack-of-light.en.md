@@ -31,4 +31,4 @@ Yes—gentle, sustainable light upgrades make a big difference.
 - **Nutrient deficiency** can pale leaves even in good light—use a modest, regular feed program.
 
 ## Images
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

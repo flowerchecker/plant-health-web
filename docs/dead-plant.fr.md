@@ -34,6 +34,6 @@ Gravité maximale. Une fois morte, la plante ne repart pas. En revanche, il est 
 - Inspectez régulièrement (dessous des feuilles, collet) et intervenez tôt en cas de ravageurs.
   
 ## Images
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

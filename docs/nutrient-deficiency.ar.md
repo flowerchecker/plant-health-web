@@ -25,4 +25,4 @@
 - غسلة خفيفة للتربة كل بضعة أشهر إذا تراكمت الأملاح.
 
 ## الصور
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

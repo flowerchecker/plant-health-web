@@ -22,4 +22,4 @@ Ne. Naopak znamená, že se rostlině daří.
 - **Saví škůdci** mohou způsobit deformace nových listů; u zdravého růstu je rozvinutý list symetrický a bez lepkavosti.
 
 ## Obrázky
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

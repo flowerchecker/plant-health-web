@@ -26,5 +26,5 @@ Ne, jen estetický. Rostlině obvykle neškodí, jen listy nevypadají čistě.
 - **Plísně** tvoří povlaky, které po setření **rychle dorůstají**; minerální mapy se po důkladném čištění neobjevují hned znovu (pokud změníte zdroj vody).
 
 ## Obrázky
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

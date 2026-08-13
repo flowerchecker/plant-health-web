@@ -26,4 +26,4 @@ Zu hohe Dosierung, hartes Mischwasser/pH-Fehler, Behandlung in **Sonne/Hitze** o
 Nie in praller Sonne/bei Hitze anwenden; morgens oder abends behandeln; empfindliche Arten bevorzugt mit **sanften** Methoden pflegen (Dusche/Seifenlösung).
 
 ## Bilder
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

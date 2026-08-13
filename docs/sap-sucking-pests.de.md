@@ -29,4 +29,4 @@ Eingeschleppte Schädlinge bei Neukäufen, warme trockene Luft, geschwächte Pfl
 Neue Pflanzen 2–3 Wochen quarantänieren; Luftfeuchte moderat erhöhen; keine Stickstoff-Überdüngung; regelmäßige Sichtkontrollen (Unterseiten!).
 
 ## Bilder
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

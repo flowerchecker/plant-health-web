@@ -25,4 +25,4 @@ Il danno appare solo sulle foglie direttamente colpite dal sole; le nuove foglie
 Schermature e acclimatazioni graduali; attenzione a superfici riflettenti e orari di irrigazione.
 
 ## Immagini
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

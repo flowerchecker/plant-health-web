@@ -31,4 +31,4 @@ Fréquent mais gérable. Ce n’est pas une maladie. Les dégâts esthétiques s
 - Préférez la brumisation ponctuelle seulement pour certaines espèces et jamais en plein soleil.
 
 ## Images
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

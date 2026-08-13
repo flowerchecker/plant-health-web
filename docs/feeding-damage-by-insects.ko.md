@@ -28,4 +28,4 @@
 - 물·비료를 과하거나 부족하지 않게 유지해 식물의 회복력을 높입니다.
 
 ## 이미지
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

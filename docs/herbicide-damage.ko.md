@@ -25,4 +25,4 @@
 - 야외에서는 바람 잔잔하고 선선한 시간대에만, 표기 지침을 철저히 지킵니다.
 
 ## 이미지
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

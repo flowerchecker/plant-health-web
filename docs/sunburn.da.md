@@ -25,4 +25,4 @@ Kosmetisk på gamle blade, men gentagen skade svækker planten og reducerer blad
 - Fjern først de værste pletter, når ny vækst er godt i gang og planten er i balance.
 
 ## Billeder
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

@@ -23,4 +23,4 @@
 - 건강한 생육 환경을 유지하고, 새 식물은 격리 관찰합니다.
 
 ## 이미지
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

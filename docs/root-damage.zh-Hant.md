@@ -27,4 +27,4 @@
 換盆盡量在生長季、帶土團操作；施肥寧稀不濃，每 2–3 個月以清水徹底沖盆一次。
 
 ## 圖片
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

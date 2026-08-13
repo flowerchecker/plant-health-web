@@ -25,4 +25,4 @@ Zmiany występują po stronie najsilniej nasłonecznionej; mają wyraźne granic
 Stopniowa ekspozycja, rotacja donicy, kontrola temperatury przy szybie latem.
 
 ## Zdjęcia
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

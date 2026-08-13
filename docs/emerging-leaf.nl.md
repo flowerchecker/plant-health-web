@@ -28,4 +28,4 @@ De “speer” wordt langer en rolt binnen dagen/weken uit. Geen rotgeur; punt i
 - Bij hard water residu niet vernevelen op nieuw blad.
 
 ## Afbeeldingen
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

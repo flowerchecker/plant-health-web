@@ -25,4 +25,4 @@ Som regel kosmetisk. Nogle arter er dog meget følsomme og får varige pletter p
 - Fjern stærkt plettede blade kun, hvis planten har rigeligt sundt løv.
 
 ## Billeder
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

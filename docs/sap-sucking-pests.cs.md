@@ -29,4 +29,4 @@ Ano, ale při včasném zásahu je dobře zvládnutelný. Po odeznění napaden�
 - **Nedostatek živin** způsobí blednutí, ale **bez lepkavosti**. Pokud jsou listy lepkavé/černé, hledejte škůdce.
 
 ## Obrázky
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

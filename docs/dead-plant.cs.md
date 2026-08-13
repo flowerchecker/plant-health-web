@@ -28,6 +28,6 @@ Ano, obvykle nevratný. Někdy lze zachránit řízky ze zdravých částí, pok
 - **Zimní klid** vs. smrt: v klidu rostlina zpravidla drží pevné kořeny a dřevo zůstává zelené pod kůrou. Při pochybnostech prověřte řezem a kořeny.
 
 ## Obrázky
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

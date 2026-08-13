@@ -25,5 +25,5 @@ Hartes Leitungswasser, Sprühdünger/Pflegemittel, falscher pH der Mischung.
 Empfindliche Arten lieber über Luftfeuchte unterstützen (Kieseltrays, Befeuchter) statt häufig zu besprühen. Regelmäßige, sanfte **Blattpflege** reduziert Ablagerungen.
 
 ## Bilder
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

@@ -27,4 +27,4 @@ Higrometr <40% RH potwierdza suche powietrze. Objawy słabną po zwiększeniu wi
 Utrzymuj 45–60% RH dla większości roślin tropikalnych. Unikaj częstego zraszania gatunków podatnych na plamistości; lepszy jest stabilny poziom wilgotności powietrza.
 
 ## Zdjęcia
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

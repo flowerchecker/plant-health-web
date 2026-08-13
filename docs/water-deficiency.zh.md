@@ -32,8 +32,8 @@
 形成固定的“手测/称重”判断体系；对喜水植物用稍大盆或添加保水颗粒；炎夏上午浇，减少午后压力。
 
 ## 图片
-![water-deficiency.jpg](/assets/water-deficiency.jpg)
-![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
-![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
-![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
-![water-deficiency5.jpg](/assets/water-deficiency5.jpg)
+![water-deficiency.jpg](assets/water-deficiency.jpg)
+![water-deficiency2.jpg](assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](assets/water-deficiency5.jpg)

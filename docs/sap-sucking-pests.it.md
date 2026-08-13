@@ -26,4 +26,4 @@ Controlla il retro delle foglie con una lente. Carta tamponata sulla superficie 
 Quarantena 2–3 settimane per nuovi arrivi; ispezioni regolari; concimazioni equilibrate (no eccesso di azoto).
 
 ## Immagini
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

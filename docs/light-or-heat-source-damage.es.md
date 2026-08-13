@@ -29,4 +29,4 @@ Es un estrés local prevenible con distancia y buena disipación de calor.
 Si el daño persiste pese a ajustar distancia y tiempo, comparte fotos de la instalación para recomendaciones específicas.
 
 ## Imágenes
-![light-or-heat-source-damage.jpg](/assets/light-or-heat-source-damage.jpg)
+![light-or-heat-source-damage.jpg](assets/light-or-heat-source-damage.jpg)

@@ -32,4 +32,4 @@ Yönetilmesi gereken bir **zararlı** problemidir. Erken müdahale etkilidir.
 - Kalabalığı azaltın, hava sirkülasyonu sağlayın.
 
 ## Resimler
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

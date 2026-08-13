@@ -31,4 +31,4 @@ Genellikle **bakım hatası** kaynaklı kozmetik bir sorundur; ileri durumlarda 
 - Sulamada hedef kök bölgesi olsun, yapraklar değil.
 
 ## Resimler
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

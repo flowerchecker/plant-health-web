@@ -33,4 +33,4 @@ Usually yes—both to protect new growth and to avoid secondary infections throu
 - **Leaf miners** leave winding tunnels rather than holes.
 
 ## Images
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

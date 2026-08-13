@@ -32,4 +32,4 @@ Lichte schade is vooral cosmetisch. Zware of aanhoudende schade kan groei remmen
 - Houd deur/raam ’s avonds met licht uit of voorzien van horren.
 
 ## Afbeeldingen
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

@@ -28,4 +28,4 @@ Mineur à modéré selon l’espèce. Les marques existantes ne disparaissent pa
 - Éviter toute eau sur les feuilles poilues et rosettes.
 
 ## Images
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

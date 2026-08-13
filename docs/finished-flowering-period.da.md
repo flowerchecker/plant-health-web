@@ -26,4 +26,4 @@ Nej – det er en naturlig fase. Med let justering af plejen vil planten blomstr
 - Hold jorden let fugtig; undgå store udsving. Tålmodighed er nøglen.
 
 ## Billeder
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

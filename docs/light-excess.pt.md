@@ -25,4 +25,4 @@ Sol de meio-dia, reflexo de vidro, luminária muito próxima.
 **Aclimatação** ao longo de 2–3 semanas e respeito à tolerância específica da espécie.
 
 ## Imagens
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

@@ -29,4 +29,4 @@
 春末夏初谨慎“升光”，强反射环境更要注意；耐阴植物长期不宜直晒。
 
 ## 图片
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

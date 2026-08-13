@@ -25,4 +25,4 @@ La foglia si allunga e si apre in giorni/settimane; assenza di macchie necrotich
 Ambiente stabile e luminoso; routine d’acqua coerente con la specie.
 
 ## Immagini
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

@@ -29,4 +29,4 @@ Voel het hart: zompig of ruikt muf? Trek zachtjes: laat het middenblad los, dan 
 - Zorg voor luchtige potgrond en drainage.
 
 ## Afbeeldingen
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

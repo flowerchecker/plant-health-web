@@ -25,4 +25,4 @@
 - 밤·한랭 시 분무를 피하세요.
 
 ## 이미지
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

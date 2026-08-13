@@ -28,4 +28,4 @@ Schade zit aan de zonkant; binnenzijde is niet zacht/rot tenzij secundaire infec
 - Houd vruchten/stengels weg van heet raamglas.
 
 ## Afbeeldingen
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

@@ -23,4 +23,4 @@ Zapewnij stabilne światło, umiarkowane podlewanie i lekkie nawożenie w sezoni
 Oceniaj liście po pełnym rozwinięciu; rób zdjęcia co 7–10 dni.
 
 ## Zdjęcia
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

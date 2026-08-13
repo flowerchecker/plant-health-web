@@ -27,4 +27,4 @@ Som regel moderat og håndterbart. Kraftigt gnav på unge planter kan dog hæmme
 - Undgå stærke sprøjtemidler indendørs; ved stor udendørs skade kan biologiske midler overvejes efter behov.
 
 ## Billeder
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

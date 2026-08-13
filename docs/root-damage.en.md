@@ -32,4 +32,4 @@ Yes—roots are the engine; prioritize their recovery.
 - **Cold shock** can also cause wilt after draft exposure.
 
 ## Images
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

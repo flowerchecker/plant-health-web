@@ -24,4 +24,4 @@
 - 미네랄이 적은 물을 사용하면 자국이 줄어듭니다.
 
 ## 이미지
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

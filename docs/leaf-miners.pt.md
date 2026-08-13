@@ -25,4 +25,4 @@ Ovos depositados em folhas **tenras**, maior incidência em épocas **quentes**.
 Plantas **vigorosas**, adubação equilibrada (evitar excesso de nitrogênio) e inspeções frequentes em brotações novas.
 
 ## Imagens
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

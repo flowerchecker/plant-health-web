@@ -26,4 +26,4 @@
 春夏移位循序漸進；使用紗簾或遮陽網協助過渡。
 
 ## 圖片
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

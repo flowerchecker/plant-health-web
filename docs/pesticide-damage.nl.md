@@ -30,4 +30,4 @@ Herken timing: schade verschijnt 1–3 dagen na toepassing. Check etiket: kloppe
 - Toepassen bij gedempt licht, koel blad, ’s avonds of vroeg.
 
 ## Afbeeldingen
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

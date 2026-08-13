@@ -30,4 +30,4 @@ Modérée : les zones brûlées restent marquées, mais la plante peut produire 
 - Rotation hebdomadaire du pot pour éviter un côté très exposé.
 
 ## Images
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

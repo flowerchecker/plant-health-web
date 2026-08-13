@@ -26,4 +26,4 @@ Liście i łodygi wyglądają zdrowo, korzenie bez zgnilizny. Brak innych objaw�
 Nie traktuj opadania kwiatów jako choroby, jeśli reszta rośliny jest zdrowa. Stabilne światło i odpowiednie nawożenie wspierają kolejne kwitnienie.
 
 ## Zdjęcia
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

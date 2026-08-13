@@ -29,4 +29,4 @@ Usually minimal. Modify technique to avoid standing droplets in bright light.
 - **Spray residue** from foliar products.
 
 ## Images
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

@@ -26,4 +26,4 @@ Tempistica che coincide con trattamenti in zona; più specie colpite contemporan
 Non usare erbicidi vicino a ornamentali/orti; scegli giornate senza vento; non compostare sfalci trattati; pulisci accuratamente gli attrezzi.
 
 ## Immagini
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

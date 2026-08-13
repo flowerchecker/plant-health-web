@@ -32,4 +32,4 @@ Yes—stop exposure and support recovery. Some cases are reversible; others take
 - **Sap-sucking pests** can distort new growth—inspect closely for insects.
 
 ## Images
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

@@ -31,8 +31,8 @@ Rattrapable si on réhydrate correctement, mais des dessèchements répétés fa
 - Évitez les coups de chaud et améliorez légèrement l’humidité ambiante.
 
 ## Images
-![water-deficiency.jpg](/assets/water-deficiency.jpg)
-![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
-![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
-![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
-![water-deficiency5.jpg](/assets/water-deficiency5.jpg)
+![water-deficiency.jpg](assets/water-deficiency.jpg)
+![water-deficiency2.jpg](assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](assets/water-deficiency5.jpg)

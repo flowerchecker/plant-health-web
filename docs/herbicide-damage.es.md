@@ -29,4 +29,4 @@ Es un problema químico; a menudo reversible si la exposición fue baja, aunque 
 Si el crecimiento nuevo también sale deformado meses después, consulta: puede persistir el residuo y requerir trasplante completo.
 
 ## Imágenes
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

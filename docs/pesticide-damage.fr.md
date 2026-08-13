@@ -31,4 +31,4 @@ Gênant mais souvent limité si intervention rapide. Les tissus brûlés ne gué
 - Respecter strictement les **doses** et ne pas multiplier les produits.
 
 ## Images
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

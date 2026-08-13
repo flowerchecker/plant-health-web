@@ -27,4 +27,4 @@ Heizungsluft, Klimaanlage, direkte Warmluft, sehr warme Standorte ohne Ausgleich
 Empfindliche Arten ganzjährig bei 45–60 % rF halten; im Winter Gießintervalle prüfen (Verdunstung hoch, Durchwurzelung langsam). Fokus auf Luftfeuchte **und** gleichmäßige Bodenfeuchte statt häufigem Besprühen empfindlicher Blätter.
 
 ## Bilder
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

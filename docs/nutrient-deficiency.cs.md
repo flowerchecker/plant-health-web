@@ -28,4 +28,4 @@ Ano, ale řešitelný **postupným** doplněním vyváženého hnojiva a úpravo
 - **Nedostatek světla** také může způsobovat blednutí. Při nedostatku živin zůstává habitus kompaktnější.
 
 ## Obrázky
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

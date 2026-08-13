@@ -25,4 +25,4 @@ Plamy pokrywają miejsca po kroplach; po zaprzestaniu zraszania problem ustępuj
 Zraszaj tylko gatunki, które to tolerują, i tylko rano lub w cieniu; preferuj nawilżacz i tacki z kamykami.
 
 ## Zdjęcia
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

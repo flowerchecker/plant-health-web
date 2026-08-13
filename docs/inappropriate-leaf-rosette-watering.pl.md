@@ -25,4 +25,4 @@ Rozeta jest chłodna i mokra, unosi się zapach zgnilizny; najmłodsze liście m
 Nawyk podlewania po krawędzi donicy, brak zraszania w chłodzie, szybkoschnące podłoże dla rozet.
 
 ## Zdjęcia
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

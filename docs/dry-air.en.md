@@ -32,4 +32,4 @@ Often yes, especially for humidity-loving plants. Improving local humidity reduc
 - **Under-watering** causes similar crisp edges—check soil moisture pattern.
 
 ## Images
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

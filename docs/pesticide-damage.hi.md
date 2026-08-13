@@ -15,4 +15,4 @@
 **रोकथाम:** घरेलू मिश्रण (डिटर्जेंट/अल्कोहल) सोच-समझकर; संवेदनशील प्रजातियों पर कम मात्रा में ही।
 
 ## छवियां
-![pesticide-damage.jpg](/assets/pesticide-damage.jpg)
+![pesticide-damage.jpg](assets/pesticide-damage.jpg)

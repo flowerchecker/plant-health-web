@@ -25,4 +25,4 @@ Plamy odpowiadają kierunkowi światła; brak śladów szkodników i chorób.
 Stopniowa adaptacja do słońca, firanka latem, rozsądne ustawienie lamp względem liści.
 
 ## Zdjęcia
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

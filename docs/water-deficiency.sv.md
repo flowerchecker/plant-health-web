@@ -36,8 +36,8 @@ Ett odlingsproblem – går ofta snabbt att rätta till.
 Reser sig plantan inom 24 h efter vattning och ny tillväxt är frisk, är du på rätt spår.
 
 ## Bilder
-![water-deficiency.jpg](/assets/water-deficiency.jpg)
-![water-deficiency2.jpg](/assets/water-deficiency2.jpg)
-![water-deficiency3.jpg](/assets/water-deficiency3.jpg)
-![water-deficiency4.jpg](/assets/water-deficiency4.jpg)
-![water-deficiency5.jpg](/assets/water-deficiency5.jpg)
+![water-deficiency.jpg](assets/water-deficiency.jpg)
+![water-deficiency2.jpg](assets/water-deficiency2.jpg)
+![water-deficiency3.jpg](assets/water-deficiency3.jpg)
+![water-deficiency4.jpg](assets/water-deficiency4.jpg)
+![water-deficiency5.jpg](assets/water-deficiency5.jpg)

@@ -24,4 +24,4 @@
 - اختر أنواعًا محبة للظل للمناطق المظلمة، أو وفّر إضاءة مساعدة عند الحاجة.
 
 ## الصور
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

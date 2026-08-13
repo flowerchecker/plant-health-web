@@ -33,4 +33,4 @@ Problème esthétique et parfois fonctionnel si la surface foliaire est très r�
 - En extérieur, évitez les lampes qui attirent les noctuelles près des jeunes plants.
 
 ## Images
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

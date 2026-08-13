@@ -31,4 +31,4 @@ Variable ; souvent irréversible pour les feuilles touchées. La plante peut rep
 - Vérifier la provenance des paillages/composts (attention aux résidus persistants).
 
 ## Images
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

@@ -25,4 +25,4 @@
 - في الخارج: رش صباحًا بلا ريح وعلى حرارة معتدلة وبمصدّات رذاذ.
 
 ## الصور
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

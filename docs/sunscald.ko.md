@@ -25,4 +25,4 @@
 - 남향 창에는 여름철 얇은 커튼이나 차광망을 사용하세요.
 
 ## 이미지
-![sunscald.jpg](/assets/sunscald.jpg)
+![sunscald.jpg](assets/sunscald.jpg)

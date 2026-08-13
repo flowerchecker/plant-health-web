@@ -33,4 +33,4 @@ Usually yes—after ruling out root or watering problems.
 - **Light issues** (too dim) also cause weak, pale growth—address light as well.
 
 ## Images
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

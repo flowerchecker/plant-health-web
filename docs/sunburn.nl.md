@@ -28,4 +28,4 @@ Schade enkel aan zonzijde, vaak met scherpe randen; geen plakkerigheid (dus geen
 - Controleer in lente “eerste zonnedagen” extra.
 
 ## Afbeeldingen
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

@@ -25,4 +25,4 @@ Al controllo della zolla, radici sane chiare e sode; radici danneggiate scure, v
 Rinvasare in stagione attiva, manipolare con delicatezza, garantire drenaggio e aerazione costanti.
 
 ## Immagini
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

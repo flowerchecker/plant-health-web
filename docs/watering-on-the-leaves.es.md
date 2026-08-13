@@ -28,4 +28,4 @@ Generalmente estético; puede predisponer a enfermedades si es habitual y el amb
 Si las manchas aumentan o aparecen zonas hundidas y oscuras, consulta para descartar patógenos foliares.
 
 ## Imágenes
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

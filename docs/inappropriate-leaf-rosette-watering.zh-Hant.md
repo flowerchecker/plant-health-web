@@ -25,4 +25,4 @@
 澆水讓水直接進土；噴霧僅作短暫增濕且需 1–2 小時內乾；雨季特別留意心部乾燥。
 
 ## 圖片
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

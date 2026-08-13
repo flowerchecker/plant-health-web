@@ -25,4 +25,4 @@ Pod światło często widać larwę w końcówce korytarza; ścieżka jest ciąg
 Regularne przeglądy, moskitiery latem, 2–3 tygodnie izolacji roślin przywiezionych z zewnątrz.
 
 ## Zdjęcia
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

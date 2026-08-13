@@ -30,4 +30,4 @@
 新植株隔离1–2周；每周翻叶“体检”；避免长期喷黏性叶面光亮剂。坚持温和、连贯的控制策略，通常可在数周内清场。
 
 ## 图片
-![sap-sucking-pests.jpg](/assets/sap-sucking-pests.jpg)
+![sap-sucking-pests.jpg](assets/sap-sucking-pests.jpg)

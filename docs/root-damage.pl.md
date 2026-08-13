@@ -26,4 +26,4 @@ Zdrowe korzenie są jasne i jędrne; chore — brunatne, miękkie, maziste lub k
 Delikatna technika przesadzania, dobra drenażowość, głębokie lecz rzadsze podlewanie oraz okresowe płukanie podłoża przy częstym nawożeniu.
 
 ## Zdjęcia
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

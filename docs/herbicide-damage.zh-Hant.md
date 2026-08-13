@@ -27,4 +27,4 @@
 家中若需除草，選無風時段且遠離盆栽；噴具清楚標示「除草專用」與「園藝防治專用」分開。
 
 ## 圖片
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

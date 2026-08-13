@@ -33,4 +33,4 @@ Kökler mekanik (budama/söküm), çürüme (aşırı su), tuz birikimi veya zar
 - Gübreyi etiket dozunda ve ıslak toprağa uygulayın; periyodik durulamayla tuz birikimini azaltın.
 
 ## Resimler
-![root-damage.jpg](/assets/root-damage.jpg)
+![root-damage.jpg](assets/root-damage.jpg)

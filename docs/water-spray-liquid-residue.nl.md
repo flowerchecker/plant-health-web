@@ -27,5 +27,5 @@ Maak een hoekje schoon met gedestilleerd water. Verdwijnt het? Dan is het residu
 - Beperk bladverneveling bij soorten die er niet van profiteren; verhoog liever de RV in de kamer.
 
 ## Afbeeldingen
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

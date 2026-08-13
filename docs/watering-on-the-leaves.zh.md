@@ -29,4 +29,4 @@
 牢记“湿叶+强光/低温=风险”。把水留给根，把叶保持干爽，是最简单有效的办法。
 
 ## 图片
-![watering-on-the-leaves.jpg](/assets/watering-on-the-leaves.jpg)
+![watering-on-the-leaves.jpg](assets/watering-on-the-leaves.jpg)

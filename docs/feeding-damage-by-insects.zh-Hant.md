@@ -28,4 +28,4 @@
 保持介質表面清潔、避免長期潮濕；夜間巡查最有效，連續 1–2 週可明顯降低族群。
 
 ## 圖片
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

@@ -30,6 +30,6 @@ Zdrap paznokciem odrobinę skórki z pędu: jeśli pod spodem nie ma zieleni, tk
 Drenaż i przewiewne podłoże, donice z otworami, właściwe światło, regularne kontrole wilgotności palcem/sondą, stopniowa aklimatyzacja po zakupie i przesadzeniu.
 
 ## Zdjęcia
-![dead_plant.jpg](/assets/dead_plant.jpg)
-![dead_plant2.jpg](/assets/dead_plant2.jpg)
-![dead_plant3.jpg](/assets/dead_plant3.jpg)
+![dead_plant.jpg](assets/dead_plant.jpg)
+![dead_plant2.jpg](assets/dead_plant2.jpg)
+![dead_plant3.jpg](assets/dead_plant3.jpg)

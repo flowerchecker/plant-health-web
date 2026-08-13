@@ -14,4 +14,4 @@
 **रोकथाम:** गर्मियों की दोपहर में खिड़की से दूरी, परावर्तक काँच/दीवारों का ध्यान।
 
 ## छवियां
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

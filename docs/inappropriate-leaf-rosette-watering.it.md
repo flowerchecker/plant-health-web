@@ -25,4 +25,4 @@ Cuore molle/nero e maleodorante nelle rosette sensibili; bromeliacee con calice 
 Conoscere l’esigenza specifica: mai acqua nel cuore per violette africane e molte succulente; calice pieno per molte bromeliacee.
 
 ## Immagini
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

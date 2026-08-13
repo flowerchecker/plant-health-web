@@ -26,4 +26,4 @@ Substrato pobre/antigo, pH fora do ideal, regas excessivas que **lixiviam** nutr
 Plano de **nutrição constante**, replantios periódicos e rega correta para não lavar nutrientes em excesso.
 
 ## Imagens
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

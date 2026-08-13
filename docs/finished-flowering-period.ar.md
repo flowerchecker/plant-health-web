@@ -26,4 +26,4 @@
 - تجنّب نقل النبات المتكرر أثناء تكوين البراعم.
 
 ## الصور
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

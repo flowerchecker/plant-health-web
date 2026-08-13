@@ -28,4 +28,4 @@
 避免频繁搬动与忽冷忽热；新叶期更注重温柔管理。看到新生，就是最好的健康信号。
 
 ## 图片
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

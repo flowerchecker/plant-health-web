@@ -29,4 +29,4 @@ Généralement modérée sur plantes d’intérieur, mais peut devenir inesthét
 - Éviter les traitements foliaires inutiles qui éliminent les auxiliaires au jardin.
 
 ## Images
-![leaf-miners.jpg](/assets/leaf-miners.jpg)
+![leaf-miners.jpg](assets/leaf-miners.jpg)

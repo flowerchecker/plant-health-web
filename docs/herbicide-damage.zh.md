@@ -29,4 +29,4 @@
 喷具专壶专用并贴签管理；与邻里约定喷药时段与风向；自制堆肥来源要可追溯。
 
 ## 图片
-![herbicide_damage.jpg](/assets/herbicide_damage.jpg)
+![herbicide_damage.jpg](assets/herbicide_damage.jpg)

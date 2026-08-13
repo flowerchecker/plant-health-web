@@ -25,4 +25,4 @@
 - راقب حرارة الورقة باللمس (دافئة لا حارّة).
 
 ## الصور
-![light-excess.jpg](/assets/light-excess.jpg)
+![light-excess.jpg](assets/light-excess.jpg)

@@ -26,4 +26,4 @@
 - 꽃눈이 생길 때는 잦은 위치 이동을 피합니다.
 
 ## 이미지
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

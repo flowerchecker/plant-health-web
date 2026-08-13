@@ -32,4 +32,4 @@ Controleer EC/zout via doorspoelen: als het uitloopwater sterk ruikt/veel schuim
 - Jaarlijks (deels) verversen van potgrond.
 
 ## Afbeeldingen
-![nutrient-deficiency.jpg](/assets/nutrient-deficiency.jpg)
+![nutrient-deficiency.jpg](assets/nutrient-deficiency.jpg)

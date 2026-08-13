@@ -23,4 +23,4 @@
 維持日夜溫差 3–7°C、穩定光照時數與溫和通風，新葉展開會更整齊健壯。
 
 ## 圖片
-![emerging-leaf.jpg](/assets/emerging-leaf.jpg)
+![emerging-leaf.jpg](assets/emerging-leaf.jpg)

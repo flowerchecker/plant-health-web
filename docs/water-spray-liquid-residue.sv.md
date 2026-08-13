@@ -32,5 +32,5 @@ Oftast ofarligt och kosmetiskt – inte en sjukdom.
 När fläckarna är ytliga och växten mår bra i övrigt. Sikta på att kommande blad blir “fläckfria”.
 
 ## Bilder
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

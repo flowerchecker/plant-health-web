@@ -25,4 +25,4 @@
 - استخدم ستائر خفيفة وابتعد قليلًا عن الزجاج الحار.
 
 ## الصور
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

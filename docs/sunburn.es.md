@@ -29,4 +29,4 @@ Es un estrés ambiental; las cicatrices quedan, pero puede evitarse con filtrado
 Si, aun con menos luz, aparecen nuevas lesiones, revisa calor de lámparas o carencias y pide revisión con fotos.
 
 ## Imágenes
-![sunburn.jpg](/assets/sunburn.jpg)
+![sunburn.jpg](assets/sunburn.jpg)

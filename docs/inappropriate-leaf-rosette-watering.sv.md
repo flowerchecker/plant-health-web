@@ -34,4 +34,4 @@ Odlingsproblem som kan bli allvarligt om det fortsätter.
 Tidigt upptäckt räcker ofta torkning och ändrad vattning för att stoppa skadan.
 
 ## Bilder
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

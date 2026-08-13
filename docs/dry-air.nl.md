@@ -30,4 +30,4 @@ Gebruik een eenvoudige hygrometer: streef 45–60% RV (veel tropische soorten wa
 - Bij gevoelige soorten: grotere pot, dikkere mulchlaag (schors, kokoschips) om verdamping te vertragen.
 
 ## Afbeeldingen
-![dry_air.jpg](/assets/dry_air.jpg)
+![dry_air.jpg](assets/dry_air.jpg)

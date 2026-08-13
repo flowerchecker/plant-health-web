@@ -28,5 +28,5 @@ Es inofensivo y estético. Solo preocupa si se acumula crónicamente o indica us
 Si aparecen manchas que se expanden o con halo amarillento/marrón, podría ser daño químico u hongo; consulta con fotos.
 
 ## Imágenes
-![water-spray-liquid-residue.jpg](/assets/water-spray-liquid-residue.jpg)
-![water-spray-liquid-residue2.jpg](/assets/water-spray-liquid-residue2.jpg)
+![water-spray-liquid-residue.jpg](assets/water-spray-liquid-residue.jpg)
+![water-spray-liquid-residue2.jpg](assets/water-spray-liquid-residue2.jpg)

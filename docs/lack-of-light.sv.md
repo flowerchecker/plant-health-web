@@ -32,4 +32,4 @@ Odlingsproblem – lätt att åtgärda med mer ljus.
 Gängliga skott kan klippas tillbaka på våren. Ny, kompakt tillväxt tar vid med rätt ljus.
 
 ## Bilder
-![lack-of-light.jpg](/assets/lack-of-light.jpg)
+![lack-of-light.jpg](assets/lack-of-light.jpg)

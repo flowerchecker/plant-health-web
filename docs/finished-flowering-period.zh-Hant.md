@@ -26,4 +26,4 @@
 熟悉品種花期與誘因（光照時數、日夜溫差）；在預期開花前 4–6 週補充磷鉀與充足光照。
 
 ## 圖片
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)

@@ -39,4 +39,4 @@ Ett verkligt men oftast hanterbart problem. Växter återhämtar sig när angrep
 Några hål skadar sällan växten långsiktigt. Klipp bort värst skadade blad och låt ny tillväxt ta över.
 
 ## Bilder
-![feeding_damage_by_insects.jpg](/assets/feeding_damage_by_insects.jpg)
+![feeding_damage_by_insects.jpg](assets/feeding_damage_by_insects.jpg)

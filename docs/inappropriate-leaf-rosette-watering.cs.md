@@ -28,4 +28,4 @@ Ano, může být **fatální**, pokud následuje hniloba.
 - **Přemokření** obecně způsobuje hnilobu kořenů; u růžic je však **první postižen právě střed** rostliny.
 
 ## Obrázky
-![inappropriate-leaf-rosette-watering.jpg](/assets/inappropriate-leaf-rosette-watering.jpg)
+![inappropriate-leaf-rosette-watering.jpg](assets/inappropriate-leaf-rosette-watering.jpg)

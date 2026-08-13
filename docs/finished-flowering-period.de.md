@@ -26,4 +26,4 @@ Saisonale Blühzyklen; Standortwechsel/Transport kann den Abschluss leicht vorzi
 Artgerechte **Ruhezeit** respektieren (je nach Art kühler/heller). Später wieder aufbauend düngen; gleichmäßige Pflege ohne große Wechsel – Knospen lieben **Konstanz**.
 
 ## Bilder
-![finished_flowering_period.jpg](/assets/finished_flowering_period.jpg)
+![finished_flowering_period.jpg](assets/finished_flowering_period.jpg)
